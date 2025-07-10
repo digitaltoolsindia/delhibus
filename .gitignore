@@ -1,0 +1,17 @@
+
+# Ignore node modules (if JS packages added later)
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore build artifacts (if any)
+dist/
+build/
+
+# Ignore sensitive keys (if API keys are added later)
+.env
