@@ -3,81 +3,135 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Find Bus Route - Delhibus</title>
+  <title>Find Bus Route – Delhibus</title>
+
+  <!-- GoatCounter (optional) -->
+  <script data-goatcounter="https://gaurigupta.goatcounter.com/count"
+          async src="https://gc.zgo.at/count.js"></script>
+
+  <!-- Delhi Bus API Configuration -->
+  <script>
+    const DELHI_API_KEY  = 'ipqgRekObAg25p2FyroHJydpV0x289s5';
+    const DELHI_API_BASE = 'https://api.dtc.delhi.gov.in/v1';
+  </script>
+
+  <!-- Styles -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
   <style>
-    body { font-family: sans-serif; padding: 1em; background: #f9f9f9; }
-    h1 { text-align: center; color: #4CAF50; }
-    .form { max-width: 500px; margin: auto; background: #fff; padding: 2em; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.05); }
-    label, select, button { display: block; width: 100%; margin: 1em 0; font-size: 1em; }
-    button { background: #4CAF50; color: white; padding: 0.8em; border: none; border-radius: 8px; cursor: pointer; }
-    button:hover { background: #45a049; }
-    #result { margin-top: 2em; text-align: center; font-size: 1.1em; }
+    body { font-family: sans-serif; background: #f9f9f9; margin: 0; padding: 0; }
+    header { background: #0078D7; color: white; padding: 1em; text-align: center; }
+    h1 { margin: 0; font-size: 1.5em; }
+    .form-container {
+      max-width: 500px; margin: 2em auto; padding: 2em; background: #fff;
+      border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    label { display: block; margin-top: 1em; font-weight: bold; }
+    select, button {
+      width: 100%; padding: 0.75em; margin-top: 0.5em; font-size: 1em;
+      border-radius: 4px; border: 1px solid #ccc;
+    }
+    button {
+      background: #0078D7; color: white; border: none; margin-top: 1.5em;
+      cursor: pointer; transition: background 0.2s;
+    }
+    button:hover { background: #005fa3; }
+    #result {
+      margin-top: 2em; text-align: center; font-size: 1.1em; color: #333;
+    }
+    .loading { color: #0078D7; }
   </style>
 </head>
 <body>
-  <h1>🚌 Find Your Bus Route</h1>
-  <div class="form">
+
+  <header>
+    <h1>🚌 Find Bus Route</h1>
+  </header>
+
+  <div class="form-container">
     <label for="source">Starting Bus Stand</label>
-    <select id="source"></select>
+    <select id="source"><option>Loading…</option></select>
 
     <label for="destination">Destination Bus Stand</label>
-    <select id="destination"></select>
+    <select id="destination"><option>Loading…</option></select>
 
-    <button onclick="findRoute()">Find Route</button>
+    <button id="findBtn">Find Route</button>
     <div id="result"></div>
   </div>
 
-  <script src="js/routes.js"></script>
   <script>
+    let stops = [], routes = [];
     const sourceSelect = document.getElementById('source');
-    const destSelect = document.getElementById('destination');
-    const resultBox = document.getElementById('result');
+    const destSelect   = document.getElementById('destination');
+    const resultBox    = document.getElementById('result');
+    const findBtn      = document.getElementById('findBtn');
 
+    // Populate dropdowns
     function populateDropdowns() {
+      sourceSelect.innerHTML = '';
+      destSelect.innerHTML   = '';
       stops.forEach(stop => {
-        const opt1 = new Option(stop.name, stop.name);
-        const opt2 = new Option(stop.name, stop.name);
-        sourceSelect.add(opt1);
-        destSelect.add(opt2);
+        const o1 = new Option(stop.name, stop.name);
+        const o2 = new Option(stop.name, stop.name);
+        sourceSelect.add(o1);
+        destSelect.add(o2);
       });
     }
 
+    // Find nearest stop by geolocation
     function findNearest(lat, lon) {
-      let minDist = Infinity;
-      let nearest = null;
-      for (const stop of stops) {
-        const d = Math.sqrt(Math.pow(lat - stop.lat, 2) + Math.pow(lon - stop.lon, 2));
-        if (d < minDist) {
-          minDist = d;
-          nearest = stop.name;
-        }
-      }
+      let minD = Infinity, nearest = null;
+      stops.forEach(s => {
+        const d = Math.hypot(lat - s.lat, lon - s.lon);
+        if (d < minD) { minD = d; nearest = s.name; }
+      });
       return nearest;
     }
 
+    // Auto-locate user and pre-select
     function geolocateAndPreselect() {
-      if (navigator.geolocation) {
-        navigator.geolocation.getCurrentPosition(pos => {
-          const nearest = findNearest(pos.coords.latitude, pos.coords.longitude);
-          sourceSelect.value = nearest;
-        }, err => console.warn("Geolocation error", err));
-      }
+      if (!navigator.geolocation) return;
+      navigator.geolocation.getCurrentPosition(pos => {
+        const nearest = findNearest(pos.coords.latitude, pos.coords.longitude);
+        if (nearest) sourceSelect.value = nearest;
+      });
     }
 
-    function findRoute() {
-      const from = sourceSelect.value;
-      const to = destSelect.value;
-      const route = routes.find(r => r.from === from && r.to === to);
-      if (route) {
-        resultBox.innerHTML = `Available Buses: <strong>${route.buses.join(', ')}</strong>`;
-      } else {
-        resultBox.innerHTML = "No direct route found. Please try nearby stands.";
-      }
-    }
+    // Fetch stops.json
+    fetch('data/stops.json')
+      .then(r => r.json())
+      .then(data => {
+        stops = data;
+        populateDropdowns();
+        geolocateAndPreselect();
+      });
 
-    populateDropdowns();
-    geolocateAndPreselect();
+    // On click, call real-time API
+    findBtn.addEventListener('click', async () => {
+      const from = encodeURIComponent(sourceSelect.value);
+      const to   = encodeURIComponent(destSelect.value);
+      const url  = `${DELHI_API_BASE}/routes?from=${from}&to=${to}`;
+
+      resultBox.innerHTML = '<span class="loading">Loading…</span>';
+      try {
+        const res = await fetch(url, {
+          headers: { 'x-api-key': DELHI_API_KEY }
+        });
+        if (!res.ok) throw new Error(`Error ${res.status}`);
+        const json = await res.json();
+        if (json.buses && json.buses.length) {
+          resultBox.innerHTML = 
+            `Available Buses: <strong>${json.buses.join(', ')}</strong>`;
+        } else {
+          resultBox.innerHTML = 
+            "No direct buses found. Try a nearby stand or different route.";
+        }
+      } catch (e) {
+        console.error(e);
+        resultBox.innerHTML = 
+          "Failed to fetch routes. Please try again later.";
+      }
+    });
   </script>
+
 </body>
 </html>
