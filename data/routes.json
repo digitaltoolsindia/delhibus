@@ -1,0 +1,10 @@
+[
+  { "from": "ISBT Kashmere Gate", "to": "Lajpat Nagar", "buses": ["543", "425"] },
+  { "from": "ISBT Kashmere Gate", "to": "AIIMS", "buses": ["548", "611"] },
+  { "from": "Lajpat Nagar", "to": "Connaught Place", "buses": ["534"] },
+  { "from": "Saket", "to": "Dwarka", "buses": ["764"] },
+  { "from": "Rajouri Garden", "to": "Karol Bagh", "buses": ["567"] },
+  { "from": "Connaught Place", "to": "ISBT Kashmere Gate", "buses": ["901"] },
+  { "from": "AIIMS", "to": "Karol Bagh", "buses": ["984"] },
+  { "from": "Dwarka", "to": "Saket", "buses": ["764"] }
+]
