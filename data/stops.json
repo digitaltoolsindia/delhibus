@@ -1,0 +1,13 @@
+<script>
+  let stops = [], routes = [];
+  fetch('data/stops.json')
+    .then(res => res.json())
+    .then(s => {
+      stops = s;
+      populateDropdowns();
+      geolocateAndPreselect();
+  });
+  fetch('data/routes.json')
+    .then(res => res.json())
+    .then(r => { routes = r; });
+</script>
