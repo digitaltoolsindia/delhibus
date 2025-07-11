@@ -4,14 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Find Bus Route – Delhibus</title>
-
-  <!-- Delhi Bus API Configuration -->
-  <script>
-    const DELHI_API_KEY  = 'ipqgRekObAg25p2FyroHJydpV0x289s5';
-    const DELHI_API_BASE = 'https://api.dtc.delhi.gov.in/v1';
-  </script>
-
-  <!-- Inline Styles -->
   <style>
     body { font-family: sans-serif; background: #f9f9f9; margin:0; padding:0; }
     header { background:#0078D7; color:#fff; padding:1em; text-align:center; }
@@ -55,13 +47,27 @@
   </div>
 
   <script>
-    let stops = [];
+    let stops = [], routes = [];
     const sourceSelect = document.getElementById('source');
     const destSelect   = document.getElementById('destination');
     const resultBox    = document.getElementById('result');
     const findBtn      = document.getElementById('findBtn');
 
-    // Populate the dropdowns from stops[]
+    // Load stops
+    fetch('https://digitaltoolsindia.github.io/delhibus/data/stops.json')
+      .then(res => res.json())
+      .then(data => {
+        stops = data;
+        populateDropdowns();
+        geolocateAndPreselect();
+      });
+
+    // Load routes
+    fetch('https://digitaltoolsindia.github.io/delhibus/data/routes.json')
+      .then(res => res.json())
+      .then(data => { routes = data; });
+
+    // Fill dropdowns
     function populateDropdowns() {
       sourceSelect.innerHTML = '';
       destSelect.innerHTML   = '';
@@ -90,46 +96,21 @@
       });
     }
 
-    // 1️⃣ Load stops.json (absolute path)
-    fetch('/delhibus/data/stops.json')
-      .then(res => {
-        if (!res.ok) throw new Error('Stops file not found');
-        return res.json();
-      })
-      .then(data => {
-        stops = data;
-        populateDropdowns();
-        geolocateAndPreselect();
-      })
-      .catch(err => {
-        console.error(err);
-        resultBox.innerHTML = 'Failed to load bus stands.';
-      });
-
-    // 2️⃣ On button click, call the real-time API
-    findBtn.addEventListener('click', async () => {
-      const from = encodeURIComponent(sourceSelect.value);
-      const to   = encodeURIComponent(destSelect.value);
-      const url  = `${DELHI_API_BASE}/routes?from=${from}&to=${to}`;
-
-      resultBox.innerHTML = '<span class="loading">Loading…</span>';
-      try {
-        const r = await fetch(url, { headers: { 'x-api-key': DELHI_API_KEY } });
-        if (!r.ok) throw new Error(`API ${r.status}`);
-        const json = await r.json();
-        if (json.buses && json.buses.length) {
-          resultBox.innerHTML = 
-            `Available Buses: <strong>${json.buses.join(', ')}</strong>`;
-        } else {
-          resultBox.innerHTML = 
-            "No direct buses found. Try another stand or nearby stops.";
-        }
-      } catch (e) {
-        console.error(e);
-        resultBox.textContent = 'Error fetching routes. Please try again later.';
+    // Route search logic (static)
+    function findRoute() {
+      const from = sourceSelect.value;
+      const to   = destSelect.value;
+      const found = routes.find(r => r.from === from && r.to === to);
+      if (found) {
+        resultBox.innerHTML = `Available Buses: <strong>${found.buses.join(', ')}</strong>`;
+      } else {
+        resultBox.innerHTML = "No direct buses found for this route.";
       }
-    });
+    }
+
+    findBtn.addEventListener('click', findRoute);
   </script>
 
 </body>
 </html>
+
