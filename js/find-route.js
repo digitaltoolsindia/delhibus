@@ -1,104 +1,102 @@
-let stops = [];
-
-async function loadStops() {
-  const response = await fetch('data/stops.json');
-  stops = await response.json();
-  populateDropdowns();
-  detectLocationAndSelectNearestStop();
+async function loadData(file) {
+  const response = await fetch(file);
+  return await response.json();
 }
 
-function populateDropdowns() {
-  const fromSelect = document.getElementById('fromStop');
-  const toSelect = document.getElementById('toStop');
+async function getAvailableRoutes(fromStop, toStop) {
+  const [trips, routes] = await Promise.all([
+    loadData("data/trips.json"),
+    loadData("data/routes.json")
+  ]);
 
-  stops.forEach(stop => {
-    const option1 = new Option(stop.stop_name, stop.stop_id);
-    const option2 = new Option(stop.stop_name, stop.stop_id);
-    fromSelect.add(option1);
-    toSelect.add(option2);
-  });
-}
+  const allStopTimes = [];
 
-function findRoute() {
-  const fromId = document.getElementById('fromStop').value;
-  const toId = document.getElementById('toStop').value;
-
-  if (!fromId || !toId) {
-    alert("Please select both stops.");
-    return;
+  for (let i = 1; i <= 38; i++) {
+    const chunk = await loadData(`data/stop_times_${i}.json`);
+    allStopTimes.push(...chunk);
   }
 
-  const matchingTrips = stopTimesData.reduce((acc, entry) => {
-    acc[entry.trip_id] = acc[entry.trip_id] || [];
-    acc[entry.trip_id].push(entry.stop_id);
-    return acc;
-  }, {});
-
-  const possibleTrips = Object.entries(matchingTrips).filter(([tripId, stops]) => {
-    return stops.includes(fromId) && stops.includes(toId) && stops.indexOf(fromId) < stops.indexOf(toId);
+  const stopTimeMap = {};
+  allStopTimes.forEach((entry, index) => {
+    if (!stopTimeMap[entry.trip_id]) stopTimeMap[entry.trip_id] = [];
+    stopTimeMap[entry.trip_id].push({ stop_id: entry.stop_id, index });
   });
 
-  const resultsDiv = document.getElementById('routeResults');
-  resultsDiv.innerHTML = "";
+  const validRouteIds = new Set();
 
-  if (possibleTrips.length === 0) {
-    resultsDiv.innerHTML = "No direct route found.";
-  } else {
-    resultsDiv.innerHTML = `<strong>Found ${possibleTrips.length} matching route(s).</strong>`;
+  for (const trip_id in stopTimeMap) {
+    const stops = stopTimeMap[trip_id].map(e => e.stop_id);
+    const fromIndex = stops.indexOf(fromStop);
+    const toIndex = stops.indexOf(toStop);
+
+    if (fromIndex !== -1 && toIndex !== -1 && fromIndex < toIndex) {
+      const trip = trips.find(t => t.trip_id === trip_id);
+      if (trip) validRouteIds.add(trip.route_id);
+    }
   }
+
+  const matchedRoutes = routes.filter(r => validRouteIds.has(r.route_id));
+  return matchedRoutes.map(r => r.route_short_name || r.route_id);
 }
 
-function detectLocationAndSelectNearestStop() {
-  if (!navigator.geolocation) {
-    console.warn("Geolocation not supported.");
-    return;
-  }
+function populateStops() {
+  fetch("data/stops.json")
+    .then(response => response.json())
+    .then(data => {
+      const fromSelect = document.getElementById("fromStop");
+      const toSelect = document.getElementById("toStop");
 
-  navigator.geolocation.getCurrentPosition(position => {
-    const userLat = position.coords.latitude;
-    const userLon = position.coords.longitude;
+      data.forEach(stop => {
+        const option1 = new Option(stop.stop_name, stop.stop_id);
+        const option2 = new Option(stop.stop_name, stop.stop_id);
+        fromSelect.add(option1);
+        toSelect.add(option2);
+      });
 
-    let nearestStop = null;
-    let minDistance = Infinity;
+      if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(position => {
+          const userLat = position.coords.latitude;
+          const userLon = position.coords.longitude;
+          let nearestStop = data[0];
+          let minDist = Infinity;
 
-    stops.forEach(stop => {
-      const dist = getDistance(userLat, userLon, parseFloat(stop.stop_lat), parseFloat(stop.stop_lon));
-      if (dist < minDistance) {
-        minDistance = dist;
-        nearestStop = stop;
+          data.forEach(stop => {
+            const dist = Math.sqrt(
+              Math.pow(stop.stop_lat - userLat, 2) + Math.pow(stop.stop_lon - userLon, 2)
+            );
+            if (dist < minDist) {
+              minDist = dist;
+              nearestStop = stop;
+            }
+          });
+
+          fromSelect.value = nearestStop.stop_id;
+        });
       }
     });
+}
 
-    if (nearestStop) {
-      document.getElementById('fromStop').value = nearestStop.stop_id;
-      console.log(`📍 Nearest stop auto-selected: ${nearestStop.stop_name}`);
+document.addEventListener("DOMContentLoaded", () => {
+  populateStops();
+
+  document.getElementById("findRouteBtn").addEventListener("click", async () => {
+    const fromStop = document.getElementById("fromStop").value;
+    const toStop = document.getElementById("toStop").value;
+
+    if (!fromStop || !toStop) {
+      alert("Please select both From and To stops.");
+      return;
     }
-  }, err => {
-    console.warn("Location access denied or unavailable.");
+
+    const resultDiv = document.getElementById("result");
+    resultDiv.innerHTML = "⏳ Finding routes...";
+
+    const routes = await getAvailableRoutes(fromStop, toStop);
+
+    if (routes.length === 0) {
+      resultDiv.innerHTML = "❌ No direct bus route found from A to B.";
+    } else {
+      resultDiv.innerHTML = `<b>🚌 Available Routes:</b><br>${routes.join("<br>")}`;
+    }
   });
-}
-
-function getDistance(lat1, lon1, lat2, lon2) {
-  const R = 6371e3;
-  const φ1 = lat1 * Math.PI/180;
-  const φ2 = lat2 * Math.PI/180;
-  const Δφ = (lat2-lat1) * Math.PI/180;
-  const Δλ = (lon2-lon1) * Math.PI/180;
-
-  const a = Math.sin(Δφ/2) * Math.sin(Δφ/2) +
-            Math.cos(φ1) * Math.cos(φ2) *
-            Math.sin(Δλ/2) * Math.sin(Δλ/2);
-  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
-
-  const d = R * c;
-  return d;
-}
-
-window.addEventListener("DOMContentLoaded", () => {
-  loadStops();
-
-  const searchBtn = document.getElementById("findRouteBtn");
-  if (searchBtn) {
-    searchBtn.addEventListener("click", findRoute);
-  }
 });
