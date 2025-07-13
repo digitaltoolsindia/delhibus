@@ -2,43 +2,82 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Delhibus</title>
-  <link href="css/style.css" rel="stylesheet" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
-
-  <!-- GoatCounter Analytics -->
-  <script data-goatcounter="https://gaurigupta.goatcounter.com/count"
-          async src="https://gc.zgo.at/count.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>DelhiBus - Find Your Bus</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f2f2f2;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 600px;
+      margin: auto;
+      background: #fff;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h2 {
+      text-align: center;
+      color: #333;
+    }
+    label {
+      display: block;
+      margin: 10px 0 5px;
+      font-weight: bold;
+    }
+    select, button {
+      width: 100%;
+      padding: 12px;
+      font-size: 16px;
+      margin-bottom: 15px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+    }
+    button {
+      background: #2196F3;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #1976D2;
+    }
+    #routeResults {
+      margin-top: 20px;
+      font-weight: bold;
+      text-align: center;
+    }
+  </style>
 </head>
 <body>
-  <header>
-    <h1>🚌 Delhibus</h1>
-    <p>Your smart bus route assistant</p>
-  </header>
 
-  <section class="grid">
-    <a href="nearby.html" class="card"><i class="fas fa-map-marker-alt"></i><span>Nearby Stops</span></a>
-    <a href="route.html" class="card"><i class="fas fa-route"></i><span>Bus Routes</span></a>
-    <a href="map.html" class="card"><i class="fas fa-map"></i><span>Stand Map</span></a>
-    <a href="search.html" class="card"><i class="fas fa-search-location"></i><span>Search</span></a>
-    <a href="plan.html" class="card"><i class="fas fa-bus"></i><span>Journey Planner</span></a>
-    <a href="about.html" class="card"><i class="fas fa-info-circle"></i><span>About</span></a>
-  </section>
+  <div class="container">
+    <h2>🚌 Find a Bus Route</h2>
 
-  <footer>
-    <p>No data is stored. Privacy-first design.</p>
-  </footer>
-</body>
+    <label for="fromStop">From (Your Location or Choose):</label>
+    <select id="fromStop">
+      <option value="">Select starting stop</option>
+    </select>
+
+    <label for="toStop">To (Destination):</label>
+    <select id="toStop">
+      <option value="">Select destination stop</option>
+    </select>
+
+    <button id="findRouteBtn">🔍 Find Route</button>
+
+    <div id="routeResults"></div>
+  </div>
+
+  <!-- JavaScript files -->
   <script src="js/load_stop_times.js"></script>
-<script>
-  // Load all stop_times parts before enabling Find Route functionality
-  loadAllStopTimes().then(() => {
-    console.log("🟢 stopTimesData is ready for use.");
-    // You can now initialize dropdowns, route search etc.
-  });
-</script>
-
-<script src="js/find-route.js"></script>
-<!-- You can also add nearby.js and map.js later -->
+  <script>
+    loadAllStopTimes().then(() => {
+      console.log("🟢 stopTimesData is ready for use.");
+    });
+  </script>
+  <script src="js/find-route.js"></script>
+</body>
 </html>
