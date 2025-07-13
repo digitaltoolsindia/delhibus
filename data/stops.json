@@ -1,0 +1,62 @@
+[
+  {
+    "stop_id": "stop_0001",
+    "stop_name": "AIIMS",
+    "stop_lat": 28.5671,
+    "stop_lon": 77.2108
+  },
+  {
+    "stop_id": "stop_0002",
+    "stop_name": "Lajpat Nagar",
+    "stop_lat": 28.5735,
+    "stop_lon": 77.2433
+  },
+  {
+    "stop_id": "stop_0003",
+    "stop_name": "Kashmere Gate ISBT",
+    "stop_lat": 28.6672,
+    "stop_lon": 77.2274
+  },
+  {
+    "stop_id": "stop_0004",
+    "stop_name": "Saket",
+    "stop_lat": 28.5205,
+    "stop_lon": 77.2066
+  },
+  {
+    "stop_id": "stop_0005",
+    "stop_name": "Nehru Place",
+    "stop_lat": 28.5494,
+    "stop_lon": 77.2513
+  },
+  {
+    "stop_id": "stop_0006",
+    "stop_name": "Moolchand",
+    "stop_lat": 28.5667,
+    "stop_lon": 77.2347
+  },
+  {
+    "stop_id": "stop_0007",
+    "stop_name": "Green Park",
+    "stop_lat": 28.5675,
+    "stop_lon": 77.209
+  },
+  {
+    "stop_id": "stop_0008",
+    "stop_name": "INA",
+    "stop_lat": 28.5742,
+    "stop_lon": 77.21
+  },
+  {
+    "stop_id": "stop_0009",
+    "stop_name": "Malviya Nagar",
+    "stop_lat": 28.5378,
+    "stop_lon": 77.2101
+  },
+  {
+    "stop_id": "stop_0010",
+    "stop_name": "Delhi Gate",
+    "stop_lat": 28.6417,
+    "stop_lon": 77.2481
+  }
+]
