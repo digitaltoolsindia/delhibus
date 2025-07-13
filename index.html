@@ -30,4 +30,15 @@
     <p>No data is stored. Privacy-first design.</p>
   </footer>
 </body>
+  <script src="js/load_stop_times.js"></script>
+<script>
+  // Load all stop_times parts before enabling Find Route functionality
+  loadAllStopTimes().then(() => {
+    console.log("🟢 stopTimesData is ready for use.");
+    // You can now initialize dropdowns, route search etc.
+  });
+</script>
+
+<script src="js/find-route.js"></script>
+<!-- You can also add nearby.js and map.js later -->
 </html>
