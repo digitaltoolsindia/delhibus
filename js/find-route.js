@@ -1,11 +1,10 @@
-// This file must be called only after stopTimesData is fully loaded
-
 let stops = [];
 
 async function loadStops() {
   const response = await fetch('data/stops.json');
   stops = await response.json();
   populateDropdowns();
+  detectLocationAndSelectNearestStop();
 }
 
 function populateDropdowns() {
@@ -49,7 +48,52 @@ function findRoute() {
   }
 }
 
-// Trigger on page load
+function detectLocationAndSelectNearestStop() {
+  if (!navigator.geolocation) {
+    console.warn("Geolocation not supported.");
+    return;
+  }
+
+  navigator.geolocation.getCurrentPosition(position => {
+    const userLat = position.coords.latitude;
+    const userLon = position.coords.longitude;
+
+    let nearestStop = null;
+    let minDistance = Infinity;
+
+    stops.forEach(stop => {
+      const dist = getDistance(userLat, userLon, parseFloat(stop.stop_lat), parseFloat(stop.stop_lon));
+      if (dist < minDistance) {
+        minDistance = dist;
+        nearestStop = stop;
+      }
+    });
+
+    if (nearestStop) {
+      document.getElementById('fromStop').value = nearestStop.stop_id;
+      console.log(`📍 Nearest stop auto-selected: ${nearestStop.stop_name}`);
+    }
+  }, err => {
+    console.warn("Location access denied or unavailable.");
+  });
+}
+
+function getDistance(lat1, lon1, lat2, lon2) {
+  const R = 6371e3;
+  const φ1 = lat1 * Math.PI/180;
+  const φ2 = lat2 * Math.PI/180;
+  const Δφ = (lat2-lat1) * Math.PI/180;
+  const Δλ = (lon2-lon1) * Math.PI/180;
+
+  const a = Math.sin(Δφ/2) * Math.sin(Δφ/2) +
+            Math.cos(φ1) * Math.cos(φ2) *
+            Math.sin(Δλ/2) * Math.sin(Δλ/2);
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+
+  const d = R * c;
+  return d;
+}
+
 window.addEventListener("DOMContentLoaded", () => {
   loadStops();
 
