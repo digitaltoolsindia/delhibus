@@ -1,0 +1,7202 @@
+[
+  {
+    "stop_id": "stop_0001",
+    "stop_name": "Delhi Bus Stop 1",
+    "stop_lat": 28.687976,
+    "stop_lon": 76.977788
+  },
+  {
+    "stop_id": "stop_0002",
+    "stop_name": "Delhi Bus Stop 2",
+    "stop_lat": 28.562433,
+    "stop_lon": 77.049915
+  },
+  {
+    "stop_id": "stop_0003",
+    "stop_name": "Delhi Bus Stop 3",
+    "stop_lat": 28.536549,
+    "stop_lon": 77.044505
+  },
+  {
+    "stop_id": "stop_0004",
+    "stop_name": "Delhi Bus Stop 4",
+    "stop_lat": 28.67492,
+    "stop_lon": 76.920235
+  },
+  {
+    "stop_id": "stop_0005",
+    "stop_name": "Delhi Bus Stop 5",
+    "stop_lat": 28.432141,
+    "stop_lon": 77.11823
+  },
+  {
+    "stop_id": "stop_0006",
+    "stop_name": "Delhi Bus Stop 6",
+    "stop_lat": 28.561317,
+    "stop_lon": 77.039852
+  },
+  {
+    "stop_id": "stop_0007",
+    "stop_name": "Delhi Bus Stop 7",
+    "stop_lat": 28.520529,
+    "stop_lon": 77.069625
+  },
+  {
+    "stop_id": "stop_0008",
+    "stop_name": "Delhi Bus Stop 8",
+    "stop_lat": 28.610425,
+    "stop_lon": 76.945958
+  },
+  {
+    "stop_id": "stop_0009",
+    "stop_name": "Delhi Bus Stop 9",
+    "stop_lat": 28.466726,
+    "stop_lon": 77.175961
+  },
+  {
+    "stop_id": "stop_0010",
+    "stop_name": "Delhi Bus Stop 10",
+    "stop_lat": 28.690264,
+    "stop_lon": 77.032292
+  },
+  {
+    "stop_id": "stop_0011",
+    "stop_name": "Delhi Bus Stop 11",
+    "stop_lat": 28.634561,
+    "stop_lon": 77.012031
+  },
+  {
+    "stop_id": "stop_0012",
+    "stop_name": "Delhi Bus Stop 12",
+    "stop_lat": 28.587598,
+    "stop_lon": 77.053258
+  },
+  {
+    "stop_id": "stop_0013",
+    "stop_name": "Delhi Bus Stop 13",
+    "stop_lat": 28.697432,
+    "stop_lon": 77.189754
+  },
+  {
+    "stop_id": "stop_0014",
+    "stop_name": "Delhi Bus Stop 14",
+    "stop_lat": 28.48805,
+    "stop_lon": 76.969203
+  },
+  {
+    "stop_id": "stop_0015",
+    "stop_name": "Delhi Bus Stop 15",
+    "stop_lat": 28.513041,
+    "stop_lon": 76.914326
+  },
+  {
+    "stop_id": "stop_0016",
+    "stop_name": "Delhi Bus Stop 16",
+    "stop_lat": 28.494136,
+    "stop_lon": 77.095411
+  },
+  {
+    "stop_id": "stop_0017",
+    "stop_name": "Delhi Bus Stop 17",
+    "stop_lat": 28.444253,
+    "stop_lon": 76.973874
+  },
+  {
+    "stop_id": "stop_0018",
+    "stop_name": "Delhi Bus Stop 18",
+    "stop_lat": 28.425722,
+    "stop_lon": 77.063662
+  },
+  {
+    "stop_id": "stop_0019",
+    "stop_name": "Delhi Bus Stop 19",
+    "stop_lat": 28.560162,
+    "stop_lon": 76.921768
+  },
+  {
+    "stop_id": "stop_0020",
+    "stop_name": "Delhi Bus Stop 20",
+    "stop_lat": 28.633013,
+    "stop_lon": 77.126661
+  },
+  {
+    "stop_id": "stop_0021",
+    "stop_name": "Delhi Bus Stop 21",
+    "stop_lat": 28.616439,
+    "stop_lon": 77.044498
+  },
+  {
+    "stop_id": "stop_0022",
+    "stop_name": "Delhi Bus Stop 22",
+    "stop_lat": 28.529631,
+    "stop_lon": 77.082955
+  },
+  {
+    "stop_id": "stop_0023",
+    "stop_name": "Delhi Bus Stop 23",
+    "stop_lat": 28.601416,
+    "stop_lon": 76.966328
+  },
+  {
+    "stop_id": "stop_0024",
+    "stop_name": "Delhi Bus Stop 24",
+    "stop_lat": 28.537695,
+    "stop_lon": 77.052024
+  },
+  {
+    "stop_id": "stop_0025",
+    "stop_name": "Delhi Bus Stop 25",
+    "stop_lat": 28.4828,
+    "stop_lon": 76.964938
+  },
+  {
+    "stop_id": "stop_0026",
+    "stop_name": "Delhi Bus Stop 26",
+    "stop_lat": 28.540755,
+    "stop_lon": 77.018588
+  },
+  {
+    "stop_id": "stop_0027",
+    "stop_name": "Delhi Bus Stop 27",
+    "stop_lat": 28.685777,
+    "stop_lon": 77.166706
+  },
+  {
+    "stop_id": "stop_0028",
+    "stop_name": "Delhi Bus Stop 28",
+    "stop_lat": 28.5001,
+    "stop_lon": 77.044702
+  },
+  {
+    "stop_id": "stop_0029",
+    "stop_name": "Delhi Bus Stop 29",
+    "stop_lat": 28.680059,
+    "stop_lon": 77.150596
+  },
+  {
+    "stop_id": "stop_0030",
+    "stop_name": "Delhi Bus Stop 30",
+    "stop_lat": 28.62263,
+    "stop_lon": 76.929507
+  },
+  {
+    "stop_id": "stop_0031",
+    "stop_name": "Delhi Bus Stop 31",
+    "stop_lat": 28.403693,
+    "stop_lon": 77.107829
+  },
+  {
+    "stop_id": "stop_0032",
+    "stop_name": "Delhi Bus Stop 32",
+    "stop_lat": 28.672524,
+    "stop_lon": 77.180367
+  },
+  {
+    "stop_id": "stop_0033",
+    "stop_name": "Delhi Bus Stop 33",
+    "stop_lat": 28.552243,
+    "stop_lon": 76.987079
+  },
+  {
+    "stop_id": "stop_0034",
+    "stop_name": "Delhi Bus Stop 34",
+    "stop_lat": 28.578909,
+    "stop_lon": 76.968598
+  },
+  {
+    "stop_id": "stop_0035",
+    "stop_name": "Delhi Bus Stop 35",
+    "stop_lat": 28.446044,
+    "stop_lon": 77.109266
+  },
+  {
+    "stop_id": "stop_0036",
+    "stop_name": "Delhi Bus Stop 36",
+    "stop_lat": 28.635181,
+    "stop_lon": 77.091216
+  },
+  {
+    "stop_id": "stop_0037",
+    "stop_name": "Delhi Bus Stop 37",
+    "stop_lat": 28.617483,
+    "stop_lon": 77.106593
+  },
+  {
+    "stop_id": "stop_0038",
+    "stop_name": "Delhi Bus Stop 38",
+    "stop_lat": 28.551531,
+    "stop_lon": 77.054677
+  },
+  {
+    "stop_id": "stop_0039",
+    "stop_name": "Delhi Bus Stop 39",
+    "stop_lat": 28.497922,
+    "stop_lon": 76.985805
+  },
+  {
+    "stop_id": "stop_0040",
+    "stop_name": "Delhi Bus Stop 40",
+    "stop_lat": 28.64587,
+    "stop_lon": 77.157396
+  },
+  {
+    "stop_id": "stop_0041",
+    "stop_name": "Delhi Bus Stop 41",
+    "stop_lat": 28.514547,
+    "stop_lon": 76.9172
+  },
+  {
+    "stop_id": "stop_0042",
+    "stop_name": "Delhi Bus Stop 42",
+    "stop_lat": 28.517954,
+    "stop_lon": 77.182319
+  },
+  {
+    "stop_id": "stop_0043",
+    "stop_name": "Delhi Bus Stop 43",
+    "stop_lat": 28.587548,
+    "stop_lon": 77.004122
+  },
+  {
+    "stop_id": "stop_0044",
+    "stop_name": "Delhi Bus Stop 44",
+    "stop_lat": 28.664923,
+    "stop_lon": 77.089212
+  },
+  {
+    "stop_id": "stop_0045",
+    "stop_name": "Delhi Bus Stop 45",
+    "stop_lat": 28.686949,
+    "stop_lon": 77.142518
+  },
+  {
+    "stop_id": "stop_0046",
+    "stop_name": "Delhi Bus Stop 46",
+    "stop_lat": 28.480215,
+    "stop_lon": 77.114336
+  },
+  {
+    "stop_id": "stop_0047",
+    "stop_name": "Delhi Bus Stop 47",
+    "stop_lat": 28.48517,
+    "stop_lon": 76.947332
+  },
+  {
+    "stop_id": "stop_0048",
+    "stop_name": "Delhi Bus Stop 48",
+    "stop_lat": 28.511823,
+    "stop_lon": 77.173784
+  },
+  {
+    "stop_id": "stop_0049",
+    "stop_name": "Delhi Bus Stop 49",
+    "stop_lat": 28.663183,
+    "stop_lon": 77.075678
+  },
+  {
+    "stop_id": "stop_0050",
+    "stop_name": "Delhi Bus Stop 50",
+    "stop_lat": 28.410375,
+    "stop_lon": 77.179572
+  },
+  {
+    "stop_id": "stop_0051",
+    "stop_name": "Delhi Bus Stop 51",
+    "stop_lat": 28.574958,
+    "stop_lon": 77.116805
+  },
+  {
+    "stop_id": "stop_0052",
+    "stop_name": "Delhi Bus Stop 52",
+    "stop_lat": 28.638237,
+    "stop_lon": 77.021795
+  },
+  {
+    "stop_id": "stop_0053",
+    "stop_name": "Delhi Bus Stop 53",
+    "stop_lat": 28.510228,
+    "stop_lon": 77.043221
+  },
+  {
+    "stop_id": "stop_0054",
+    "stop_name": "Delhi Bus Stop 54",
+    "stop_lat": 28.654994,
+    "stop_lon": 77.013397
+  },
+  {
+    "stop_id": "stop_0055",
+    "stop_name": "Delhi Bus Stop 55",
+    "stop_lat": 28.692977,
+    "stop_lon": 77.186587
+  },
+  {
+    "stop_id": "stop_0056",
+    "stop_name": "Delhi Bus Stop 56",
+    "stop_lat": 28.664594,
+    "stop_lon": 76.989127
+  },
+  {
+    "stop_id": "stop_0057",
+    "stop_name": "Delhi Bus Stop 57",
+    "stop_lat": 28.561397,
+    "stop_lon": 77.029209
+  },
+  {
+    "stop_id": "stop_0058",
+    "stop_name": "Delhi Bus Stop 58",
+    "stop_lat": 28.568198,
+    "stop_lon": 77.047701
+  },
+  {
+    "stop_id": "stop_0059",
+    "stop_name": "Delhi Bus Stop 59",
+    "stop_lat": 28.556911,
+    "stop_lon": 77.062245
+  },
+  {
+    "stop_id": "stop_0060",
+    "stop_name": "Delhi Bus Stop 60",
+    "stop_lat": 28.625316,
+    "stop_lon": 77.019178
+  },
+  {
+    "stop_id": "stop_0061",
+    "stop_name": "Delhi Bus Stop 61",
+    "stop_lat": 28.563403,
+    "stop_lon": 77.008021
+  },
+  {
+    "stop_id": "stop_0062",
+    "stop_name": "Delhi Bus Stop 62",
+    "stop_lat": 28.413284,
+    "stop_lon": 77.132419
+  },
+  {
+    "stop_id": "stop_0063",
+    "stop_name": "Delhi Bus Stop 63",
+    "stop_lat": 28.683791,
+    "stop_lon": 77.146667
+  },
+  {
+    "stop_id": "stop_0064",
+    "stop_name": "Delhi Bus Stop 64",
+    "stop_lat": 28.465844,
+    "stop_lon": 77.11472
+  },
+  {
+    "stop_id": "stop_0065",
+    "stop_name": "Delhi Bus Stop 65",
+    "stop_lat": 28.553645,
+    "stop_lon": 77.159064
+  },
+  {
+    "stop_id": "stop_0066",
+    "stop_name": "Delhi Bus Stop 66",
+    "stop_lat": 28.544641,
+    "stop_lon": 76.907591
+  },
+  {
+    "stop_id": "stop_0067",
+    "stop_name": "Delhi Bus Stop 67",
+    "stop_lat": 28.431072,
+    "stop_lon": 76.953151
+  },
+  {
+    "stop_id": "stop_0068",
+    "stop_name": "Delhi Bus Stop 68",
+    "stop_lat": 28.539146,
+    "stop_lon": 76.998239
+  },
+  {
+    "stop_id": "stop_0069",
+    "stop_name": "Delhi Bus Stop 69",
+    "stop_lat": 28.517021,
+    "stop_lon": 77.157779
+  },
+  {
+    "stop_id": "stop_0070",
+    "stop_name": "Delhi Bus Stop 70",
+    "stop_lat": 28.512391,
+    "stop_lon": 77.071728
+  },
+  {
+    "stop_id": "stop_0071",
+    "stop_name": "Delhi Bus Stop 71",
+    "stop_lat": 28.517078,
+    "stop_lon": 76.992756
+  },
+  {
+    "stop_id": "stop_0072",
+    "stop_name": "Delhi Bus Stop 72",
+    "stop_lat": 28.505372,
+    "stop_lon": 76.951913
+  },
+  {
+    "stop_id": "stop_0073",
+    "stop_name": "Delhi Bus Stop 73",
+    "stop_lat": 28.460118,
+    "stop_lon": 77.110328
+  },
+  {
+    "stop_id": "stop_0074",
+    "stop_name": "Delhi Bus Stop 74",
+    "stop_lat": 28.668539,
+    "stop_lon": 77.045905
+  },
+  {
+    "stop_id": "stop_0075",
+    "stop_name": "Delhi Bus Stop 75",
+    "stop_lat": 28.457595,
+    "stop_lon": 77.148643
+  },
+  {
+    "stop_id": "stop_0076",
+    "stop_name": "Delhi Bus Stop 76",
+    "stop_lat": 28.411079,
+    "stop_lon": 77.043228
+  },
+  {
+    "stop_id": "stop_0077",
+    "stop_name": "Delhi Bus Stop 77",
+    "stop_lat": 28.535098,
+    "stop_lon": 76.920649
+  },
+  {
+    "stop_id": "stop_0078",
+    "stop_name": "Delhi Bus Stop 78",
+    "stop_lat": 28.529802,
+    "stop_lon": 77.179409
+  },
+  {
+    "stop_id": "stop_0079",
+    "stop_name": "Delhi Bus Stop 79",
+    "stop_lat": 28.486978,
+    "stop_lon": 76.949988
+  },
+  {
+    "stop_id": "stop_0080",
+    "stop_name": "Delhi Bus Stop 80",
+    "stop_lat": 28.536796,
+    "stop_lon": 77.176183
+  },
+  {
+    "stop_id": "stop_0081",
+    "stop_name": "Delhi Bus Stop 81",
+    "stop_lat": 28.409403,
+    "stop_lon": 77.115195
+  },
+  {
+    "stop_id": "stop_0082",
+    "stop_name": "Delhi Bus Stop 82",
+    "stop_lat": 28.428636,
+    "stop_lon": 77.14991
+  },
+  {
+    "stop_id": "stop_0083",
+    "stop_name": "Delhi Bus Stop 83",
+    "stop_lat": 28.443532,
+    "stop_lon": 77.148269
+  },
+  {
+    "stop_id": "stop_0084",
+    "stop_name": "Delhi Bus Stop 84",
+    "stop_lat": 28.667269,
+    "stop_lon": 76.988846
+  },
+  {
+    "stop_id": "stop_0085",
+    "stop_name": "Delhi Bus Stop 85",
+    "stop_lat": 28.503644,
+    "stop_lon": 77.066473
+  },
+  {
+    "stop_id": "stop_0086",
+    "stop_name": "Delhi Bus Stop 86",
+    "stop_lat": 28.640944,
+    "stop_lon": 77.010416
+  },
+  {
+    "stop_id": "stop_0087",
+    "stop_name": "Delhi Bus Stop 87",
+    "stop_lat": 28.659516,
+    "stop_lon": 77.078717
+  },
+  {
+    "stop_id": "stop_0088",
+    "stop_name": "Delhi Bus Stop 88",
+    "stop_lat": 28.657247,
+    "stop_lon": 76.976581
+  },
+  {
+    "stop_id": "stop_0089",
+    "stop_name": "Delhi Bus Stop 89",
+    "stop_lat": 28.605883,
+    "stop_lon": 77.036255
+  },
+  {
+    "stop_id": "stop_0090",
+    "stop_name": "Delhi Bus Stop 90",
+    "stop_lat": 28.654538,
+    "stop_lon": 77.182442
+  },
+  {
+    "stop_id": "stop_0091",
+    "stop_name": "Delhi Bus Stop 91",
+    "stop_lat": 28.696319,
+    "stop_lon": 77.168206
+  },
+  {
+    "stop_id": "stop_0092",
+    "stop_name": "Delhi Bus Stop 92",
+    "stop_lat": 28.69524,
+    "stop_lon": 77.110173
+  },
+  {
+    "stop_id": "stop_0093",
+    "stop_name": "Delhi Bus Stop 93",
+    "stop_lat": 28.693466,
+    "stop_lon": 77.012968
+  },
+  {
+    "stop_id": "stop_0094",
+    "stop_name": "Delhi Bus Stop 94",
+    "stop_lat": 28.405845,
+    "stop_lon": 76.9988
+  },
+  {
+    "stop_id": "stop_0095",
+    "stop_name": "Delhi Bus Stop 95",
+    "stop_lat": 28.435512,
+    "stop_lon": 77.16038
+  },
+  {
+    "stop_id": "stop_0096",
+    "stop_name": "Delhi Bus Stop 96",
+    "stop_lat": 28.559069,
+    "stop_lon": 76.951204
+  },
+  {
+    "stop_id": "stop_0097",
+    "stop_name": "Delhi Bus Stop 97",
+    "stop_lat": 28.620497,
+    "stop_lon": 76.935619
+  },
+  {
+    "stop_id": "stop_0098",
+    "stop_name": "Delhi Bus Stop 98",
+    "stop_lat": 28.562126,
+    "stop_lon": 77.057241
+  },
+  {
+    "stop_id": "stop_0099",
+    "stop_name": "Delhi Bus Stop 99",
+    "stop_lat": 28.456658,
+    "stop_lon": 77.007771
+  },
+  {
+    "stop_id": "stop_0100",
+    "stop_name": "Delhi Bus Stop 100",
+    "stop_lat": 28.443938,
+    "stop_lon": 77.102235
+  },
+  {
+    "stop_id": "stop_0101",
+    "stop_name": "Delhi Bus Stop 101",
+    "stop_lat": 28.607116,
+    "stop_lon": 76.942066
+  },
+  {
+    "stop_id": "stop_0102",
+    "stop_name": "Delhi Bus Stop 102",
+    "stop_lat": 28.67047,
+    "stop_lon": 77.013286
+  },
+  {
+    "stop_id": "stop_0103",
+    "stop_name": "Delhi Bus Stop 103",
+    "stop_lat": 28.402123,
+    "stop_lon": 76.971956
+  },
+  {
+    "stop_id": "stop_0104",
+    "stop_name": "Delhi Bus Stop 104",
+    "stop_lat": 28.550059,
+    "stop_lon": 76.951456
+  },
+  {
+    "stop_id": "stop_0105",
+    "stop_name": "Delhi Bus Stop 105",
+    "stop_lat": 28.58284,
+    "stop_lon": 76.988249
+  },
+  {
+    "stop_id": "stop_0106",
+    "stop_name": "Delhi Bus Stop 106",
+    "stop_lat": 28.678753,
+    "stop_lon": 77.045978
+  },
+  {
+    "stop_id": "stop_0107",
+    "stop_name": "Delhi Bus Stop 107",
+    "stop_lat": 28.639643,
+    "stop_lon": 77.089287
+  },
+  {
+    "stop_id": "stop_0108",
+    "stop_name": "Delhi Bus Stop 108",
+    "stop_lat": 28.513886,
+    "stop_lon": 77.009962
+  },
+  {
+    "stop_id": "stop_0109",
+    "stop_name": "Delhi Bus Stop 109",
+    "stop_lat": 28.649697,
+    "stop_lon": 77.091942
+  },
+  {
+    "stop_id": "stop_0110",
+    "stop_name": "Delhi Bus Stop 110",
+    "stop_lat": 28.441438,
+    "stop_lon": 76.97432
+  },
+  {
+    "stop_id": "stop_0111",
+    "stop_name": "Delhi Bus Stop 111",
+    "stop_lat": 28.48387,
+    "stop_lon": 77.165622
+  },
+  {
+    "stop_id": "stop_0112",
+    "stop_name": "Delhi Bus Stop 112",
+    "stop_lat": 28.623696,
+    "stop_lon": 77.088844
+  },
+  {
+    "stop_id": "stop_0113",
+    "stop_name": "Delhi Bus Stop 113",
+    "stop_lat": 28.581018,
+    "stop_lon": 76.916436
+  },
+  {
+    "stop_id": "stop_0114",
+    "stop_name": "Delhi Bus Stop 114",
+    "stop_lat": 28.410152,
+    "stop_lon": 77.073087
+  },
+  {
+    "stop_id": "stop_0115",
+    "stop_name": "Delhi Bus Stop 115",
+    "stop_lat": 28.457444,
+    "stop_lon": 77.180319
+  },
+  {
+    "stop_id": "stop_0116",
+    "stop_name": "Delhi Bus Stop 116",
+    "stop_lat": 28.664823,
+    "stop_lon": 77.160941
+  },
+  {
+    "stop_id": "stop_0117",
+    "stop_name": "Delhi Bus Stop 117",
+    "stop_lat": 28.418804,
+    "stop_lon": 76.918609
+  },
+  {
+    "stop_id": "stop_0118",
+    "stop_name": "Delhi Bus Stop 118",
+    "stop_lat": 28.405368,
+    "stop_lon": 77.025309
+  },
+  {
+    "stop_id": "stop_0119",
+    "stop_name": "Delhi Bus Stop 119",
+    "stop_lat": 28.434053,
+    "stop_lon": 77.10705
+  },
+  {
+    "stop_id": "stop_0120",
+    "stop_name": "Delhi Bus Stop 120",
+    "stop_lat": 28.411591,
+    "stop_lon": 77.184694
+  },
+  {
+    "stop_id": "stop_0121",
+    "stop_name": "Delhi Bus Stop 121",
+    "stop_lat": 28.484776,
+    "stop_lon": 76.936909
+  },
+  {
+    "stop_id": "stop_0122",
+    "stop_name": "Delhi Bus Stop 122",
+    "stop_lat": 28.400427,
+    "stop_lon": 77.123102
+  },
+  {
+    "stop_id": "stop_0123",
+    "stop_name": "Delhi Bus Stop 123",
+    "stop_lat": 28.56762,
+    "stop_lon": 77.020096
+  },
+  {
+    "stop_id": "stop_0124",
+    "stop_name": "Delhi Bus Stop 124",
+    "stop_lat": 28.539929,
+    "stop_lon": 77.098906
+  },
+  {
+    "stop_id": "stop_0125",
+    "stop_name": "Delhi Bus Stop 125",
+    "stop_lat": 28.605394,
+    "stop_lon": 76.962618
+  },
+  {
+    "stop_id": "stop_0126",
+    "stop_name": "Delhi Bus Stop 126",
+    "stop_lat": 28.506043,
+    "stop_lon": 77.089686
+  },
+  {
+    "stop_id": "stop_0127",
+    "stop_name": "Delhi Bus Stop 127",
+    "stop_lat": 28.589533,
+    "stop_lon": 77.011141
+  },
+  {
+    "stop_id": "stop_0128",
+    "stop_name": "Delhi Bus Stop 128",
+    "stop_lat": 28.590902,
+    "stop_lon": 76.975927
+  },
+  {
+    "stop_id": "stop_0129",
+    "stop_name": "Delhi Bus Stop 129",
+    "stop_lat": 28.46836,
+    "stop_lon": 77.100371
+  },
+  {
+    "stop_id": "stop_0130",
+    "stop_name": "Delhi Bus Stop 130",
+    "stop_lat": 28.40561,
+    "stop_lon": 76.939463
+  },
+  {
+    "stop_id": "stop_0131",
+    "stop_name": "Delhi Bus Stop 131",
+    "stop_lat": 28.447442,
+    "stop_lon": 77.040648
+  },
+  {
+    "stop_id": "stop_0132",
+    "stop_name": "Delhi Bus Stop 132",
+    "stop_lat": 28.692606,
+    "stop_lon": 76.932209
+  },
+  {
+    "stop_id": "stop_0133",
+    "stop_name": "Delhi Bus Stop 133",
+    "stop_lat": 28.417061,
+    "stop_lon": 77.009228
+  },
+  {
+    "stop_id": "stop_0134",
+    "stop_name": "Delhi Bus Stop 134",
+    "stop_lat": 28.416787,
+    "stop_lon": 76.98621
+  },
+  {
+    "stop_id": "stop_0135",
+    "stop_name": "Delhi Bus Stop 135",
+    "stop_lat": 28.670119,
+    "stop_lon": 76.908384
+  },
+  {
+    "stop_id": "stop_0136",
+    "stop_name": "Delhi Bus Stop 136",
+    "stop_lat": 28.531383,
+    "stop_lon": 77.094654
+  },
+  {
+    "stop_id": "stop_0137",
+    "stop_name": "Delhi Bus Stop 137",
+    "stop_lat": 28.533592,
+    "stop_lon": 76.9423
+  },
+  {
+    "stop_id": "stop_0138",
+    "stop_name": "Delhi Bus Stop 138",
+    "stop_lat": 28.694841,
+    "stop_lon": 76.933626
+  },
+  {
+    "stop_id": "stop_0139",
+    "stop_name": "Delhi Bus Stop 139",
+    "stop_lat": 28.556392,
+    "stop_lon": 76.91885
+  },
+  {
+    "stop_id": "stop_0140",
+    "stop_name": "Delhi Bus Stop 140",
+    "stop_lat": 28.670651,
+    "stop_lon": 77.110459
+  },
+  {
+    "stop_id": "stop_0141",
+    "stop_name": "Delhi Bus Stop 141",
+    "stop_lat": 28.421554,
+    "stop_lon": 77.17649
+  },
+  {
+    "stop_id": "stop_0142",
+    "stop_name": "Delhi Bus Stop 142",
+    "stop_lat": 28.585173,
+    "stop_lon": 76.924458
+  },
+  {
+    "stop_id": "stop_0143",
+    "stop_name": "Delhi Bus Stop 143",
+    "stop_lat": 28.672319,
+    "stop_lon": 77.050924
+  },
+  {
+    "stop_id": "stop_0144",
+    "stop_name": "Delhi Bus Stop 144",
+    "stop_lat": 28.597795,
+    "stop_lon": 77.107714
+  },
+  {
+    "stop_id": "stop_0145",
+    "stop_name": "Delhi Bus Stop 145",
+    "stop_lat": 28.454375,
+    "stop_lon": 77.082353
+  },
+  {
+    "stop_id": "stop_0146",
+    "stop_name": "Delhi Bus Stop 146",
+    "stop_lat": 28.641283,
+    "stop_lon": 77.055193
+  },
+  {
+    "stop_id": "stop_0147",
+    "stop_name": "Delhi Bus Stop 147",
+    "stop_lat": 28.670327,
+    "stop_lon": 76.994602
+  },
+  {
+    "stop_id": "stop_0148",
+    "stop_name": "Delhi Bus Stop 148",
+    "stop_lat": 28.554543,
+    "stop_lon": 77.056078
+  },
+  {
+    "stop_id": "stop_0149",
+    "stop_name": "Delhi Bus Stop 149",
+    "stop_lat": 28.56383,
+    "stop_lon": 76.907584
+  },
+  {
+    "stop_id": "stop_0150",
+    "stop_name": "Delhi Bus Stop 150",
+    "stop_lat": 28.578814,
+    "stop_lon": 76.902655
+  },
+  {
+    "stop_id": "stop_0151",
+    "stop_name": "Delhi Bus Stop 151",
+    "stop_lat": 28.664824,
+    "stop_lon": 77.11968
+  },
+  {
+    "stop_id": "stop_0152",
+    "stop_name": "Delhi Bus Stop 152",
+    "stop_lat": 28.536597,
+    "stop_lon": 77.111024
+  },
+  {
+    "stop_id": "stop_0153",
+    "stop_name": "Delhi Bus Stop 153",
+    "stop_lat": 28.531258,
+    "stop_lon": 77.081465
+  },
+  {
+    "stop_id": "stop_0154",
+    "stop_name": "Delhi Bus Stop 154",
+    "stop_lat": 28.527736,
+    "stop_lon": 77.180852
+  },
+  {
+    "stop_id": "stop_0155",
+    "stop_name": "Delhi Bus Stop 155",
+    "stop_lat": 28.577977,
+    "stop_lon": 77.03932
+  },
+  {
+    "stop_id": "stop_0156",
+    "stop_name": "Delhi Bus Stop 156",
+    "stop_lat": 28.524123,
+    "stop_lon": 77.074545
+  },
+  {
+    "stop_id": "stop_0157",
+    "stop_name": "Delhi Bus Stop 157",
+    "stop_lat": 28.441656,
+    "stop_lon": 77.017625
+  },
+  {
+    "stop_id": "stop_0158",
+    "stop_name": "Delhi Bus Stop 158",
+    "stop_lat": 28.563453,
+    "stop_lon": 76.942463
+  },
+  {
+    "stop_id": "stop_0159",
+    "stop_name": "Delhi Bus Stop 159",
+    "stop_lat": 28.512757,
+    "stop_lon": 77.139395
+  },
+  {
+    "stop_id": "stop_0160",
+    "stop_name": "Delhi Bus Stop 160",
+    "stop_lat": 28.560259,
+    "stop_lon": 77.094549
+  },
+  {
+    "stop_id": "stop_0161",
+    "stop_name": "Delhi Bus Stop 161",
+    "stop_lat": 28.554572,
+    "stop_lon": 77.175504
+  },
+  {
+    "stop_id": "stop_0162",
+    "stop_name": "Delhi Bus Stop 162",
+    "stop_lat": 28.554349,
+    "stop_lon": 77.063084
+  },
+  {
+    "stop_id": "stop_0163",
+    "stop_name": "Delhi Bus Stop 163",
+    "stop_lat": 28.692277,
+    "stop_lon": 77.114635
+  },
+  {
+    "stop_id": "stop_0164",
+    "stop_name": "Delhi Bus Stop 164",
+    "stop_lat": 28.640365,
+    "stop_lon": 77.030934
+  },
+  {
+    "stop_id": "stop_0165",
+    "stop_name": "Delhi Bus Stop 165",
+    "stop_lat": 28.657863,
+    "stop_lon": 77.067356
+  },
+  {
+    "stop_id": "stop_0166",
+    "stop_name": "Delhi Bus Stop 166",
+    "stop_lat": 28.670007,
+    "stop_lon": 76.906854
+  },
+  {
+    "stop_id": "stop_0167",
+    "stop_name": "Delhi Bus Stop 167",
+    "stop_lat": 28.52066,
+    "stop_lon": 77.018137
+  },
+  {
+    "stop_id": "stop_0168",
+    "stop_name": "Delhi Bus Stop 168",
+    "stop_lat": 28.456785,
+    "stop_lon": 76.99872
+  },
+  {
+    "stop_id": "stop_0169",
+    "stop_name": "Delhi Bus Stop 169",
+    "stop_lat": 28.594544,
+    "stop_lon": 76.999016
+  },
+  {
+    "stop_id": "stop_0170",
+    "stop_name": "Delhi Bus Stop 170",
+    "stop_lat": 28.418592,
+    "stop_lon": 76.966418
+  },
+  {
+    "stop_id": "stop_0171",
+    "stop_name": "Delhi Bus Stop 171",
+    "stop_lat": 28.575053,
+    "stop_lon": 76.936183
+  },
+  {
+    "stop_id": "stop_0172",
+    "stop_name": "Delhi Bus Stop 172",
+    "stop_lat": 28.516628,
+    "stop_lon": 76.962772
+  },
+  {
+    "stop_id": "stop_0173",
+    "stop_name": "Delhi Bus Stop 173",
+    "stop_lat": 28.591137,
+    "stop_lon": 77.19189
+  },
+  {
+    "stop_id": "stop_0174",
+    "stop_name": "Delhi Bus Stop 174",
+    "stop_lat": 28.45759,
+    "stop_lon": 77.157859
+  },
+  {
+    "stop_id": "stop_0175",
+    "stop_name": "Delhi Bus Stop 175",
+    "stop_lat": 28.495758,
+    "stop_lon": 77.098514
+  },
+  {
+    "stop_id": "stop_0176",
+    "stop_name": "Delhi Bus Stop 176",
+    "stop_lat": 28.55387,
+    "stop_lon": 76.97039
+  },
+  {
+    "stop_id": "stop_0177",
+    "stop_name": "Delhi Bus Stop 177",
+    "stop_lat": 28.605758,
+    "stop_lon": 76.908909
+  },
+  {
+    "stop_id": "stop_0178",
+    "stop_name": "Delhi Bus Stop 178",
+    "stop_lat": 28.67718,
+    "stop_lon": 77.161479
+  },
+  {
+    "stop_id": "stop_0179",
+    "stop_name": "Delhi Bus Stop 179",
+    "stop_lat": 28.487281,
+    "stop_lon": 77.000315
+  },
+  {
+    "stop_id": "stop_0180",
+    "stop_name": "Delhi Bus Stop 180",
+    "stop_lat": 28.449231,
+    "stop_lon": 77.030705
+  },
+  {
+    "stop_id": "stop_0181",
+    "stop_name": "Delhi Bus Stop 181",
+    "stop_lat": 28.600712,
+    "stop_lon": 77.09892
+  },
+  {
+    "stop_id": "stop_0182",
+    "stop_name": "Delhi Bus Stop 182",
+    "stop_lat": 28.530338,
+    "stop_lon": 77.034075
+  },
+  {
+    "stop_id": "stop_0183",
+    "stop_name": "Delhi Bus Stop 183",
+    "stop_lat": 28.687599,
+    "stop_lon": 76.957166
+  },
+  {
+    "stop_id": "stop_0184",
+    "stop_name": "Delhi Bus Stop 184",
+    "stop_lat": 28.591505,
+    "stop_lon": 76.912429
+  },
+  {
+    "stop_id": "stop_0185",
+    "stop_name": "Delhi Bus Stop 185",
+    "stop_lat": 28.667342,
+    "stop_lon": 76.996564
+  },
+  {
+    "stop_id": "stop_0186",
+    "stop_name": "Delhi Bus Stop 186",
+    "stop_lat": 28.466269,
+    "stop_lon": 76.922704
+  },
+  {
+    "stop_id": "stop_0187",
+    "stop_name": "Delhi Bus Stop 187",
+    "stop_lat": 28.412064,
+    "stop_lon": 77.031398
+  },
+  {
+    "stop_id": "stop_0188",
+    "stop_name": "Delhi Bus Stop 188",
+    "stop_lat": 28.621182,
+    "stop_lon": 77.173368
+  },
+  {
+    "stop_id": "stop_0189",
+    "stop_name": "Delhi Bus Stop 189",
+    "stop_lat": 28.471739,
+    "stop_lon": 77.186629
+  },
+  {
+    "stop_id": "stop_0190",
+    "stop_name": "Delhi Bus Stop 190",
+    "stop_lat": 28.476194,
+    "stop_lon": 77.066868
+  },
+  {
+    "stop_id": "stop_0191",
+    "stop_name": "Delhi Bus Stop 191",
+    "stop_lat": 28.474169,
+    "stop_lon": 77.187636
+  },
+  {
+    "stop_id": "stop_0192",
+    "stop_name": "Delhi Bus Stop 192",
+    "stop_lat": 28.638933,
+    "stop_lon": 76.92202
+  },
+  {
+    "stop_id": "stop_0193",
+    "stop_name": "Delhi Bus Stop 193",
+    "stop_lat": 28.533806,
+    "stop_lon": 77.100812
+  },
+  {
+    "stop_id": "stop_0194",
+    "stop_name": "Delhi Bus Stop 194",
+    "stop_lat": 28.50189,
+    "stop_lon": 76.907732
+  },
+  {
+    "stop_id": "stop_0195",
+    "stop_name": "Delhi Bus Stop 195",
+    "stop_lat": 28.68491,
+    "stop_lon": 77.153083
+  },
+  {
+    "stop_id": "stop_0196",
+    "stop_name": "Delhi Bus Stop 196",
+    "stop_lat": 28.66471,
+    "stop_lon": 77.095368
+  },
+  {
+    "stop_id": "stop_0197",
+    "stop_name": "Delhi Bus Stop 197",
+    "stop_lat": 28.427243,
+    "stop_lon": 77.028392
+  },
+  {
+    "stop_id": "stop_0198",
+    "stop_name": "Delhi Bus Stop 198",
+    "stop_lat": 28.45733,
+    "stop_lon": 77.177252
+  },
+  {
+    "stop_id": "stop_0199",
+    "stop_name": "Delhi Bus Stop 199",
+    "stop_lat": 28.655019,
+    "stop_lon": 77.047422
+  },
+  {
+    "stop_id": "stop_0200",
+    "stop_name": "Delhi Bus Stop 200",
+    "stop_lat": 28.61401,
+    "stop_lon": 76.909376
+  },
+  {
+    "stop_id": "stop_0201",
+    "stop_name": "Delhi Bus Stop 201",
+    "stop_lat": 28.52625,
+    "stop_lon": 77.16983
+  },
+  {
+    "stop_id": "stop_0202",
+    "stop_name": "Delhi Bus Stop 202",
+    "stop_lat": 28.464115,
+    "stop_lon": 77.07651
+  },
+  {
+    "stop_id": "stop_0203",
+    "stop_name": "Delhi Bus Stop 203",
+    "stop_lat": 28.601556,
+    "stop_lon": 77.161881
+  },
+  {
+    "stop_id": "stop_0204",
+    "stop_name": "Delhi Bus Stop 204",
+    "stop_lat": 28.577528,
+    "stop_lon": 77.105976
+  },
+  {
+    "stop_id": "stop_0205",
+    "stop_name": "Delhi Bus Stop 205",
+    "stop_lat": 28.663523,
+    "stop_lon": 77.162804
+  },
+  {
+    "stop_id": "stop_0206",
+    "stop_name": "Delhi Bus Stop 206",
+    "stop_lat": 28.540649,
+    "stop_lon": 76.911494
+  },
+  {
+    "stop_id": "stop_0207",
+    "stop_name": "Delhi Bus Stop 207",
+    "stop_lat": 28.690267,
+    "stop_lon": 76.923429
+  },
+  {
+    "stop_id": "stop_0208",
+    "stop_name": "Delhi Bus Stop 208",
+    "stop_lat": 28.598907,
+    "stop_lon": 77.057304
+  },
+  {
+    "stop_id": "stop_0209",
+    "stop_name": "Delhi Bus Stop 209",
+    "stop_lat": 28.549802,
+    "stop_lon": 76.981979
+  },
+  {
+    "stop_id": "stop_0210",
+    "stop_name": "Delhi Bus Stop 210",
+    "stop_lat": 28.635873,
+    "stop_lon": 76.977011
+  },
+  {
+    "stop_id": "stop_0211",
+    "stop_name": "Delhi Bus Stop 211",
+    "stop_lat": 28.592586,
+    "stop_lon": 77.189788
+  },
+  {
+    "stop_id": "stop_0212",
+    "stop_name": "Delhi Bus Stop 212",
+    "stop_lat": 28.660191,
+    "stop_lon": 76.955885
+  },
+  {
+    "stop_id": "stop_0213",
+    "stop_name": "Delhi Bus Stop 213",
+    "stop_lat": 28.67617,
+    "stop_lon": 77.0237
+  },
+  {
+    "stop_id": "stop_0214",
+    "stop_name": "Delhi Bus Stop 214",
+    "stop_lat": 28.486733,
+    "stop_lon": 77.117024
+  },
+  {
+    "stop_id": "stop_0215",
+    "stop_name": "Delhi Bus Stop 215",
+    "stop_lat": 28.642096,
+    "stop_lon": 77.169137
+  },
+  {
+    "stop_id": "stop_0216",
+    "stop_name": "Delhi Bus Stop 216",
+    "stop_lat": 28.592262,
+    "stop_lon": 77.044753
+  },
+  {
+    "stop_id": "stop_0217",
+    "stop_name": "Delhi Bus Stop 217",
+    "stop_lat": 28.400978,
+    "stop_lon": 77.190003
+  },
+  {
+    "stop_id": "stop_0218",
+    "stop_name": "Delhi Bus Stop 218",
+    "stop_lat": 28.469956,
+    "stop_lon": 76.975628
+  },
+  {
+    "stop_id": "stop_0219",
+    "stop_name": "Delhi Bus Stop 219",
+    "stop_lat": 28.417137,
+    "stop_lon": 77.10154
+  },
+  {
+    "stop_id": "stop_0220",
+    "stop_name": "Delhi Bus Stop 220",
+    "stop_lat": 28.576276,
+    "stop_lon": 77.114645
+  },
+  {
+    "stop_id": "stop_0221",
+    "stop_name": "Delhi Bus Stop 221",
+    "stop_lat": 28.560712,
+    "stop_lon": 77.093184
+  },
+  {
+    "stop_id": "stop_0222",
+    "stop_name": "Delhi Bus Stop 222",
+    "stop_lat": 28.482092,
+    "stop_lon": 77.098184
+  },
+  {
+    "stop_id": "stop_0223",
+    "stop_name": "Delhi Bus Stop 223",
+    "stop_lat": 28.491764,
+    "stop_lon": 76.963704
+  },
+  {
+    "stop_id": "stop_0224",
+    "stop_name": "Delhi Bus Stop 224",
+    "stop_lat": 28.658935,
+    "stop_lon": 77.070812
+  },
+  {
+    "stop_id": "stop_0225",
+    "stop_name": "Delhi Bus Stop 225",
+    "stop_lat": 28.644674,
+    "stop_lon": 77.046295
+  },
+  {
+    "stop_id": "stop_0226",
+    "stop_name": "Delhi Bus Stop 226",
+    "stop_lat": 28.618269,
+    "stop_lon": 76.921304
+  },
+  {
+    "stop_id": "stop_0227",
+    "stop_name": "Delhi Bus Stop 227",
+    "stop_lat": 28.484839,
+    "stop_lon": 76.962734
+  },
+  {
+    "stop_id": "stop_0228",
+    "stop_name": "Delhi Bus Stop 228",
+    "stop_lat": 28.659293,
+    "stop_lon": 77.059411
+  },
+  {
+    "stop_id": "stop_0229",
+    "stop_name": "Delhi Bus Stop 229",
+    "stop_lat": 28.478493,
+    "stop_lon": 77.086782
+  },
+  {
+    "stop_id": "stop_0230",
+    "stop_name": "Delhi Bus Stop 230",
+    "stop_lat": 28.685187,
+    "stop_lon": 76.99474
+  },
+  {
+    "stop_id": "stop_0231",
+    "stop_name": "Delhi Bus Stop 231",
+    "stop_lat": 28.441967,
+    "stop_lon": 77.054455
+  },
+  {
+    "stop_id": "stop_0232",
+    "stop_name": "Delhi Bus Stop 232",
+    "stop_lat": 28.498791,
+    "stop_lon": 76.913756
+  },
+  {
+    "stop_id": "stop_0233",
+    "stop_name": "Delhi Bus Stop 233",
+    "stop_lat": 28.402226,
+    "stop_lon": 76.903652
+  },
+  {
+    "stop_id": "stop_0234",
+    "stop_name": "Delhi Bus Stop 234",
+    "stop_lat": 28.589613,
+    "stop_lon": 77.108302
+  },
+  {
+    "stop_id": "stop_0235",
+    "stop_name": "Delhi Bus Stop 235",
+    "stop_lat": 28.531898,
+    "stop_lon": 77.192511
+  },
+  {
+    "stop_id": "stop_0236",
+    "stop_name": "Delhi Bus Stop 236",
+    "stop_lat": 28.461091,
+    "stop_lon": 77.157014
+  },
+  {
+    "stop_id": "stop_0237",
+    "stop_name": "Delhi Bus Stop 237",
+    "stop_lat": 28.415806,
+    "stop_lon": 76.915085
+  },
+  {
+    "stop_id": "stop_0238",
+    "stop_name": "Delhi Bus Stop 238",
+    "stop_lat": 28.408003,
+    "stop_lon": 77.033094
+  },
+  {
+    "stop_id": "stop_0239",
+    "stop_name": "Delhi Bus Stop 239",
+    "stop_lat": 28.63282,
+    "stop_lon": 77.038388
+  },
+  {
+    "stop_id": "stop_0240",
+    "stop_name": "Delhi Bus Stop 240",
+    "stop_lat": 28.514166,
+    "stop_lon": 77.038766
+  },
+  {
+    "stop_id": "stop_0241",
+    "stop_name": "Delhi Bus Stop 241",
+    "stop_lat": 28.588661,
+    "stop_lon": 77.083135
+  },
+  {
+    "stop_id": "stop_0242",
+    "stop_name": "Delhi Bus Stop 242",
+    "stop_lat": 28.419269,
+    "stop_lon": 76.981219
+  },
+  {
+    "stop_id": "stop_0243",
+    "stop_name": "Delhi Bus Stop 243",
+    "stop_lat": 28.69366,
+    "stop_lon": 77.109023
+  },
+  {
+    "stop_id": "stop_0244",
+    "stop_name": "Delhi Bus Stop 244",
+    "stop_lat": 28.561833,
+    "stop_lon": 77.039607
+  },
+  {
+    "stop_id": "stop_0245",
+    "stop_name": "Delhi Bus Stop 245",
+    "stop_lat": 28.64412,
+    "stop_lon": 77.144047
+  },
+  {
+    "stop_id": "stop_0246",
+    "stop_name": "Delhi Bus Stop 246",
+    "stop_lat": 28.610183,
+    "stop_lon": 76.955275
+  },
+  {
+    "stop_id": "stop_0247",
+    "stop_name": "Delhi Bus Stop 247",
+    "stop_lat": 28.595286,
+    "stop_lon": 77.134938
+  },
+  {
+    "stop_id": "stop_0248",
+    "stop_name": "Delhi Bus Stop 248",
+    "stop_lat": 28.523201,
+    "stop_lon": 77.012179
+  },
+  {
+    "stop_id": "stop_0249",
+    "stop_name": "Delhi Bus Stop 249",
+    "stop_lat": 28.507966,
+    "stop_lon": 76.949546
+  },
+  {
+    "stop_id": "stop_0250",
+    "stop_name": "Delhi Bus Stop 250",
+    "stop_lat": 28.585576,
+    "stop_lon": 76.998939
+  },
+  {
+    "stop_id": "stop_0251",
+    "stop_name": "Delhi Bus Stop 251",
+    "stop_lat": 28.545538,
+    "stop_lon": 77.009543
+  },
+  {
+    "stop_id": "stop_0252",
+    "stop_name": "Delhi Bus Stop 252",
+    "stop_lat": 28.439901,
+    "stop_lon": 77.14581
+  },
+  {
+    "stop_id": "stop_0253",
+    "stop_name": "Delhi Bus Stop 253",
+    "stop_lat": 28.431152,
+    "stop_lon": 76.955456
+  },
+  {
+    "stop_id": "stop_0254",
+    "stop_name": "Delhi Bus Stop 254",
+    "stop_lat": 28.419715,
+    "stop_lon": 77.022528
+  },
+  {
+    "stop_id": "stop_0255",
+    "stop_name": "Delhi Bus Stop 255",
+    "stop_lat": 28.521857,
+    "stop_lon": 76.943962
+  },
+  {
+    "stop_id": "stop_0256",
+    "stop_name": "Delhi Bus Stop 256",
+    "stop_lat": 28.608186,
+    "stop_lon": 77.135349
+  },
+  {
+    "stop_id": "stop_0257",
+    "stop_name": "Delhi Bus Stop 257",
+    "stop_lat": 28.676191,
+    "stop_lon": 77.147235
+  },
+  {
+    "stop_id": "stop_0258",
+    "stop_name": "Delhi Bus Stop 258",
+    "stop_lat": 28.405718,
+    "stop_lon": 77.134527
+  },
+  {
+    "stop_id": "stop_0259",
+    "stop_name": "Delhi Bus Stop 259",
+    "stop_lat": 28.607783,
+    "stop_lon": 77.097275
+  },
+  {
+    "stop_id": "stop_0260",
+    "stop_name": "Delhi Bus Stop 260",
+    "stop_lat": 28.672248,
+    "stop_lon": 77.126843
+  },
+  {
+    "stop_id": "stop_0261",
+    "stop_name": "Delhi Bus Stop 261",
+    "stop_lat": 28.594549,
+    "stop_lon": 77.11723
+  },
+  {
+    "stop_id": "stop_0262",
+    "stop_name": "Delhi Bus Stop 262",
+    "stop_lat": 28.588109,
+    "stop_lon": 77.048444
+  },
+  {
+    "stop_id": "stop_0263",
+    "stop_name": "Delhi Bus Stop 263",
+    "stop_lat": 28.67223,
+    "stop_lon": 77.105794
+  },
+  {
+    "stop_id": "stop_0264",
+    "stop_name": "Delhi Bus Stop 264",
+    "stop_lat": 28.664046,
+    "stop_lon": 76.926542
+  },
+  {
+    "stop_id": "stop_0265",
+    "stop_name": "Delhi Bus Stop 265",
+    "stop_lat": 28.568777,
+    "stop_lon": 77.127645
+  },
+  {
+    "stop_id": "stop_0266",
+    "stop_name": "Delhi Bus Stop 266",
+    "stop_lat": 28.510363,
+    "stop_lon": 76.931708
+  },
+  {
+    "stop_id": "stop_0267",
+    "stop_name": "Delhi Bus Stop 267",
+    "stop_lat": 28.500082,
+    "stop_lon": 77.104883
+  },
+  {
+    "stop_id": "stop_0268",
+    "stop_name": "Delhi Bus Stop 268",
+    "stop_lat": 28.422774,
+    "stop_lon": 76.967639
+  },
+  {
+    "stop_id": "stop_0269",
+    "stop_name": "Delhi Bus Stop 269",
+    "stop_lat": 28.444126,
+    "stop_lon": 77.174318
+  },
+  {
+    "stop_id": "stop_0270",
+    "stop_name": "Delhi Bus Stop 270",
+    "stop_lat": 28.528907,
+    "stop_lon": 76.930609
+  },
+  {
+    "stop_id": "stop_0271",
+    "stop_name": "Delhi Bus Stop 271",
+    "stop_lat": 28.656274,
+    "stop_lon": 76.95833
+  },
+  {
+    "stop_id": "stop_0272",
+    "stop_name": "Delhi Bus Stop 272",
+    "stop_lat": 28.67276,
+    "stop_lon": 77.010989
+  },
+  {
+    "stop_id": "stop_0273",
+    "stop_name": "Delhi Bus Stop 273",
+    "stop_lat": 28.687283,
+    "stop_lon": 77.008073
+  },
+  {
+    "stop_id": "stop_0274",
+    "stop_name": "Delhi Bus Stop 274",
+    "stop_lat": 28.431657,
+    "stop_lon": 77.17821
+  },
+  {
+    "stop_id": "stop_0275",
+    "stop_name": "Delhi Bus Stop 275",
+    "stop_lat": 28.534615,
+    "stop_lon": 76.968264
+  },
+  {
+    "stop_id": "stop_0276",
+    "stop_name": "Delhi Bus Stop 276",
+    "stop_lat": 28.669004,
+    "stop_lon": 77.102473
+  },
+  {
+    "stop_id": "stop_0277",
+    "stop_name": "Delhi Bus Stop 277",
+    "stop_lat": 28.40968,
+    "stop_lon": 77.144057
+  },
+  {
+    "stop_id": "stop_0278",
+    "stop_name": "Delhi Bus Stop 278",
+    "stop_lat": 28.551091,
+    "stop_lon": 77.144683
+  },
+  {
+    "stop_id": "stop_0279",
+    "stop_name": "Delhi Bus Stop 279",
+    "stop_lat": 28.671347,
+    "stop_lon": 77.103152
+  },
+  {
+    "stop_id": "stop_0280",
+    "stop_name": "Delhi Bus Stop 280",
+    "stop_lat": 28.571014,
+    "stop_lon": 77.1937
+  },
+  {
+    "stop_id": "stop_0281",
+    "stop_name": "Delhi Bus Stop 281",
+    "stop_lat": 28.573106,
+    "stop_lon": 76.982056
+  },
+  {
+    "stop_id": "stop_0282",
+    "stop_name": "Delhi Bus Stop 282",
+    "stop_lat": 28.457571,
+    "stop_lon": 77.185577
+  },
+  {
+    "stop_id": "stop_0283",
+    "stop_name": "Delhi Bus Stop 283",
+    "stop_lat": 28.64211,
+    "stop_lon": 77.175259
+  },
+  {
+    "stop_id": "stop_0284",
+    "stop_name": "Delhi Bus Stop 284",
+    "stop_lat": 28.640855,
+    "stop_lon": 77.110954
+  },
+  {
+    "stop_id": "stop_0285",
+    "stop_name": "Delhi Bus Stop 285",
+    "stop_lat": 28.601369,
+    "stop_lon": 77.113521
+  },
+  {
+    "stop_id": "stop_0286",
+    "stop_name": "Delhi Bus Stop 286",
+    "stop_lat": 28.500766,
+    "stop_lon": 77.007005
+  },
+  {
+    "stop_id": "stop_0287",
+    "stop_name": "Delhi Bus Stop 287",
+    "stop_lat": 28.699887,
+    "stop_lon": 76.96394
+  },
+  {
+    "stop_id": "stop_0288",
+    "stop_name": "Delhi Bus Stop 288",
+    "stop_lat": 28.66253,
+    "stop_lon": 77.12738
+  },
+  {
+    "stop_id": "stop_0289",
+    "stop_name": "Delhi Bus Stop 289",
+    "stop_lat": 28.505234,
+    "stop_lon": 76.944879
+  },
+  {
+    "stop_id": "stop_0290",
+    "stop_name": "Delhi Bus Stop 290",
+    "stop_lat": 28.622192,
+    "stop_lon": 77.071018
+  },
+  {
+    "stop_id": "stop_0291",
+    "stop_name": "Delhi Bus Stop 291",
+    "stop_lat": 28.658865,
+    "stop_lon": 76.971415
+  },
+  {
+    "stop_id": "stop_0292",
+    "stop_name": "Delhi Bus Stop 292",
+    "stop_lat": 28.658478,
+    "stop_lon": 77.129146
+  },
+  {
+    "stop_id": "stop_0293",
+    "stop_name": "Delhi Bus Stop 293",
+    "stop_lat": 28.588954,
+    "stop_lon": 76.95271
+  },
+  {
+    "stop_id": "stop_0294",
+    "stop_name": "Delhi Bus Stop 294",
+    "stop_lat": 28.66106,
+    "stop_lon": 76.969502
+  },
+  {
+    "stop_id": "stop_0295",
+    "stop_name": "Delhi Bus Stop 295",
+    "stop_lat": 28.407514,
+    "stop_lon": 77.171464
+  },
+  {
+    "stop_id": "stop_0296",
+    "stop_name": "Delhi Bus Stop 296",
+    "stop_lat": 28.524325,
+    "stop_lon": 76.965939
+  },
+  {
+    "stop_id": "stop_0297",
+    "stop_name": "Delhi Bus Stop 297",
+    "stop_lat": 28.443987,
+    "stop_lon": 77.121044
+  },
+  {
+    "stop_id": "stop_0298",
+    "stop_name": "Delhi Bus Stop 298",
+    "stop_lat": 28.572183,
+    "stop_lon": 76.93083
+  },
+  {
+    "stop_id": "stop_0299",
+    "stop_name": "Delhi Bus Stop 299",
+    "stop_lat": 28.642772,
+    "stop_lon": 76.905301
+  },
+  {
+    "stop_id": "stop_0300",
+    "stop_name": "Delhi Bus Stop 300",
+    "stop_lat": 28.661487,
+    "stop_lon": 76.945405
+  },
+  {
+    "stop_id": "stop_0301",
+    "stop_name": "Delhi Bus Stop 301",
+    "stop_lat": 28.489553,
+    "stop_lon": 77.14973
+  },
+  {
+    "stop_id": "stop_0302",
+    "stop_name": "Delhi Bus Stop 302",
+    "stop_lat": 28.669402,
+    "stop_lon": 77.058238
+  },
+  {
+    "stop_id": "stop_0303",
+    "stop_name": "Delhi Bus Stop 303",
+    "stop_lat": 28.594404,
+    "stop_lon": 76.935524
+  },
+  {
+    "stop_id": "stop_0304",
+    "stop_name": "Delhi Bus Stop 304",
+    "stop_lat": 28.60425,
+    "stop_lon": 77.011083
+  },
+  {
+    "stop_id": "stop_0305",
+    "stop_name": "Delhi Bus Stop 305",
+    "stop_lat": 28.563355,
+    "stop_lon": 77.105873
+  },
+  {
+    "stop_id": "stop_0306",
+    "stop_name": "Delhi Bus Stop 306",
+    "stop_lat": 28.460037,
+    "stop_lon": 77.124196
+  },
+  {
+    "stop_id": "stop_0307",
+    "stop_name": "Delhi Bus Stop 307",
+    "stop_lat": 28.52913,
+    "stop_lon": 77.021362
+  },
+  {
+    "stop_id": "stop_0308",
+    "stop_name": "Delhi Bus Stop 308",
+    "stop_lat": 28.452071,
+    "stop_lon": 77.199799
+  },
+  {
+    "stop_id": "stop_0309",
+    "stop_name": "Delhi Bus Stop 309",
+    "stop_lat": 28.592976,
+    "stop_lon": 76.995979
+  },
+  {
+    "stop_id": "stop_0310",
+    "stop_name": "Delhi Bus Stop 310",
+    "stop_lat": 28.515187,
+    "stop_lon": 76.991538
+  },
+  {
+    "stop_id": "stop_0311",
+    "stop_name": "Delhi Bus Stop 311",
+    "stop_lat": 28.480576,
+    "stop_lon": 77.004028
+  },
+  {
+    "stop_id": "stop_0312",
+    "stop_name": "Delhi Bus Stop 312",
+    "stop_lat": 28.664748,
+    "stop_lon": 76.936486
+  },
+  {
+    "stop_id": "stop_0313",
+    "stop_name": "Delhi Bus Stop 313",
+    "stop_lat": 28.573126,
+    "stop_lon": 76.922078
+  },
+  {
+    "stop_id": "stop_0314",
+    "stop_name": "Delhi Bus Stop 314",
+    "stop_lat": 28.640214,
+    "stop_lon": 76.951326
+  },
+  {
+    "stop_id": "stop_0315",
+    "stop_name": "Delhi Bus Stop 315",
+    "stop_lat": 28.424392,
+    "stop_lon": 77.171755
+  },
+  {
+    "stop_id": "stop_0316",
+    "stop_name": "Delhi Bus Stop 316",
+    "stop_lat": 28.567161,
+    "stop_lon": 77.103304
+  },
+  {
+    "stop_id": "stop_0317",
+    "stop_name": "Delhi Bus Stop 317",
+    "stop_lat": 28.488356,
+    "stop_lon": 76.941999
+  },
+  {
+    "stop_id": "stop_0318",
+    "stop_name": "Delhi Bus Stop 318",
+    "stop_lat": 28.544118,
+    "stop_lon": 77.099619
+  },
+  {
+    "stop_id": "stop_0319",
+    "stop_name": "Delhi Bus Stop 319",
+    "stop_lat": 28.501849,
+    "stop_lon": 77.060804
+  },
+  {
+    "stop_id": "stop_0320",
+    "stop_name": "Delhi Bus Stop 320",
+    "stop_lat": 28.495102,
+    "stop_lon": 76.975024
+  },
+  {
+    "stop_id": "stop_0321",
+    "stop_name": "Delhi Bus Stop 321",
+    "stop_lat": 28.632328,
+    "stop_lon": 76.965305
+  },
+  {
+    "stop_id": "stop_0322",
+    "stop_name": "Delhi Bus Stop 322",
+    "stop_lat": 28.573193,
+    "stop_lon": 77.110253
+  },
+  {
+    "stop_id": "stop_0323",
+    "stop_name": "Delhi Bus Stop 323",
+    "stop_lat": 28.62845,
+    "stop_lon": 77.010529
+  },
+  {
+    "stop_id": "stop_0324",
+    "stop_name": "Delhi Bus Stop 324",
+    "stop_lat": 28.514957,
+    "stop_lon": 77.116169
+  },
+  {
+    "stop_id": "stop_0325",
+    "stop_name": "Delhi Bus Stop 325",
+    "stop_lat": 28.597667,
+    "stop_lon": 76.917028
+  },
+  {
+    "stop_id": "stop_0326",
+    "stop_name": "Delhi Bus Stop 326",
+    "stop_lat": 28.569726,
+    "stop_lon": 77.060836
+  },
+  {
+    "stop_id": "stop_0327",
+    "stop_name": "Delhi Bus Stop 327",
+    "stop_lat": 28.547414,
+    "stop_lon": 77.017617
+  },
+  {
+    "stop_id": "stop_0328",
+    "stop_name": "Delhi Bus Stop 328",
+    "stop_lat": 28.568635,
+    "stop_lon": 77.117584
+  },
+  {
+    "stop_id": "stop_0329",
+    "stop_name": "Delhi Bus Stop 329",
+    "stop_lat": 28.540118,
+    "stop_lon": 77.053601
+  },
+  {
+    "stop_id": "stop_0330",
+    "stop_name": "Delhi Bus Stop 330",
+    "stop_lat": 28.487957,
+    "stop_lon": 77.198712
+  },
+  {
+    "stop_id": "stop_0331",
+    "stop_name": "Delhi Bus Stop 331",
+    "stop_lat": 28.476008,
+    "stop_lon": 77.075996
+  },
+  {
+    "stop_id": "stop_0332",
+    "stop_name": "Delhi Bus Stop 332",
+    "stop_lat": 28.48477,
+    "stop_lon": 77.140268
+  },
+  {
+    "stop_id": "stop_0333",
+    "stop_name": "Delhi Bus Stop 333",
+    "stop_lat": 28.561888,
+    "stop_lon": 77.179705
+  },
+  {
+    "stop_id": "stop_0334",
+    "stop_name": "Delhi Bus Stop 334",
+    "stop_lat": 28.560182,
+    "stop_lon": 77.032326
+  },
+  {
+    "stop_id": "stop_0335",
+    "stop_name": "Delhi Bus Stop 335",
+    "stop_lat": 28.404834,
+    "stop_lon": 76.91704
+  },
+  {
+    "stop_id": "stop_0336",
+    "stop_name": "Delhi Bus Stop 336",
+    "stop_lat": 28.463193,
+    "stop_lon": 76.933445
+  },
+  {
+    "stop_id": "stop_0337",
+    "stop_name": "Delhi Bus Stop 337",
+    "stop_lat": 28.687854,
+    "stop_lon": 77.13673
+  },
+  {
+    "stop_id": "stop_0338",
+    "stop_name": "Delhi Bus Stop 338",
+    "stop_lat": 28.436378,
+    "stop_lon": 77.067729
+  },
+  {
+    "stop_id": "stop_0339",
+    "stop_name": "Delhi Bus Stop 339",
+    "stop_lat": 28.464412,
+    "stop_lon": 77.040457
+  },
+  {
+    "stop_id": "stop_0340",
+    "stop_name": "Delhi Bus Stop 340",
+    "stop_lat": 28.435225,
+    "stop_lon": 77.030023
+  },
+  {
+    "stop_id": "stop_0341",
+    "stop_name": "Delhi Bus Stop 341",
+    "stop_lat": 28.568405,
+    "stop_lon": 76.962132
+  },
+  {
+    "stop_id": "stop_0342",
+    "stop_name": "Delhi Bus Stop 342",
+    "stop_lat": 28.484548,
+    "stop_lon": 77.048862
+  },
+  {
+    "stop_id": "stop_0343",
+    "stop_name": "Delhi Bus Stop 343",
+    "stop_lat": 28.657313,
+    "stop_lon": 77.161018
+  },
+  {
+    "stop_id": "stop_0344",
+    "stop_name": "Delhi Bus Stop 344",
+    "stop_lat": 28.499946,
+    "stop_lon": 77.149042
+  },
+  {
+    "stop_id": "stop_0345",
+    "stop_name": "Delhi Bus Stop 345",
+    "stop_lat": 28.542779,
+    "stop_lon": 76.922755
+  },
+  {
+    "stop_id": "stop_0346",
+    "stop_name": "Delhi Bus Stop 346",
+    "stop_lat": 28.670053,
+    "stop_lon": 76.973541
+  },
+  {
+    "stop_id": "stop_0347",
+    "stop_name": "Delhi Bus Stop 347",
+    "stop_lat": 28.505434,
+    "stop_lon": 77.148917
+  },
+  {
+    "stop_id": "stop_0348",
+    "stop_name": "Delhi Bus Stop 348",
+    "stop_lat": 28.509904,
+    "stop_lon": 77.199157
+  },
+  {
+    "stop_id": "stop_0349",
+    "stop_name": "Delhi Bus Stop 349",
+    "stop_lat": 28.506996,
+    "stop_lon": 77.146549
+  },
+  {
+    "stop_id": "stop_0350",
+    "stop_name": "Delhi Bus Stop 350",
+    "stop_lat": 28.599608,
+    "stop_lon": 77.165055
+  },
+  {
+    "stop_id": "stop_0351",
+    "stop_name": "Delhi Bus Stop 351",
+    "stop_lat": 28.525356,
+    "stop_lon": 76.999838
+  },
+  {
+    "stop_id": "stop_0352",
+    "stop_name": "Delhi Bus Stop 352",
+    "stop_lat": 28.491265,
+    "stop_lon": 76.921611
+  },
+  {
+    "stop_id": "stop_0353",
+    "stop_name": "Delhi Bus Stop 353",
+    "stop_lat": 28.698393,
+    "stop_lon": 77.123286
+  },
+  {
+    "stop_id": "stop_0354",
+    "stop_name": "Delhi Bus Stop 354",
+    "stop_lat": 28.504894,
+    "stop_lon": 77.078693
+  },
+  {
+    "stop_id": "stop_0355",
+    "stop_name": "Delhi Bus Stop 355",
+    "stop_lat": 28.676722,
+    "stop_lon": 76.982772
+  },
+  {
+    "stop_id": "stop_0356",
+    "stop_name": "Delhi Bus Stop 356",
+    "stop_lat": 28.58934,
+    "stop_lon": 77.084636
+  },
+  {
+    "stop_id": "stop_0357",
+    "stop_name": "Delhi Bus Stop 357",
+    "stop_lat": 28.676484,
+    "stop_lon": 77.076683
+  },
+  {
+    "stop_id": "stop_0358",
+    "stop_name": "Delhi Bus Stop 358",
+    "stop_lat": 28.69605,
+    "stop_lon": 77.029386
+  },
+  {
+    "stop_id": "stop_0359",
+    "stop_name": "Delhi Bus Stop 359",
+    "stop_lat": 28.492726,
+    "stop_lon": 77.054496
+  },
+  {
+    "stop_id": "stop_0360",
+    "stop_name": "Delhi Bus Stop 360",
+    "stop_lat": 28.463625,
+    "stop_lon": 76.936193
+  },
+  {
+    "stop_id": "stop_0361",
+    "stop_name": "Delhi Bus Stop 361",
+    "stop_lat": 28.418393,
+    "stop_lon": 76.996351
+  },
+  {
+    "stop_id": "stop_0362",
+    "stop_name": "Delhi Bus Stop 362",
+    "stop_lat": 28.594952,
+    "stop_lon": 77.064562
+  },
+  {
+    "stop_id": "stop_0363",
+    "stop_name": "Delhi Bus Stop 363",
+    "stop_lat": 28.64821,
+    "stop_lon": 77.102276
+  },
+  {
+    "stop_id": "stop_0364",
+    "stop_name": "Delhi Bus Stop 364",
+    "stop_lat": 28.553745,
+    "stop_lon": 77.000934
+  },
+  {
+    "stop_id": "stop_0365",
+    "stop_name": "Delhi Bus Stop 365",
+    "stop_lat": 28.576152,
+    "stop_lon": 76.992263
+  },
+  {
+    "stop_id": "stop_0366",
+    "stop_name": "Delhi Bus Stop 366",
+    "stop_lat": 28.43244,
+    "stop_lon": 77.100272
+  },
+  {
+    "stop_id": "stop_0367",
+    "stop_name": "Delhi Bus Stop 367",
+    "stop_lat": 28.420731,
+    "stop_lon": 76.941671
+  },
+  {
+    "stop_id": "stop_0368",
+    "stop_name": "Delhi Bus Stop 368",
+    "stop_lat": 28.483007,
+    "stop_lon": 76.950104
+  },
+  {
+    "stop_id": "stop_0369",
+    "stop_name": "Delhi Bus Stop 369",
+    "stop_lat": 28.407273,
+    "stop_lon": 77.048823
+  },
+  {
+    "stop_id": "stop_0370",
+    "stop_name": "Delhi Bus Stop 370",
+    "stop_lat": 28.568188,
+    "stop_lon": 77.028073
+  },
+  {
+    "stop_id": "stop_0371",
+    "stop_name": "Delhi Bus Stop 371",
+    "stop_lat": 28.637759,
+    "stop_lon": 77.078825
+  },
+  {
+    "stop_id": "stop_0372",
+    "stop_name": "Delhi Bus Stop 372",
+    "stop_lat": 28.63905,
+    "stop_lon": 77.051619
+  },
+  {
+    "stop_id": "stop_0373",
+    "stop_name": "Delhi Bus Stop 373",
+    "stop_lat": 28.447264,
+    "stop_lon": 77.163444
+  },
+  {
+    "stop_id": "stop_0374",
+    "stop_name": "Delhi Bus Stop 374",
+    "stop_lat": 28.588779,
+    "stop_lon": 77.057887
+  },
+  {
+    "stop_id": "stop_0375",
+    "stop_name": "Delhi Bus Stop 375",
+    "stop_lat": 28.532145,
+    "stop_lon": 77.025869
+  },
+  {
+    "stop_id": "stop_0376",
+    "stop_name": "Delhi Bus Stop 376",
+    "stop_lat": 28.52332,
+    "stop_lon": 77.12583
+  },
+  {
+    "stop_id": "stop_0377",
+    "stop_name": "Delhi Bus Stop 377",
+    "stop_lat": 28.420714,
+    "stop_lon": 77.188589
+  },
+  {
+    "stop_id": "stop_0378",
+    "stop_name": "Delhi Bus Stop 378",
+    "stop_lat": 28.641801,
+    "stop_lon": 77.122742
+  },
+  {
+    "stop_id": "stop_0379",
+    "stop_name": "Delhi Bus Stop 379",
+    "stop_lat": 28.643319,
+    "stop_lon": 76.99807
+  },
+  {
+    "stop_id": "stop_0380",
+    "stop_name": "Delhi Bus Stop 380",
+    "stop_lat": 28.621051,
+    "stop_lon": 77.102317
+  },
+  {
+    "stop_id": "stop_0381",
+    "stop_name": "Delhi Bus Stop 381",
+    "stop_lat": 28.668091,
+    "stop_lon": 76.910186
+  },
+  {
+    "stop_id": "stop_0382",
+    "stop_name": "Delhi Bus Stop 382",
+    "stop_lat": 28.456277,
+    "stop_lon": 77.071205
+  },
+  {
+    "stop_id": "stop_0383",
+    "stop_name": "Delhi Bus Stop 383",
+    "stop_lat": 28.687123,
+    "stop_lon": 77.065298
+  },
+  {
+    "stop_id": "stop_0384",
+    "stop_name": "Delhi Bus Stop 384",
+    "stop_lat": 28.6711,
+    "stop_lon": 76.910539
+  },
+  {
+    "stop_id": "stop_0385",
+    "stop_name": "Delhi Bus Stop 385",
+    "stop_lat": 28.651012,
+    "stop_lon": 77.056226
+  },
+  {
+    "stop_id": "stop_0386",
+    "stop_name": "Delhi Bus Stop 386",
+    "stop_lat": 28.590836,
+    "stop_lon": 77.054175
+  },
+  {
+    "stop_id": "stop_0387",
+    "stop_name": "Delhi Bus Stop 387",
+    "stop_lat": 28.64964,
+    "stop_lon": 77.059366
+  },
+  {
+    "stop_id": "stop_0388",
+    "stop_name": "Delhi Bus Stop 388",
+    "stop_lat": 28.515617,
+    "stop_lon": 77.096064
+  },
+  {
+    "stop_id": "stop_0389",
+    "stop_name": "Delhi Bus Stop 389",
+    "stop_lat": 28.517571,
+    "stop_lon": 77.04375
+  },
+  {
+    "stop_id": "stop_0390",
+    "stop_name": "Delhi Bus Stop 390",
+    "stop_lat": 28.619561,
+    "stop_lon": 77.165538
+  },
+  {
+    "stop_id": "stop_0391",
+    "stop_name": "Delhi Bus Stop 391",
+    "stop_lat": 28.423143,
+    "stop_lon": 76.940542
+  },
+  {
+    "stop_id": "stop_0392",
+    "stop_name": "Delhi Bus Stop 392",
+    "stop_lat": 28.656822,
+    "stop_lon": 77.167081
+  },
+  {
+    "stop_id": "stop_0393",
+    "stop_name": "Delhi Bus Stop 393",
+    "stop_lat": 28.688953,
+    "stop_lon": 77.173415
+  },
+  {
+    "stop_id": "stop_0394",
+    "stop_name": "Delhi Bus Stop 394",
+    "stop_lat": 28.406345,
+    "stop_lon": 76.957036
+  },
+  {
+    "stop_id": "stop_0395",
+    "stop_name": "Delhi Bus Stop 395",
+    "stop_lat": 28.588854,
+    "stop_lon": 76.911431
+  },
+  {
+    "stop_id": "stop_0396",
+    "stop_name": "Delhi Bus Stop 396",
+    "stop_lat": 28.493628,
+    "stop_lon": 77.129134
+  },
+  {
+    "stop_id": "stop_0397",
+    "stop_name": "Delhi Bus Stop 397",
+    "stop_lat": 28.617405,
+    "stop_lon": 77.031982
+  },
+  {
+    "stop_id": "stop_0398",
+    "stop_name": "Delhi Bus Stop 398",
+    "stop_lat": 28.589557,
+    "stop_lon": 77.184079
+  },
+  {
+    "stop_id": "stop_0399",
+    "stop_name": "Delhi Bus Stop 399",
+    "stop_lat": 28.67795,
+    "stop_lon": 76.910276
+  },
+  {
+    "stop_id": "stop_0400",
+    "stop_name": "Delhi Bus Stop 400",
+    "stop_lat": 28.621981,
+    "stop_lon": 77.176058
+  },
+  {
+    "stop_id": "stop_0401",
+    "stop_name": "Delhi Bus Stop 401",
+    "stop_lat": 28.594899,
+    "stop_lon": 77.1693
+  },
+  {
+    "stop_id": "stop_0402",
+    "stop_name": "Delhi Bus Stop 402",
+    "stop_lat": 28.619062,
+    "stop_lon": 77.078528
+  },
+  {
+    "stop_id": "stop_0403",
+    "stop_name": "Delhi Bus Stop 403",
+    "stop_lat": 28.41822,
+    "stop_lon": 76.903039
+  },
+  {
+    "stop_id": "stop_0404",
+    "stop_name": "Delhi Bus Stop 404",
+    "stop_lat": 28.474275,
+    "stop_lon": 77.152711
+  },
+  {
+    "stop_id": "stop_0405",
+    "stop_name": "Delhi Bus Stop 405",
+    "stop_lat": 28.540289,
+    "stop_lon": 77.046153
+  },
+  {
+    "stop_id": "stop_0406",
+    "stop_name": "Delhi Bus Stop 406",
+    "stop_lat": 28.493761,
+    "stop_lon": 76.967129
+  },
+  {
+    "stop_id": "stop_0407",
+    "stop_name": "Delhi Bus Stop 407",
+    "stop_lat": 28.57422,
+    "stop_lon": 77.135163
+  },
+  {
+    "stop_id": "stop_0408",
+    "stop_name": "Delhi Bus Stop 408",
+    "stop_lat": 28.60952,
+    "stop_lon": 76.937274
+  },
+  {
+    "stop_id": "stop_0409",
+    "stop_name": "Delhi Bus Stop 409",
+    "stop_lat": 28.567865,
+    "stop_lon": 77.034795
+  },
+  {
+    "stop_id": "stop_0410",
+    "stop_name": "Delhi Bus Stop 410",
+    "stop_lat": 28.585456,
+    "stop_lon": 77.140434
+  },
+  {
+    "stop_id": "stop_0411",
+    "stop_name": "Delhi Bus Stop 411",
+    "stop_lat": 28.43486,
+    "stop_lon": 77.030688
+  },
+  {
+    "stop_id": "stop_0412",
+    "stop_name": "Delhi Bus Stop 412",
+    "stop_lat": 28.677145,
+    "stop_lon": 77.123475
+  },
+  {
+    "stop_id": "stop_0413",
+    "stop_name": "Delhi Bus Stop 413",
+    "stop_lat": 28.464746,
+    "stop_lon": 76.905871
+  },
+  {
+    "stop_id": "stop_0414",
+    "stop_name": "Delhi Bus Stop 414",
+    "stop_lat": 28.420222,
+    "stop_lon": 77.044314
+  },
+  {
+    "stop_id": "stop_0415",
+    "stop_name": "Delhi Bus Stop 415",
+    "stop_lat": 28.555596,
+    "stop_lon": 76.930728
+  },
+  {
+    "stop_id": "stop_0416",
+    "stop_name": "Delhi Bus Stop 416",
+    "stop_lat": 28.607061,
+    "stop_lon": 76.940626
+  },
+  {
+    "stop_id": "stop_0417",
+    "stop_name": "Delhi Bus Stop 417",
+    "stop_lat": 28.404706,
+    "stop_lon": 77.061568
+  },
+  {
+    "stop_id": "stop_0418",
+    "stop_name": "Delhi Bus Stop 418",
+    "stop_lat": 28.676931,
+    "stop_lon": 77.108674
+  },
+  {
+    "stop_id": "stop_0419",
+    "stop_name": "Delhi Bus Stop 419",
+    "stop_lat": 28.618652,
+    "stop_lon": 76.914468
+  },
+  {
+    "stop_id": "stop_0420",
+    "stop_name": "Delhi Bus Stop 420",
+    "stop_lat": 28.500531,
+    "stop_lon": 77.113486
+  },
+  {
+    "stop_id": "stop_0421",
+    "stop_name": "Delhi Bus Stop 421",
+    "stop_lat": 28.537043,
+    "stop_lon": 77.028839
+  },
+  {
+    "stop_id": "stop_0422",
+    "stop_name": "Delhi Bus Stop 422",
+    "stop_lat": 28.62295,
+    "stop_lon": 77.110706
+  },
+  {
+    "stop_id": "stop_0423",
+    "stop_name": "Delhi Bus Stop 423",
+    "stop_lat": 28.648998,
+    "stop_lon": 76.944374
+  },
+  {
+    "stop_id": "stop_0424",
+    "stop_name": "Delhi Bus Stop 424",
+    "stop_lat": 28.5158,
+    "stop_lon": 77.164763
+  },
+  {
+    "stop_id": "stop_0425",
+    "stop_name": "Delhi Bus Stop 425",
+    "stop_lat": 28.677646,
+    "stop_lon": 77.161699
+  },
+  {
+    "stop_id": "stop_0426",
+    "stop_name": "Delhi Bus Stop 426",
+    "stop_lat": 28.628004,
+    "stop_lon": 77.103446
+  },
+  {
+    "stop_id": "stop_0427",
+    "stop_name": "Delhi Bus Stop 427",
+    "stop_lat": 28.485938,
+    "stop_lon": 77.013017
+  },
+  {
+    "stop_id": "stop_0428",
+    "stop_name": "Delhi Bus Stop 428",
+    "stop_lat": 28.570445,
+    "stop_lon": 76.925726
+  },
+  {
+    "stop_id": "stop_0429",
+    "stop_name": "Delhi Bus Stop 429",
+    "stop_lat": 28.51082,
+    "stop_lon": 77.02457
+  },
+  {
+    "stop_id": "stop_0430",
+    "stop_name": "Delhi Bus Stop 430",
+    "stop_lat": 28.493518,
+    "stop_lon": 77.040648
+  },
+  {
+    "stop_id": "stop_0431",
+    "stop_name": "Delhi Bus Stop 431",
+    "stop_lat": 28.451851,
+    "stop_lon": 77.159809
+  },
+  {
+    "stop_id": "stop_0432",
+    "stop_name": "Delhi Bus Stop 432",
+    "stop_lat": 28.668155,
+    "stop_lon": 76.956178
+  },
+  {
+    "stop_id": "stop_0433",
+    "stop_name": "Delhi Bus Stop 433",
+    "stop_lat": 28.634478,
+    "stop_lon": 77.009365
+  },
+  {
+    "stop_id": "stop_0434",
+    "stop_name": "Delhi Bus Stop 434",
+    "stop_lat": 28.630124,
+    "stop_lon": 77.122453
+  },
+  {
+    "stop_id": "stop_0435",
+    "stop_name": "Delhi Bus Stop 435",
+    "stop_lat": 28.519712,
+    "stop_lon": 77.059823
+  },
+  {
+    "stop_id": "stop_0436",
+    "stop_name": "Delhi Bus Stop 436",
+    "stop_lat": 28.431807,
+    "stop_lon": 77.074082
+  },
+  {
+    "stop_id": "stop_0437",
+    "stop_name": "Delhi Bus Stop 437",
+    "stop_lat": 28.509739,
+    "stop_lon": 77.047986
+  },
+  {
+    "stop_id": "stop_0438",
+    "stop_name": "Delhi Bus Stop 438",
+    "stop_lat": 28.506113,
+    "stop_lon": 76.933981
+  },
+  {
+    "stop_id": "stop_0439",
+    "stop_name": "Delhi Bus Stop 439",
+    "stop_lat": 28.48498,
+    "stop_lon": 76.982636
+  },
+  {
+    "stop_id": "stop_0440",
+    "stop_name": "Delhi Bus Stop 440",
+    "stop_lat": 28.419784,
+    "stop_lon": 77.077433
+  },
+  {
+    "stop_id": "stop_0441",
+    "stop_name": "Delhi Bus Stop 441",
+    "stop_lat": 28.48905,
+    "stop_lon": 77.115779
+  },
+  {
+    "stop_id": "stop_0442",
+    "stop_name": "Delhi Bus Stop 442",
+    "stop_lat": 28.441508,
+    "stop_lon": 77.099781
+  },
+  {
+    "stop_id": "stop_0443",
+    "stop_name": "Delhi Bus Stop 443",
+    "stop_lat": 28.4201,
+    "stop_lon": 76.959673
+  },
+  {
+    "stop_id": "stop_0444",
+    "stop_name": "Delhi Bus Stop 444",
+    "stop_lat": 28.417491,
+    "stop_lon": 77.094029
+  },
+  {
+    "stop_id": "stop_0445",
+    "stop_name": "Delhi Bus Stop 445",
+    "stop_lat": 28.513157,
+    "stop_lon": 76.908523
+  },
+  {
+    "stop_id": "stop_0446",
+    "stop_name": "Delhi Bus Stop 446",
+    "stop_lat": 28.522648,
+    "stop_lon": 77.156919
+  },
+  {
+    "stop_id": "stop_0447",
+    "stop_name": "Delhi Bus Stop 447",
+    "stop_lat": 28.546649,
+    "stop_lon": 76.949093
+  },
+  {
+    "stop_id": "stop_0448",
+    "stop_name": "Delhi Bus Stop 448",
+    "stop_lat": 28.4445,
+    "stop_lon": 76.973743
+  },
+  {
+    "stop_id": "stop_0449",
+    "stop_name": "Delhi Bus Stop 449",
+    "stop_lat": 28.504292,
+    "stop_lon": 76.976396
+  },
+  {
+    "stop_id": "stop_0450",
+    "stop_name": "Delhi Bus Stop 450",
+    "stop_lat": 28.503928,
+    "stop_lon": 77.070275
+  },
+  {
+    "stop_id": "stop_0451",
+    "stop_name": "Delhi Bus Stop 451",
+    "stop_lat": 28.466673,
+    "stop_lon": 76.937849
+  },
+  {
+    "stop_id": "stop_0452",
+    "stop_name": "Delhi Bus Stop 452",
+    "stop_lat": 28.468778,
+    "stop_lon": 76.907458
+  },
+  {
+    "stop_id": "stop_0453",
+    "stop_name": "Delhi Bus Stop 453",
+    "stop_lat": 28.557936,
+    "stop_lon": 77.090685
+  },
+  {
+    "stop_id": "stop_0454",
+    "stop_name": "Delhi Bus Stop 454",
+    "stop_lat": 28.489328,
+    "stop_lon": 77.125842
+  },
+  {
+    "stop_id": "stop_0455",
+    "stop_name": "Delhi Bus Stop 455",
+    "stop_lat": 28.578203,
+    "stop_lon": 77.180506
+  },
+  {
+    "stop_id": "stop_0456",
+    "stop_name": "Delhi Bus Stop 456",
+    "stop_lat": 28.474822,
+    "stop_lon": 77.030822
+  },
+  {
+    "stop_id": "stop_0457",
+    "stop_name": "Delhi Bus Stop 457",
+    "stop_lat": 28.626355,
+    "stop_lon": 77.131501
+  },
+  {
+    "stop_id": "stop_0458",
+    "stop_name": "Delhi Bus Stop 458",
+    "stop_lat": 28.677876,
+    "stop_lon": 77.183991
+  },
+  {
+    "stop_id": "stop_0459",
+    "stop_name": "Delhi Bus Stop 459",
+    "stop_lat": 28.532779,
+    "stop_lon": 77.197083
+  },
+  {
+    "stop_id": "stop_0460",
+    "stop_name": "Delhi Bus Stop 460",
+    "stop_lat": 28.69767,
+    "stop_lon": 77.120312
+  },
+  {
+    "stop_id": "stop_0461",
+    "stop_name": "Delhi Bus Stop 461",
+    "stop_lat": 28.580269,
+    "stop_lon": 77.088796
+  },
+  {
+    "stop_id": "stop_0462",
+    "stop_name": "Delhi Bus Stop 462",
+    "stop_lat": 28.6657,
+    "stop_lon": 76.995422
+  },
+  {
+    "stop_id": "stop_0463",
+    "stop_name": "Delhi Bus Stop 463",
+    "stop_lat": 28.44248,
+    "stop_lon": 76.997224
+  },
+  {
+    "stop_id": "stop_0464",
+    "stop_name": "Delhi Bus Stop 464",
+    "stop_lat": 28.565383,
+    "stop_lon": 77.170535
+  },
+  {
+    "stop_id": "stop_0465",
+    "stop_name": "Delhi Bus Stop 465",
+    "stop_lat": 28.659315,
+    "stop_lon": 77.199502
+  },
+  {
+    "stop_id": "stop_0466",
+    "stop_name": "Delhi Bus Stop 466",
+    "stop_lat": 28.441026,
+    "stop_lon": 77.091414
+  },
+  {
+    "stop_id": "stop_0467",
+    "stop_name": "Delhi Bus Stop 467",
+    "stop_lat": 28.646987,
+    "stop_lon": 77.18333
+  },
+  {
+    "stop_id": "stop_0468",
+    "stop_name": "Delhi Bus Stop 468",
+    "stop_lat": 28.639449,
+    "stop_lon": 77.095
+  },
+  {
+    "stop_id": "stop_0469",
+    "stop_name": "Delhi Bus Stop 469",
+    "stop_lat": 28.448114,
+    "stop_lon": 77.164194
+  },
+  {
+    "stop_id": "stop_0470",
+    "stop_name": "Delhi Bus Stop 470",
+    "stop_lat": 28.602865,
+    "stop_lon": 77.040525
+  },
+  {
+    "stop_id": "stop_0471",
+    "stop_name": "Delhi Bus Stop 471",
+    "stop_lat": 28.555591,
+    "stop_lon": 77.083557
+  },
+  {
+    "stop_id": "stop_0472",
+    "stop_name": "Delhi Bus Stop 472",
+    "stop_lat": 28.686986,
+    "stop_lon": 76.994865
+  },
+  {
+    "stop_id": "stop_0473",
+    "stop_name": "Delhi Bus Stop 473",
+    "stop_lat": 28.408119,
+    "stop_lon": 77.189344
+  },
+  {
+    "stop_id": "stop_0474",
+    "stop_name": "Delhi Bus Stop 474",
+    "stop_lat": 28.456645,
+    "stop_lon": 76.943177
+  },
+  {
+    "stop_id": "stop_0475",
+    "stop_name": "Delhi Bus Stop 475",
+    "stop_lat": 28.5785,
+    "stop_lon": 77.06468
+  },
+  {
+    "stop_id": "stop_0476",
+    "stop_name": "Delhi Bus Stop 476",
+    "stop_lat": 28.564477,
+    "stop_lon": 76.997326
+  },
+  {
+    "stop_id": "stop_0477",
+    "stop_name": "Delhi Bus Stop 477",
+    "stop_lat": 28.639465,
+    "stop_lon": 77.107917
+  },
+  {
+    "stop_id": "stop_0478",
+    "stop_name": "Delhi Bus Stop 478",
+    "stop_lat": 28.447898,
+    "stop_lon": 77.144529
+  },
+  {
+    "stop_id": "stop_0479",
+    "stop_name": "Delhi Bus Stop 479",
+    "stop_lat": 28.498533,
+    "stop_lon": 76.976816
+  },
+  {
+    "stop_id": "stop_0480",
+    "stop_name": "Delhi Bus Stop 480",
+    "stop_lat": 28.577219,
+    "stop_lon": 76.930861
+  },
+  {
+    "stop_id": "stop_0481",
+    "stop_name": "Delhi Bus Stop 481",
+    "stop_lat": 28.484295,
+    "stop_lon": 77.196197
+  },
+  {
+    "stop_id": "stop_0482",
+    "stop_name": "Delhi Bus Stop 482",
+    "stop_lat": 28.464167,
+    "stop_lon": 76.937644
+  },
+  {
+    "stop_id": "stop_0483",
+    "stop_name": "Delhi Bus Stop 483",
+    "stop_lat": 28.562096,
+    "stop_lon": 76.983971
+  },
+  {
+    "stop_id": "stop_0484",
+    "stop_name": "Delhi Bus Stop 484",
+    "stop_lat": 28.570395,
+    "stop_lon": 77.189779
+  },
+  {
+    "stop_id": "stop_0485",
+    "stop_name": "Delhi Bus Stop 485",
+    "stop_lat": 28.441719,
+    "stop_lon": 76.989857
+  },
+  {
+    "stop_id": "stop_0486",
+    "stop_name": "Delhi Bus Stop 486",
+    "stop_lat": 28.487885,
+    "stop_lon": 77.042194
+  },
+  {
+    "stop_id": "stop_0487",
+    "stop_name": "Delhi Bus Stop 487",
+    "stop_lat": 28.578276,
+    "stop_lon": 76.947197
+  },
+  {
+    "stop_id": "stop_0488",
+    "stop_name": "Delhi Bus Stop 488",
+    "stop_lat": 28.42727,
+    "stop_lon": 76.924148
+  },
+  {
+    "stop_id": "stop_0489",
+    "stop_name": "Delhi Bus Stop 489",
+    "stop_lat": 28.5551,
+    "stop_lon": 77.088782
+  },
+  {
+    "stop_id": "stop_0490",
+    "stop_name": "Delhi Bus Stop 490",
+    "stop_lat": 28.571479,
+    "stop_lon": 77.153512
+  },
+  {
+    "stop_id": "stop_0491",
+    "stop_name": "Delhi Bus Stop 491",
+    "stop_lat": 28.608596,
+    "stop_lon": 77.188843
+  },
+  {
+    "stop_id": "stop_0492",
+    "stop_name": "Delhi Bus Stop 492",
+    "stop_lat": 28.676896,
+    "stop_lon": 76.92871
+  },
+  {
+    "stop_id": "stop_0493",
+    "stop_name": "Delhi Bus Stop 493",
+    "stop_lat": 28.430948,
+    "stop_lon": 77.192497
+  },
+  {
+    "stop_id": "stop_0494",
+    "stop_name": "Delhi Bus Stop 494",
+    "stop_lat": 28.564452,
+    "stop_lon": 77.02821
+  },
+  {
+    "stop_id": "stop_0495",
+    "stop_name": "Delhi Bus Stop 495",
+    "stop_lat": 28.552164,
+    "stop_lon": 77.170108
+  },
+  {
+    "stop_id": "stop_0496",
+    "stop_name": "Delhi Bus Stop 496",
+    "stop_lat": 28.68008,
+    "stop_lon": 77.16848
+  },
+  {
+    "stop_id": "stop_0497",
+    "stop_name": "Delhi Bus Stop 497",
+    "stop_lat": 28.554792,
+    "stop_lon": 77.174464
+  },
+  {
+    "stop_id": "stop_0498",
+    "stop_name": "Delhi Bus Stop 498",
+    "stop_lat": 28.697606,
+    "stop_lon": 77.130525
+  },
+  {
+    "stop_id": "stop_0499",
+    "stop_name": "Delhi Bus Stop 499",
+    "stop_lat": 28.67716,
+    "stop_lon": 77.003998
+  },
+  {
+    "stop_id": "stop_0500",
+    "stop_name": "Delhi Bus Stop 500",
+    "stop_lat": 28.585396,
+    "stop_lon": 77.117973
+  },
+  {
+    "stop_id": "stop_0501",
+    "stop_name": "Delhi Bus Stop 501",
+    "stop_lat": 28.626052,
+    "stop_lon": 76.968845
+  },
+  {
+    "stop_id": "stop_0502",
+    "stop_name": "Delhi Bus Stop 502",
+    "stop_lat": 28.503789,
+    "stop_lon": 77.061128
+  },
+  {
+    "stop_id": "stop_0503",
+    "stop_name": "Delhi Bus Stop 503",
+    "stop_lat": 28.488296,
+    "stop_lon": 77.132055
+  },
+  {
+    "stop_id": "stop_0504",
+    "stop_name": "Delhi Bus Stop 504",
+    "stop_lat": 28.496667,
+    "stop_lon": 76.953709
+  },
+  {
+    "stop_id": "stop_0505",
+    "stop_name": "Delhi Bus Stop 505",
+    "stop_lat": 28.504124,
+    "stop_lon": 76.950252
+  },
+  {
+    "stop_id": "stop_0506",
+    "stop_name": "Delhi Bus Stop 506",
+    "stop_lat": 28.571716,
+    "stop_lon": 77.136508
+  },
+  {
+    "stop_id": "stop_0507",
+    "stop_name": "Delhi Bus Stop 507",
+    "stop_lat": 28.601543,
+    "stop_lon": 76.947355
+  },
+  {
+    "stop_id": "stop_0508",
+    "stop_name": "Delhi Bus Stop 508",
+    "stop_lat": 28.57223,
+    "stop_lon": 76.987416
+  },
+  {
+    "stop_id": "stop_0509",
+    "stop_name": "Delhi Bus Stop 509",
+    "stop_lat": 28.490647,
+    "stop_lon": 77.166037
+  },
+  {
+    "stop_id": "stop_0510",
+    "stop_name": "Delhi Bus Stop 510",
+    "stop_lat": 28.547112,
+    "stop_lon": 76.960169
+  },
+  {
+    "stop_id": "stop_0511",
+    "stop_name": "Delhi Bus Stop 511",
+    "stop_lat": 28.63814,
+    "stop_lon": 76.901979
+  },
+  {
+    "stop_id": "stop_0512",
+    "stop_name": "Delhi Bus Stop 512",
+    "stop_lat": 28.655138,
+    "stop_lon": 77.051327
+  },
+  {
+    "stop_id": "stop_0513",
+    "stop_name": "Delhi Bus Stop 513",
+    "stop_lat": 28.680942,
+    "stop_lon": 76.925356
+  },
+  {
+    "stop_id": "stop_0514",
+    "stop_name": "Delhi Bus Stop 514",
+    "stop_lat": 28.546892,
+    "stop_lon": 77.151732
+  },
+  {
+    "stop_id": "stop_0515",
+    "stop_name": "Delhi Bus Stop 515",
+    "stop_lat": 28.64936,
+    "stop_lon": 77.097951
+  },
+  {
+    "stop_id": "stop_0516",
+    "stop_name": "Delhi Bus Stop 516",
+    "stop_lat": 28.455587,
+    "stop_lon": 77.017695
+  },
+  {
+    "stop_id": "stop_0517",
+    "stop_name": "Delhi Bus Stop 517",
+    "stop_lat": 28.696464,
+    "stop_lon": 77.079245
+  },
+  {
+    "stop_id": "stop_0518",
+    "stop_name": "Delhi Bus Stop 518",
+    "stop_lat": 28.505013,
+    "stop_lon": 77.088529
+  },
+  {
+    "stop_id": "stop_0519",
+    "stop_name": "Delhi Bus Stop 519",
+    "stop_lat": 28.685509,
+    "stop_lon": 77.155384
+  },
+  {
+    "stop_id": "stop_0520",
+    "stop_name": "Delhi Bus Stop 520",
+    "stop_lat": 28.532554,
+    "stop_lon": 77.099417
+  },
+  {
+    "stop_id": "stop_0521",
+    "stop_name": "Delhi Bus Stop 521",
+    "stop_lat": 28.686597,
+    "stop_lon": 77.084099
+  },
+  {
+    "stop_id": "stop_0522",
+    "stop_name": "Delhi Bus Stop 522",
+    "stop_lat": 28.629176,
+    "stop_lon": 77.168915
+  },
+  {
+    "stop_id": "stop_0523",
+    "stop_name": "Delhi Bus Stop 523",
+    "stop_lat": 28.463082,
+    "stop_lon": 77.066416
+  },
+  {
+    "stop_id": "stop_0524",
+    "stop_name": "Delhi Bus Stop 524",
+    "stop_lat": 28.43686,
+    "stop_lon": 76.921801
+  },
+  {
+    "stop_id": "stop_0525",
+    "stop_name": "Delhi Bus Stop 525",
+    "stop_lat": 28.613044,
+    "stop_lon": 76.926685
+  },
+  {
+    "stop_id": "stop_0526",
+    "stop_name": "Delhi Bus Stop 526",
+    "stop_lat": 28.630102,
+    "stop_lon": 77.072066
+  },
+  {
+    "stop_id": "stop_0527",
+    "stop_name": "Delhi Bus Stop 527",
+    "stop_lat": 28.415598,
+    "stop_lon": 77.057755
+  },
+  {
+    "stop_id": "stop_0528",
+    "stop_name": "Delhi Bus Stop 528",
+    "stop_lat": 28.646456,
+    "stop_lon": 76.900487
+  },
+  {
+    "stop_id": "stop_0529",
+    "stop_name": "Delhi Bus Stop 529",
+    "stop_lat": 28.697728,
+    "stop_lon": 76.952376
+  },
+  {
+    "stop_id": "stop_0530",
+    "stop_name": "Delhi Bus Stop 530",
+    "stop_lat": 28.570845,
+    "stop_lon": 77.003519
+  },
+  {
+    "stop_id": "stop_0531",
+    "stop_name": "Delhi Bus Stop 531",
+    "stop_lat": 28.686457,
+    "stop_lon": 76.98292
+  },
+  {
+    "stop_id": "stop_0532",
+    "stop_name": "Delhi Bus Stop 532",
+    "stop_lat": 28.431619,
+    "stop_lon": 77.066932
+  },
+  {
+    "stop_id": "stop_0533",
+    "stop_name": "Delhi Bus Stop 533",
+    "stop_lat": 28.471689,
+    "stop_lon": 77.161286
+  },
+  {
+    "stop_id": "stop_0534",
+    "stop_name": "Delhi Bus Stop 534",
+    "stop_lat": 28.636282,
+    "stop_lon": 77.001646
+  },
+  {
+    "stop_id": "stop_0535",
+    "stop_name": "Delhi Bus Stop 535",
+    "stop_lat": 28.573434,
+    "stop_lon": 77.188253
+  },
+  {
+    "stop_id": "stop_0536",
+    "stop_name": "Delhi Bus Stop 536",
+    "stop_lat": 28.613728,
+    "stop_lon": 77.140569
+  },
+  {
+    "stop_id": "stop_0537",
+    "stop_name": "Delhi Bus Stop 537",
+    "stop_lat": 28.630486,
+    "stop_lon": 76.922919
+  },
+  {
+    "stop_id": "stop_0538",
+    "stop_name": "Delhi Bus Stop 538",
+    "stop_lat": 28.563607,
+    "stop_lon": 77.113973
+  },
+  {
+    "stop_id": "stop_0539",
+    "stop_name": "Delhi Bus Stop 539",
+    "stop_lat": 28.526474,
+    "stop_lon": 77.154935
+  },
+  {
+    "stop_id": "stop_0540",
+    "stop_name": "Delhi Bus Stop 540",
+    "stop_lat": 28.58045,
+    "stop_lon": 76.923166
+  },
+  {
+    "stop_id": "stop_0541",
+    "stop_name": "Delhi Bus Stop 541",
+    "stop_lat": 28.478776,
+    "stop_lon": 76.975927
+  },
+  {
+    "stop_id": "stop_0542",
+    "stop_name": "Delhi Bus Stop 542",
+    "stop_lat": 28.60142,
+    "stop_lon": 76.96831
+  },
+  {
+    "stop_id": "stop_0543",
+    "stop_name": "Delhi Bus Stop 543",
+    "stop_lat": 28.486167,
+    "stop_lon": 77.15904
+  },
+  {
+    "stop_id": "stop_0544",
+    "stop_name": "Delhi Bus Stop 544",
+    "stop_lat": 28.623138,
+    "stop_lon": 77.10761
+  },
+  {
+    "stop_id": "stop_0545",
+    "stop_name": "Delhi Bus Stop 545",
+    "stop_lat": 28.413895,
+    "stop_lon": 77.095295
+  },
+  {
+    "stop_id": "stop_0546",
+    "stop_name": "Delhi Bus Stop 546",
+    "stop_lat": 28.417333,
+    "stop_lon": 76.961656
+  },
+  {
+    "stop_id": "stop_0547",
+    "stop_name": "Delhi Bus Stop 547",
+    "stop_lat": 28.475243,
+    "stop_lon": 76.970017
+  },
+  {
+    "stop_id": "stop_0548",
+    "stop_name": "Delhi Bus Stop 548",
+    "stop_lat": 28.495383,
+    "stop_lon": 77.155556
+  },
+  {
+    "stop_id": "stop_0549",
+    "stop_name": "Delhi Bus Stop 549",
+    "stop_lat": 28.47341,
+    "stop_lon": 77.178781
+  },
+  {
+    "stop_id": "stop_0550",
+    "stop_name": "Delhi Bus Stop 550",
+    "stop_lat": 28.497536,
+    "stop_lon": 77.079792
+  },
+  {
+    "stop_id": "stop_0551",
+    "stop_name": "Delhi Bus Stop 551",
+    "stop_lat": 28.499769,
+    "stop_lon": 77.173737
+  },
+  {
+    "stop_id": "stop_0552",
+    "stop_name": "Delhi Bus Stop 552",
+    "stop_lat": 28.61701,
+    "stop_lon": 77.175666
+  },
+  {
+    "stop_id": "stop_0553",
+    "stop_name": "Delhi Bus Stop 553",
+    "stop_lat": 28.523729,
+    "stop_lon": 77.178899
+  },
+  {
+    "stop_id": "stop_0554",
+    "stop_name": "Delhi Bus Stop 554",
+    "stop_lat": 28.568448,
+    "stop_lon": 77.106113
+  },
+  {
+    "stop_id": "stop_0555",
+    "stop_name": "Delhi Bus Stop 555",
+    "stop_lat": 28.683182,
+    "stop_lon": 77.166324
+  },
+  {
+    "stop_id": "stop_0556",
+    "stop_name": "Delhi Bus Stop 556",
+    "stop_lat": 28.692894,
+    "stop_lon": 77.196738
+  },
+  {
+    "stop_id": "stop_0557",
+    "stop_name": "Delhi Bus Stop 557",
+    "stop_lat": 28.523454,
+    "stop_lon": 77.153208
+  },
+  {
+    "stop_id": "stop_0558",
+    "stop_name": "Delhi Bus Stop 558",
+    "stop_lat": 28.564353,
+    "stop_lon": 76.950302
+  },
+  {
+    "stop_id": "stop_0559",
+    "stop_name": "Delhi Bus Stop 559",
+    "stop_lat": 28.638269,
+    "stop_lon": 77.118209
+  },
+  {
+    "stop_id": "stop_0560",
+    "stop_name": "Delhi Bus Stop 560",
+    "stop_lat": 28.456908,
+    "stop_lon": 77.184716
+  },
+  {
+    "stop_id": "stop_0561",
+    "stop_name": "Delhi Bus Stop 561",
+    "stop_lat": 28.610566,
+    "stop_lon": 77.180825
+  },
+  {
+    "stop_id": "stop_0562",
+    "stop_name": "Delhi Bus Stop 562",
+    "stop_lat": 28.429066,
+    "stop_lon": 77.038211
+  },
+  {
+    "stop_id": "stop_0563",
+    "stop_name": "Delhi Bus Stop 563",
+    "stop_lat": 28.637934,
+    "stop_lon": 77.008927
+  },
+  {
+    "stop_id": "stop_0564",
+    "stop_name": "Delhi Bus Stop 564",
+    "stop_lat": 28.699945,
+    "stop_lon": 77.192715
+  },
+  {
+    "stop_id": "stop_0565",
+    "stop_name": "Delhi Bus Stop 565",
+    "stop_lat": 28.606384,
+    "stop_lon": 76.964338
+  },
+  {
+    "stop_id": "stop_0566",
+    "stop_name": "Delhi Bus Stop 566",
+    "stop_lat": 28.65152,
+    "stop_lon": 76.974192
+  },
+  {
+    "stop_id": "stop_0567",
+    "stop_name": "Delhi Bus Stop 567",
+    "stop_lat": 28.419958,
+    "stop_lon": 77.174703
+  },
+  {
+    "stop_id": "stop_0568",
+    "stop_name": "Delhi Bus Stop 568",
+    "stop_lat": 28.581982,
+    "stop_lon": 77.114299
+  },
+  {
+    "stop_id": "stop_0569",
+    "stop_name": "Delhi Bus Stop 569",
+    "stop_lat": 28.646602,
+    "stop_lon": 76.980722
+  },
+  {
+    "stop_id": "stop_0570",
+    "stop_name": "Delhi Bus Stop 570",
+    "stop_lat": 28.411144,
+    "stop_lon": 76.964286
+  },
+  {
+    "stop_id": "stop_0571",
+    "stop_name": "Delhi Bus Stop 571",
+    "stop_lat": 28.401425,
+    "stop_lon": 77.065844
+  },
+  {
+    "stop_id": "stop_0572",
+    "stop_name": "Delhi Bus Stop 572",
+    "stop_lat": 28.517756,
+    "stop_lon": 76.903623
+  },
+  {
+    "stop_id": "stop_0573",
+    "stop_name": "Delhi Bus Stop 573",
+    "stop_lat": 28.620387,
+    "stop_lon": 77.187408
+  },
+  {
+    "stop_id": "stop_0574",
+    "stop_name": "Delhi Bus Stop 574",
+    "stop_lat": 28.467426,
+    "stop_lon": 76.909551
+  },
+  {
+    "stop_id": "stop_0575",
+    "stop_name": "Delhi Bus Stop 575",
+    "stop_lat": 28.577141,
+    "stop_lon": 77.124667
+  },
+  {
+    "stop_id": "stop_0576",
+    "stop_name": "Delhi Bus Stop 576",
+    "stop_lat": 28.476363,
+    "stop_lon": 76.921509
+  },
+  {
+    "stop_id": "stop_0577",
+    "stop_name": "Delhi Bus Stop 577",
+    "stop_lat": 28.444063,
+    "stop_lon": 77.180098
+  },
+  {
+    "stop_id": "stop_0578",
+    "stop_name": "Delhi Bus Stop 578",
+    "stop_lat": 28.506545,
+    "stop_lon": 77.050389
+  },
+  {
+    "stop_id": "stop_0579",
+    "stop_name": "Delhi Bus Stop 579",
+    "stop_lat": 28.421634,
+    "stop_lon": 77.032007
+  },
+  {
+    "stop_id": "stop_0580",
+    "stop_name": "Delhi Bus Stop 580",
+    "stop_lat": 28.650792,
+    "stop_lon": 77.053156
+  },
+  {
+    "stop_id": "stop_0581",
+    "stop_name": "Delhi Bus Stop 581",
+    "stop_lat": 28.608873,
+    "stop_lon": 77.081814
+  },
+  {
+    "stop_id": "stop_0582",
+    "stop_name": "Delhi Bus Stop 582",
+    "stop_lat": 28.464321,
+    "stop_lon": 77.159908
+  },
+  {
+    "stop_id": "stop_0583",
+    "stop_name": "Delhi Bus Stop 583",
+    "stop_lat": 28.676647,
+    "stop_lon": 77.126309
+  },
+  {
+    "stop_id": "stop_0584",
+    "stop_name": "Delhi Bus Stop 584",
+    "stop_lat": 28.481797,
+    "stop_lon": 76.919875
+  },
+  {
+    "stop_id": "stop_0585",
+    "stop_name": "Delhi Bus Stop 585",
+    "stop_lat": 28.533444,
+    "stop_lon": 77.003242
+  },
+  {
+    "stop_id": "stop_0586",
+    "stop_name": "Delhi Bus Stop 586",
+    "stop_lat": 28.673144,
+    "stop_lon": 76.947632
+  },
+  {
+    "stop_id": "stop_0587",
+    "stop_name": "Delhi Bus Stop 587",
+    "stop_lat": 28.506705,
+    "stop_lon": 76.988445
+  },
+  {
+    "stop_id": "stop_0588",
+    "stop_name": "Delhi Bus Stop 588",
+    "stop_lat": 28.599456,
+    "stop_lon": 77.008096
+  },
+  {
+    "stop_id": "stop_0589",
+    "stop_name": "Delhi Bus Stop 589",
+    "stop_lat": 28.491739,
+    "stop_lon": 77.051478
+  },
+  {
+    "stop_id": "stop_0590",
+    "stop_name": "Delhi Bus Stop 590",
+    "stop_lat": 28.455631,
+    "stop_lon": 77.175846
+  },
+  {
+    "stop_id": "stop_0591",
+    "stop_name": "Delhi Bus Stop 591",
+    "stop_lat": 28.534117,
+    "stop_lon": 77.078347
+  },
+  {
+    "stop_id": "stop_0592",
+    "stop_name": "Delhi Bus Stop 592",
+    "stop_lat": 28.591384,
+    "stop_lon": 77.141025
+  },
+  {
+    "stop_id": "stop_0593",
+    "stop_name": "Delhi Bus Stop 593",
+    "stop_lat": 28.431577,
+    "stop_lon": 77.119263
+  },
+  {
+    "stop_id": "stop_0594",
+    "stop_name": "Delhi Bus Stop 594",
+    "stop_lat": 28.573105,
+    "stop_lon": 76.952222
+  },
+  {
+    "stop_id": "stop_0595",
+    "stop_name": "Delhi Bus Stop 595",
+    "stop_lat": 28.696872,
+    "stop_lon": 77.099052
+  },
+  {
+    "stop_id": "stop_0596",
+    "stop_name": "Delhi Bus Stop 596",
+    "stop_lat": 28.681751,
+    "stop_lon": 77.122835
+  },
+  {
+    "stop_id": "stop_0597",
+    "stop_name": "Delhi Bus Stop 597",
+    "stop_lat": 28.421351,
+    "stop_lon": 76.938582
+  },
+  {
+    "stop_id": "stop_0598",
+    "stop_name": "Delhi Bus Stop 598",
+    "stop_lat": 28.566638,
+    "stop_lon": 76.954011
+  },
+  {
+    "stop_id": "stop_0599",
+    "stop_name": "Delhi Bus Stop 599",
+    "stop_lat": 28.450516,
+    "stop_lon": 77.141015
+  },
+  {
+    "stop_id": "stop_0600",
+    "stop_name": "Delhi Bus Stop 600",
+    "stop_lat": 28.580132,
+    "stop_lon": 76.967292
+  },
+  {
+    "stop_id": "stop_0601",
+    "stop_name": "Delhi Bus Stop 601",
+    "stop_lat": 28.691465,
+    "stop_lon": 77.014357
+  },
+  {
+    "stop_id": "stop_0602",
+    "stop_name": "Delhi Bus Stop 602",
+    "stop_lat": 28.642454,
+    "stop_lon": 76.955376
+  },
+  {
+    "stop_id": "stop_0603",
+    "stop_name": "Delhi Bus Stop 603",
+    "stop_lat": 28.427861,
+    "stop_lon": 77.019764
+  },
+  {
+    "stop_id": "stop_0604",
+    "stop_name": "Delhi Bus Stop 604",
+    "stop_lat": 28.603249,
+    "stop_lon": 77.032947
+  },
+  {
+    "stop_id": "stop_0605",
+    "stop_name": "Delhi Bus Stop 605",
+    "stop_lat": 28.545749,
+    "stop_lon": 77.039112
+  },
+  {
+    "stop_id": "stop_0606",
+    "stop_name": "Delhi Bus Stop 606",
+    "stop_lat": 28.50871,
+    "stop_lon": 77.126539
+  },
+  {
+    "stop_id": "stop_0607",
+    "stop_name": "Delhi Bus Stop 607",
+    "stop_lat": 28.669074,
+    "stop_lon": 77.175574
+  },
+  {
+    "stop_id": "stop_0608",
+    "stop_name": "Delhi Bus Stop 608",
+    "stop_lat": 28.588404,
+    "stop_lon": 77.144934
+  },
+  {
+    "stop_id": "stop_0609",
+    "stop_name": "Delhi Bus Stop 609",
+    "stop_lat": 28.467027,
+    "stop_lon": 77.010198
+  },
+  {
+    "stop_id": "stop_0610",
+    "stop_name": "Delhi Bus Stop 610",
+    "stop_lat": 28.550146,
+    "stop_lon": 77.042557
+  },
+  {
+    "stop_id": "stop_0611",
+    "stop_name": "Delhi Bus Stop 611",
+    "stop_lat": 28.443124,
+    "stop_lon": 77.124405
+  },
+  {
+    "stop_id": "stop_0612",
+    "stop_name": "Delhi Bus Stop 612",
+    "stop_lat": 28.626504,
+    "stop_lon": 77.052285
+  },
+  {
+    "stop_id": "stop_0613",
+    "stop_name": "Delhi Bus Stop 613",
+    "stop_lat": 28.621457,
+    "stop_lon": 77.145347
+  },
+  {
+    "stop_id": "stop_0614",
+    "stop_name": "Delhi Bus Stop 614",
+    "stop_lat": 28.404245,
+    "stop_lon": 77.017461
+  },
+  {
+    "stop_id": "stop_0615",
+    "stop_name": "Delhi Bus Stop 615",
+    "stop_lat": 28.565907,
+    "stop_lon": 76.975395
+  },
+  {
+    "stop_id": "stop_0616",
+    "stop_name": "Delhi Bus Stop 616",
+    "stop_lat": 28.678294,
+    "stop_lon": 76.960373
+  },
+  {
+    "stop_id": "stop_0617",
+    "stop_name": "Delhi Bus Stop 617",
+    "stop_lat": 28.413402,
+    "stop_lon": 76.991774
+  },
+  {
+    "stop_id": "stop_0618",
+    "stop_name": "Delhi Bus Stop 618",
+    "stop_lat": 28.402865,
+    "stop_lon": 76.938514
+  },
+  {
+    "stop_id": "stop_0619",
+    "stop_name": "Delhi Bus Stop 619",
+    "stop_lat": 28.579689,
+    "stop_lon": 76.985137
+  },
+  {
+    "stop_id": "stop_0620",
+    "stop_name": "Delhi Bus Stop 620",
+    "stop_lat": 28.674267,
+    "stop_lon": 76.968162
+  },
+  {
+    "stop_id": "stop_0621",
+    "stop_name": "Delhi Bus Stop 621",
+    "stop_lat": 28.549917,
+    "stop_lon": 77.132684
+  },
+  {
+    "stop_id": "stop_0622",
+    "stop_name": "Delhi Bus Stop 622",
+    "stop_lat": 28.651841,
+    "stop_lon": 76.935258
+  },
+  {
+    "stop_id": "stop_0623",
+    "stop_name": "Delhi Bus Stop 623",
+    "stop_lat": 28.501566,
+    "stop_lon": 77.120562
+  },
+  {
+    "stop_id": "stop_0624",
+    "stop_name": "Delhi Bus Stop 624",
+    "stop_lat": 28.682956,
+    "stop_lon": 77.191451
+  },
+  {
+    "stop_id": "stop_0625",
+    "stop_name": "Delhi Bus Stop 625",
+    "stop_lat": 28.550277,
+    "stop_lon": 77.091786
+  },
+  {
+    "stop_id": "stop_0626",
+    "stop_name": "Delhi Bus Stop 626",
+    "stop_lat": 28.608107,
+    "stop_lon": 76.977958
+  },
+  {
+    "stop_id": "stop_0627",
+    "stop_name": "Delhi Bus Stop 627",
+    "stop_lat": 28.598655,
+    "stop_lon": 77.02771
+  },
+  {
+    "stop_id": "stop_0628",
+    "stop_name": "Delhi Bus Stop 628",
+    "stop_lat": 28.425611,
+    "stop_lon": 77.088853
+  },
+  {
+    "stop_id": "stop_0629",
+    "stop_name": "Delhi Bus Stop 629",
+    "stop_lat": 28.506031,
+    "stop_lon": 77.164451
+  },
+  {
+    "stop_id": "stop_0630",
+    "stop_name": "Delhi Bus Stop 630",
+    "stop_lat": 28.657699,
+    "stop_lon": 76.902794
+  },
+  {
+    "stop_id": "stop_0631",
+    "stop_name": "Delhi Bus Stop 631",
+    "stop_lat": 28.621436,
+    "stop_lon": 77.099503
+  },
+  {
+    "stop_id": "stop_0632",
+    "stop_name": "Delhi Bus Stop 632",
+    "stop_lat": 28.545004,
+    "stop_lon": 77.186822
+  },
+  {
+    "stop_id": "stop_0633",
+    "stop_name": "Delhi Bus Stop 633",
+    "stop_lat": 28.439417,
+    "stop_lon": 77.022807
+  },
+  {
+    "stop_id": "stop_0634",
+    "stop_name": "Delhi Bus Stop 634",
+    "stop_lat": 28.641505,
+    "stop_lon": 77.094323
+  },
+  {
+    "stop_id": "stop_0635",
+    "stop_name": "Delhi Bus Stop 635",
+    "stop_lat": 28.676787,
+    "stop_lon": 77.152598
+  },
+  {
+    "stop_id": "stop_0636",
+    "stop_name": "Delhi Bus Stop 636",
+    "stop_lat": 28.537296,
+    "stop_lon": 77.054996
+  },
+  {
+    "stop_id": "stop_0637",
+    "stop_name": "Delhi Bus Stop 637",
+    "stop_lat": 28.654598,
+    "stop_lon": 77.022713
+  },
+  {
+    "stop_id": "stop_0638",
+    "stop_name": "Delhi Bus Stop 638",
+    "stop_lat": 28.450852,
+    "stop_lon": 77.017041
+  },
+  {
+    "stop_id": "stop_0639",
+    "stop_name": "Delhi Bus Stop 639",
+    "stop_lat": 28.636907,
+    "stop_lon": 77.119919
+  },
+  {
+    "stop_id": "stop_0640",
+    "stop_name": "Delhi Bus Stop 640",
+    "stop_lat": 28.611003,
+    "stop_lon": 77.120877
+  },
+  {
+    "stop_id": "stop_0641",
+    "stop_name": "Delhi Bus Stop 641",
+    "stop_lat": 28.586072,
+    "stop_lon": 77.192503
+  },
+  {
+    "stop_id": "stop_0642",
+    "stop_name": "Delhi Bus Stop 642",
+    "stop_lat": 28.665866,
+    "stop_lon": 77.030683
+  },
+  {
+    "stop_id": "stop_0643",
+    "stop_name": "Delhi Bus Stop 643",
+    "stop_lat": 28.593814,
+    "stop_lon": 77.070274
+  },
+  {
+    "stop_id": "stop_0644",
+    "stop_name": "Delhi Bus Stop 644",
+    "stop_lat": 28.612728,
+    "stop_lon": 76.972096
+  },
+  {
+    "stop_id": "stop_0645",
+    "stop_name": "Delhi Bus Stop 645",
+    "stop_lat": 28.660213,
+    "stop_lon": 77.040208
+  },
+  {
+    "stop_id": "stop_0646",
+    "stop_name": "Delhi Bus Stop 646",
+    "stop_lat": 28.546652,
+    "stop_lon": 76.91322
+  },
+  {
+    "stop_id": "stop_0647",
+    "stop_name": "Delhi Bus Stop 647",
+    "stop_lat": 28.522264,
+    "stop_lon": 77.138413
+  },
+  {
+    "stop_id": "stop_0648",
+    "stop_name": "Delhi Bus Stop 648",
+    "stop_lat": 28.522647,
+    "stop_lon": 76.903442
+  },
+  {
+    "stop_id": "stop_0649",
+    "stop_name": "Delhi Bus Stop 649",
+    "stop_lat": 28.503093,
+    "stop_lon": 77.141107
+  },
+  {
+    "stop_id": "stop_0650",
+    "stop_name": "Delhi Bus Stop 650",
+    "stop_lat": 28.406438,
+    "stop_lon": 77.060297
+  },
+  {
+    "stop_id": "stop_0651",
+    "stop_name": "Delhi Bus Stop 651",
+    "stop_lat": 28.615973,
+    "stop_lon": 77.137418
+  },
+  {
+    "stop_id": "stop_0652",
+    "stop_name": "Delhi Bus Stop 652",
+    "stop_lat": 28.586262,
+    "stop_lon": 77.195373
+  },
+  {
+    "stop_id": "stop_0653",
+    "stop_name": "Delhi Bus Stop 653",
+    "stop_lat": 28.55549,
+    "stop_lon": 76.990953
+  },
+  {
+    "stop_id": "stop_0654",
+    "stop_name": "Delhi Bus Stop 654",
+    "stop_lat": 28.54083,
+    "stop_lon": 77.167021
+  },
+  {
+    "stop_id": "stop_0655",
+    "stop_name": "Delhi Bus Stop 655",
+    "stop_lat": 28.480133,
+    "stop_lon": 77.05887
+  },
+  {
+    "stop_id": "stop_0656",
+    "stop_name": "Delhi Bus Stop 656",
+    "stop_lat": 28.50445,
+    "stop_lon": 77.132036
+  },
+  {
+    "stop_id": "stop_0657",
+    "stop_name": "Delhi Bus Stop 657",
+    "stop_lat": 28.465555,
+    "stop_lon": 77.009562
+  },
+  {
+    "stop_id": "stop_0658",
+    "stop_name": "Delhi Bus Stop 658",
+    "stop_lat": 28.585363,
+    "stop_lon": 76.92288
+  },
+  {
+    "stop_id": "stop_0659",
+    "stop_name": "Delhi Bus Stop 659",
+    "stop_lat": 28.573447,
+    "stop_lon": 77.136903
+  },
+  {
+    "stop_id": "stop_0660",
+    "stop_name": "Delhi Bus Stop 660",
+    "stop_lat": 28.616149,
+    "stop_lon": 77.069601
+  },
+  {
+    "stop_id": "stop_0661",
+    "stop_name": "Delhi Bus Stop 661",
+    "stop_lat": 28.540862,
+    "stop_lon": 76.981825
+  },
+  {
+    "stop_id": "stop_0662",
+    "stop_name": "Delhi Bus Stop 662",
+    "stop_lat": 28.552905,
+    "stop_lon": 76.90151
+  },
+  {
+    "stop_id": "stop_0663",
+    "stop_name": "Delhi Bus Stop 663",
+    "stop_lat": 28.434295,
+    "stop_lon": 77.000586
+  },
+  {
+    "stop_id": "stop_0664",
+    "stop_name": "Delhi Bus Stop 664",
+    "stop_lat": 28.636741,
+    "stop_lon": 77.138522
+  },
+  {
+    "stop_id": "stop_0665",
+    "stop_name": "Delhi Bus Stop 665",
+    "stop_lat": 28.515096,
+    "stop_lon": 76.957105
+  },
+  {
+    "stop_id": "stop_0666",
+    "stop_name": "Delhi Bus Stop 666",
+    "stop_lat": 28.553723,
+    "stop_lon": 77.005393
+  },
+  {
+    "stop_id": "stop_0667",
+    "stop_name": "Delhi Bus Stop 667",
+    "stop_lat": 28.419504,
+    "stop_lon": 77.017585
+  },
+  {
+    "stop_id": "stop_0668",
+    "stop_name": "Delhi Bus Stop 668",
+    "stop_lat": 28.618291,
+    "stop_lon": 77.113985
+  },
+  {
+    "stop_id": "stop_0669",
+    "stop_name": "Delhi Bus Stop 669",
+    "stop_lat": 28.600641,
+    "stop_lon": 77.178312
+  },
+  {
+    "stop_id": "stop_0670",
+    "stop_name": "Delhi Bus Stop 670",
+    "stop_lat": 28.680267,
+    "stop_lon": 77.138321
+  },
+  {
+    "stop_id": "stop_0671",
+    "stop_name": "Delhi Bus Stop 671",
+    "stop_lat": 28.685571,
+    "stop_lon": 77.070623
+  },
+  {
+    "stop_id": "stop_0672",
+    "stop_name": "Delhi Bus Stop 672",
+    "stop_lat": 28.634881,
+    "stop_lon": 77.134619
+  },
+  {
+    "stop_id": "stop_0673",
+    "stop_name": "Delhi Bus Stop 673",
+    "stop_lat": 28.687134,
+    "stop_lon": 77.126869
+  },
+  {
+    "stop_id": "stop_0674",
+    "stop_name": "Delhi Bus Stop 674",
+    "stop_lat": 28.490126,
+    "stop_lon": 76.974243
+  },
+  {
+    "stop_id": "stop_0675",
+    "stop_name": "Delhi Bus Stop 675",
+    "stop_lat": 28.645247,
+    "stop_lon": 77.044189
+  },
+  {
+    "stop_id": "stop_0676",
+    "stop_name": "Delhi Bus Stop 676",
+    "stop_lat": 28.604064,
+    "stop_lon": 76.935074
+  },
+  {
+    "stop_id": "stop_0677",
+    "stop_name": "Delhi Bus Stop 677",
+    "stop_lat": 28.626777,
+    "stop_lon": 77.120552
+  },
+  {
+    "stop_id": "stop_0678",
+    "stop_name": "Delhi Bus Stop 678",
+    "stop_lat": 28.537473,
+    "stop_lon": 77.044162
+  },
+  {
+    "stop_id": "stop_0679",
+    "stop_name": "Delhi Bus Stop 679",
+    "stop_lat": 28.475584,
+    "stop_lon": 76.903688
+  },
+  {
+    "stop_id": "stop_0680",
+    "stop_name": "Delhi Bus Stop 680",
+    "stop_lat": 28.610552,
+    "stop_lon": 76.988141
+  },
+  {
+    "stop_id": "stop_0681",
+    "stop_name": "Delhi Bus Stop 681",
+    "stop_lat": 28.686424,
+    "stop_lon": 77.041966
+  },
+  {
+    "stop_id": "stop_0682",
+    "stop_name": "Delhi Bus Stop 682",
+    "stop_lat": 28.57984,
+    "stop_lon": 77.172138
+  },
+  {
+    "stop_id": "stop_0683",
+    "stop_name": "Delhi Bus Stop 683",
+    "stop_lat": 28.567111,
+    "stop_lon": 77.032793
+  },
+  {
+    "stop_id": "stop_0684",
+    "stop_name": "Delhi Bus Stop 684",
+    "stop_lat": 28.532519,
+    "stop_lon": 77.122796
+  },
+  {
+    "stop_id": "stop_0685",
+    "stop_name": "Delhi Bus Stop 685",
+    "stop_lat": 28.460672,
+    "stop_lon": 77.005741
+  },
+  {
+    "stop_id": "stop_0686",
+    "stop_name": "Delhi Bus Stop 686",
+    "stop_lat": 28.67454,
+    "stop_lon": 77.10527
+  },
+  {
+    "stop_id": "stop_0687",
+    "stop_name": "Delhi Bus Stop 687",
+    "stop_lat": 28.434882,
+    "stop_lon": 77.034967
+  },
+  {
+    "stop_id": "stop_0688",
+    "stop_name": "Delhi Bus Stop 688",
+    "stop_lat": 28.617287,
+    "stop_lon": 77.12056
+  },
+  {
+    "stop_id": "stop_0689",
+    "stop_name": "Delhi Bus Stop 689",
+    "stop_lat": 28.631285,
+    "stop_lon": 77.036406
+  },
+  {
+    "stop_id": "stop_0690",
+    "stop_name": "Delhi Bus Stop 690",
+    "stop_lat": 28.406176,
+    "stop_lon": 76.909192
+  },
+  {
+    "stop_id": "stop_0691",
+    "stop_name": "Delhi Bus Stop 691",
+    "stop_lat": 28.62209,
+    "stop_lon": 77.158918
+  },
+  {
+    "stop_id": "stop_0692",
+    "stop_name": "Delhi Bus Stop 692",
+    "stop_lat": 28.63596,
+    "stop_lon": 77.10092
+  },
+  {
+    "stop_id": "stop_0693",
+    "stop_name": "Delhi Bus Stop 693",
+    "stop_lat": 28.431932,
+    "stop_lon": 77.081945
+  },
+  {
+    "stop_id": "stop_0694",
+    "stop_name": "Delhi Bus Stop 694",
+    "stop_lat": 28.578272,
+    "stop_lon": 77.100967
+  },
+  {
+    "stop_id": "stop_0695",
+    "stop_name": "Delhi Bus Stop 695",
+    "stop_lat": 28.459757,
+    "stop_lon": 77.033269
+  },
+  {
+    "stop_id": "stop_0696",
+    "stop_name": "Delhi Bus Stop 696",
+    "stop_lat": 28.426485,
+    "stop_lon": 77.043516
+  },
+  {
+    "stop_id": "stop_0697",
+    "stop_name": "Delhi Bus Stop 697",
+    "stop_lat": 28.691131,
+    "stop_lon": 77.027788
+  },
+  {
+    "stop_id": "stop_0698",
+    "stop_name": "Delhi Bus Stop 698",
+    "stop_lat": 28.596721,
+    "stop_lon": 77.14518
+  },
+  {
+    "stop_id": "stop_0699",
+    "stop_name": "Delhi Bus Stop 699",
+    "stop_lat": 28.406299,
+    "stop_lon": 77.167899
+  },
+  {
+    "stop_id": "stop_0700",
+    "stop_name": "Delhi Bus Stop 700",
+    "stop_lat": 28.53302,
+    "stop_lon": 77.102826
+  },
+  {
+    "stop_id": "stop_0701",
+    "stop_name": "Delhi Bus Stop 701",
+    "stop_lat": 28.498551,
+    "stop_lon": 76.987476
+  },
+  {
+    "stop_id": "stop_0702",
+    "stop_name": "Delhi Bus Stop 702",
+    "stop_lat": 28.44694,
+    "stop_lon": 77.005774
+  },
+  {
+    "stop_id": "stop_0703",
+    "stop_name": "Delhi Bus Stop 703",
+    "stop_lat": 28.405502,
+    "stop_lon": 77.113586
+  },
+  {
+    "stop_id": "stop_0704",
+    "stop_name": "Delhi Bus Stop 704",
+    "stop_lat": 28.603019,
+    "stop_lon": 77.00049
+  },
+  {
+    "stop_id": "stop_0705",
+    "stop_name": "Delhi Bus Stop 705",
+    "stop_lat": 28.417734,
+    "stop_lon": 76.928077
+  },
+  {
+    "stop_id": "stop_0706",
+    "stop_name": "Delhi Bus Stop 706",
+    "stop_lat": 28.40751,
+    "stop_lon": 76.997683
+  },
+  {
+    "stop_id": "stop_0707",
+    "stop_name": "Delhi Bus Stop 707",
+    "stop_lat": 28.582177,
+    "stop_lon": 77.050413
+  },
+  {
+    "stop_id": "stop_0708",
+    "stop_name": "Delhi Bus Stop 708",
+    "stop_lat": 28.659069,
+    "stop_lon": 76.90403
+  },
+  {
+    "stop_id": "stop_0709",
+    "stop_name": "Delhi Bus Stop 709",
+    "stop_lat": 28.69434,
+    "stop_lon": 77.141134
+  },
+  {
+    "stop_id": "stop_0710",
+    "stop_name": "Delhi Bus Stop 710",
+    "stop_lat": 28.498901,
+    "stop_lon": 77.165873
+  },
+  {
+    "stop_id": "stop_0711",
+    "stop_name": "Delhi Bus Stop 711",
+    "stop_lat": 28.427561,
+    "stop_lon": 77.010026
+  },
+  {
+    "stop_id": "stop_0712",
+    "stop_name": "Delhi Bus Stop 712",
+    "stop_lat": 28.695966,
+    "stop_lon": 77.005045
+  },
+  {
+    "stop_id": "stop_0713",
+    "stop_name": "Delhi Bus Stop 713",
+    "stop_lat": 28.576717,
+    "stop_lon": 76.928633
+  },
+  {
+    "stop_id": "stop_0714",
+    "stop_name": "Delhi Bus Stop 714",
+    "stop_lat": 28.423117,
+    "stop_lon": 77.02386
+  },
+  {
+    "stop_id": "stop_0715",
+    "stop_name": "Delhi Bus Stop 715",
+    "stop_lat": 28.575176,
+    "stop_lon": 76.946477
+  },
+  {
+    "stop_id": "stop_0716",
+    "stop_name": "Delhi Bus Stop 716",
+    "stop_lat": 28.433313,
+    "stop_lon": 76.980702
+  },
+  {
+    "stop_id": "stop_0717",
+    "stop_name": "Delhi Bus Stop 717",
+    "stop_lat": 28.450061,
+    "stop_lon": 76.96243
+  },
+  {
+    "stop_id": "stop_0718",
+    "stop_name": "Delhi Bus Stop 718",
+    "stop_lat": 28.613748,
+    "stop_lon": 76.945182
+  },
+  {
+    "stop_id": "stop_0719",
+    "stop_name": "Delhi Bus Stop 719",
+    "stop_lat": 28.450453,
+    "stop_lon": 76.98057
+  },
+  {
+    "stop_id": "stop_0720",
+    "stop_name": "Delhi Bus Stop 720",
+    "stop_lat": 28.448401,
+    "stop_lon": 77.012644
+  },
+  {
+    "stop_id": "stop_0721",
+    "stop_name": "Delhi Bus Stop 721",
+    "stop_lat": 28.443956,
+    "stop_lon": 77.18511
+  },
+  {
+    "stop_id": "stop_0722",
+    "stop_name": "Delhi Bus Stop 722",
+    "stop_lat": 28.68124,
+    "stop_lon": 76.940622
+  },
+  {
+    "stop_id": "stop_0723",
+    "stop_name": "Delhi Bus Stop 723",
+    "stop_lat": 28.61521,
+    "stop_lon": 76.965715
+  },
+  {
+    "stop_id": "stop_0724",
+    "stop_name": "Delhi Bus Stop 724",
+    "stop_lat": 28.600322,
+    "stop_lon": 77.072847
+  },
+  {
+    "stop_id": "stop_0725",
+    "stop_name": "Delhi Bus Stop 725",
+    "stop_lat": 28.582495,
+    "stop_lon": 77.085888
+  },
+  {
+    "stop_id": "stop_0726",
+    "stop_name": "Delhi Bus Stop 726",
+    "stop_lat": 28.503024,
+    "stop_lon": 77.015023
+  },
+  {
+    "stop_id": "stop_0727",
+    "stop_name": "Delhi Bus Stop 727",
+    "stop_lat": 28.656551,
+    "stop_lon": 76.983103
+  },
+  {
+    "stop_id": "stop_0728",
+    "stop_name": "Delhi Bus Stop 728",
+    "stop_lat": 28.424091,
+    "stop_lon": 76.979108
+  },
+  {
+    "stop_id": "stop_0729",
+    "stop_name": "Delhi Bus Stop 729",
+    "stop_lat": 28.454974,
+    "stop_lon": 77.187924
+  },
+  {
+    "stop_id": "stop_0730",
+    "stop_name": "Delhi Bus Stop 730",
+    "stop_lat": 28.610881,
+    "stop_lon": 77.119383
+  },
+  {
+    "stop_id": "stop_0731",
+    "stop_name": "Delhi Bus Stop 731",
+    "stop_lat": 28.63875,
+    "stop_lon": 77.068507
+  },
+  {
+    "stop_id": "stop_0732",
+    "stop_name": "Delhi Bus Stop 732",
+    "stop_lat": 28.629294,
+    "stop_lon": 77.03098
+  },
+  {
+    "stop_id": "stop_0733",
+    "stop_name": "Delhi Bus Stop 733",
+    "stop_lat": 28.407626,
+    "stop_lon": 77.044227
+  },
+  {
+    "stop_id": "stop_0734",
+    "stop_name": "Delhi Bus Stop 734",
+    "stop_lat": 28.444243,
+    "stop_lon": 77.155969
+  },
+  {
+    "stop_id": "stop_0735",
+    "stop_name": "Delhi Bus Stop 735",
+    "stop_lat": 28.658418,
+    "stop_lon": 76.955376
+  },
+  {
+    "stop_id": "stop_0736",
+    "stop_name": "Delhi Bus Stop 736",
+    "stop_lat": 28.502331,
+    "stop_lon": 77.128882
+  },
+  {
+    "stop_id": "stop_0737",
+    "stop_name": "Delhi Bus Stop 737",
+    "stop_lat": 28.535796,
+    "stop_lon": 77.091577
+  },
+  {
+    "stop_id": "stop_0738",
+    "stop_name": "Delhi Bus Stop 738",
+    "stop_lat": 28.564819,
+    "stop_lon": 77.168876
+  },
+  {
+    "stop_id": "stop_0739",
+    "stop_name": "Delhi Bus Stop 739",
+    "stop_lat": 28.481234,
+    "stop_lon": 77.121526
+  },
+  {
+    "stop_id": "stop_0740",
+    "stop_name": "Delhi Bus Stop 740",
+    "stop_lat": 28.597594,
+    "stop_lon": 76.992934
+  },
+  {
+    "stop_id": "stop_0741",
+    "stop_name": "Delhi Bus Stop 741",
+    "stop_lat": 28.663608,
+    "stop_lon": 77.176149
+  },
+  {
+    "stop_id": "stop_0742",
+    "stop_name": "Delhi Bus Stop 742",
+    "stop_lat": 28.693442,
+    "stop_lon": 77.050981
+  },
+  {
+    "stop_id": "stop_0743",
+    "stop_name": "Delhi Bus Stop 743",
+    "stop_lat": 28.681308,
+    "stop_lon": 76.977519
+  },
+  {
+    "stop_id": "stop_0744",
+    "stop_name": "Delhi Bus Stop 744",
+    "stop_lat": 28.448202,
+    "stop_lon": 76.927134
+  },
+  {
+    "stop_id": "stop_0745",
+    "stop_name": "Delhi Bus Stop 745",
+    "stop_lat": 28.510529,
+    "stop_lon": 77.077738
+  },
+  {
+    "stop_id": "stop_0746",
+    "stop_name": "Delhi Bus Stop 746",
+    "stop_lat": 28.469618,
+    "stop_lon": 76.940065
+  },
+  {
+    "stop_id": "stop_0747",
+    "stop_name": "Delhi Bus Stop 747",
+    "stop_lat": 28.619311,
+    "stop_lon": 77.085243
+  },
+  {
+    "stop_id": "stop_0748",
+    "stop_name": "Delhi Bus Stop 748",
+    "stop_lat": 28.414385,
+    "stop_lon": 76.912426
+  },
+  {
+    "stop_id": "stop_0749",
+    "stop_name": "Delhi Bus Stop 749",
+    "stop_lat": 28.644703,
+    "stop_lon": 76.989005
+  },
+  {
+    "stop_id": "stop_0750",
+    "stop_name": "Delhi Bus Stop 750",
+    "stop_lat": 28.55589,
+    "stop_lon": 76.996808
+  },
+  {
+    "stop_id": "stop_0751",
+    "stop_name": "Delhi Bus Stop 751",
+    "stop_lat": 28.435982,
+    "stop_lon": 77.109282
+  },
+  {
+    "stop_id": "stop_0752",
+    "stop_name": "Delhi Bus Stop 752",
+    "stop_lat": 28.446425,
+    "stop_lon": 76.958844
+  },
+  {
+    "stop_id": "stop_0753",
+    "stop_name": "Delhi Bus Stop 753",
+    "stop_lat": 28.570669,
+    "stop_lon": 76.973989
+  },
+  {
+    "stop_id": "stop_0754",
+    "stop_name": "Delhi Bus Stop 754",
+    "stop_lat": 28.413232,
+    "stop_lon": 77.165656
+  },
+  {
+    "stop_id": "stop_0755",
+    "stop_name": "Delhi Bus Stop 755",
+    "stop_lat": 28.40599,
+    "stop_lon": 77.126114
+  },
+  {
+    "stop_id": "stop_0756",
+    "stop_name": "Delhi Bus Stop 756",
+    "stop_lat": 28.490508,
+    "stop_lon": 76.954829
+  },
+  {
+    "stop_id": "stop_0757",
+    "stop_name": "Delhi Bus Stop 757",
+    "stop_lat": 28.659067,
+    "stop_lon": 76.983882
+  },
+  {
+    "stop_id": "stop_0758",
+    "stop_name": "Delhi Bus Stop 758",
+    "stop_lat": 28.554474,
+    "stop_lon": 76.981895
+  },
+  {
+    "stop_id": "stop_0759",
+    "stop_name": "Delhi Bus Stop 759",
+    "stop_lat": 28.63833,
+    "stop_lon": 77.085419
+  },
+  {
+    "stop_id": "stop_0760",
+    "stop_name": "Delhi Bus Stop 760",
+    "stop_lat": 28.515579,
+    "stop_lon": 76.982217
+  },
+  {
+    "stop_id": "stop_0761",
+    "stop_name": "Delhi Bus Stop 761",
+    "stop_lat": 28.537148,
+    "stop_lon": 77.173093
+  },
+  {
+    "stop_id": "stop_0762",
+    "stop_name": "Delhi Bus Stop 762",
+    "stop_lat": 28.475779,
+    "stop_lon": 77.141824
+  },
+  {
+    "stop_id": "stop_0763",
+    "stop_name": "Delhi Bus Stop 763",
+    "stop_lat": 28.668301,
+    "stop_lon": 76.911959
+  },
+  {
+    "stop_id": "stop_0764",
+    "stop_name": "Delhi Bus Stop 764",
+    "stop_lat": 28.469646,
+    "stop_lon": 77.009777
+  },
+  {
+    "stop_id": "stop_0765",
+    "stop_name": "Delhi Bus Stop 765",
+    "stop_lat": 28.470771,
+    "stop_lon": 77.137843
+  },
+  {
+    "stop_id": "stop_0766",
+    "stop_name": "Delhi Bus Stop 766",
+    "stop_lat": 28.586062,
+    "stop_lon": 77.083541
+  },
+  {
+    "stop_id": "stop_0767",
+    "stop_name": "Delhi Bus Stop 767",
+    "stop_lat": 28.680533,
+    "stop_lon": 77.069383
+  },
+  {
+    "stop_id": "stop_0768",
+    "stop_name": "Delhi Bus Stop 768",
+    "stop_lat": 28.609913,
+    "stop_lon": 77.141974
+  },
+  {
+    "stop_id": "stop_0769",
+    "stop_name": "Delhi Bus Stop 769",
+    "stop_lat": 28.41055,
+    "stop_lon": 77.106612
+  },
+  {
+    "stop_id": "stop_0770",
+    "stop_name": "Delhi Bus Stop 770",
+    "stop_lat": 28.430353,
+    "stop_lon": 77.158477
+  },
+  {
+    "stop_id": "stop_0771",
+    "stop_name": "Delhi Bus Stop 771",
+    "stop_lat": 28.636463,
+    "stop_lon": 77.068246
+  },
+  {
+    "stop_id": "stop_0772",
+    "stop_name": "Delhi Bus Stop 772",
+    "stop_lat": 28.554507,
+    "stop_lon": 76.939579
+  },
+  {
+    "stop_id": "stop_0773",
+    "stop_name": "Delhi Bus Stop 773",
+    "stop_lat": 28.465063,
+    "stop_lon": 77.128204
+  },
+  {
+    "stop_id": "stop_0774",
+    "stop_name": "Delhi Bus Stop 774",
+    "stop_lat": 28.684558,
+    "stop_lon": 76.970641
+  },
+  {
+    "stop_id": "stop_0775",
+    "stop_name": "Delhi Bus Stop 775",
+    "stop_lat": 28.495645,
+    "stop_lon": 77.033267
+  },
+  {
+    "stop_id": "stop_0776",
+    "stop_name": "Delhi Bus Stop 776",
+    "stop_lat": 28.479777,
+    "stop_lon": 77.059414
+  },
+  {
+    "stop_id": "stop_0777",
+    "stop_name": "Delhi Bus Stop 777",
+    "stop_lat": 28.448752,
+    "stop_lon": 77.059638
+  },
+  {
+    "stop_id": "stop_0778",
+    "stop_name": "Delhi Bus Stop 778",
+    "stop_lat": 28.557068,
+    "stop_lon": 77.155814
+  },
+  {
+    "stop_id": "stop_0779",
+    "stop_name": "Delhi Bus Stop 779",
+    "stop_lat": 28.638294,
+    "stop_lon": 77.032877
+  },
+  {
+    "stop_id": "stop_0780",
+    "stop_name": "Delhi Bus Stop 780",
+    "stop_lat": 28.513403,
+    "stop_lon": 77.030572
+  },
+  {
+    "stop_id": "stop_0781",
+    "stop_name": "Delhi Bus Stop 781",
+    "stop_lat": 28.510448,
+    "stop_lon": 76.988025
+  },
+  {
+    "stop_id": "stop_0782",
+    "stop_name": "Delhi Bus Stop 782",
+    "stop_lat": 28.527858,
+    "stop_lon": 76.976528
+  },
+  {
+    "stop_id": "stop_0783",
+    "stop_name": "Delhi Bus Stop 783",
+    "stop_lat": 28.618197,
+    "stop_lon": 76.918562
+  },
+  {
+    "stop_id": "stop_0784",
+    "stop_name": "Delhi Bus Stop 784",
+    "stop_lat": 28.440165,
+    "stop_lon": 76.986819
+  },
+  {
+    "stop_id": "stop_0785",
+    "stop_name": "Delhi Bus Stop 785",
+    "stop_lat": 28.570868,
+    "stop_lon": 77.066682
+  },
+  {
+    "stop_id": "stop_0786",
+    "stop_name": "Delhi Bus Stop 786",
+    "stop_lat": 28.482267,
+    "stop_lon": 76.955896
+  },
+  {
+    "stop_id": "stop_0787",
+    "stop_name": "Delhi Bus Stop 787",
+    "stop_lat": 28.561881,
+    "stop_lon": 77.031913
+  },
+  {
+    "stop_id": "stop_0788",
+    "stop_name": "Delhi Bus Stop 788",
+    "stop_lat": 28.693054,
+    "stop_lon": 77.126044
+  },
+  {
+    "stop_id": "stop_0789",
+    "stop_name": "Delhi Bus Stop 789",
+    "stop_lat": 28.531254,
+    "stop_lon": 77.172437
+  },
+  {
+    "stop_id": "stop_0790",
+    "stop_name": "Delhi Bus Stop 790",
+    "stop_lat": 28.471197,
+    "stop_lon": 77.109807
+  },
+  {
+    "stop_id": "stop_0791",
+    "stop_name": "Delhi Bus Stop 791",
+    "stop_lat": 28.50496,
+    "stop_lon": 77.161744
+  },
+  {
+    "stop_id": "stop_0792",
+    "stop_name": "Delhi Bus Stop 792",
+    "stop_lat": 28.647848,
+    "stop_lon": 77.053026
+  },
+  {
+    "stop_id": "stop_0793",
+    "stop_name": "Delhi Bus Stop 793",
+    "stop_lat": 28.482457,
+    "stop_lon": 77.062177
+  },
+  {
+    "stop_id": "stop_0794",
+    "stop_name": "Delhi Bus Stop 794",
+    "stop_lat": 28.421664,
+    "stop_lon": 77.168845
+  },
+  {
+    "stop_id": "stop_0795",
+    "stop_name": "Delhi Bus Stop 795",
+    "stop_lat": 28.523379,
+    "stop_lon": 77.043347
+  },
+  {
+    "stop_id": "stop_0796",
+    "stop_name": "Delhi Bus Stop 796",
+    "stop_lat": 28.555655,
+    "stop_lon": 76.963413
+  },
+  {
+    "stop_id": "stop_0797",
+    "stop_name": "Delhi Bus Stop 797",
+    "stop_lat": 28.580054,
+    "stop_lon": 77.128616
+  },
+  {
+    "stop_id": "stop_0798",
+    "stop_name": "Delhi Bus Stop 798",
+    "stop_lat": 28.541808,
+    "stop_lon": 77.001396
+  },
+  {
+    "stop_id": "stop_0799",
+    "stop_name": "Delhi Bus Stop 799",
+    "stop_lat": 28.567461,
+    "stop_lon": 77.185454
+  },
+  {
+    "stop_id": "stop_0800",
+    "stop_name": "Delhi Bus Stop 800",
+    "stop_lat": 28.441439,
+    "stop_lon": 77.091294
+  },
+  {
+    "stop_id": "stop_0801",
+    "stop_name": "Delhi Bus Stop 801",
+    "stop_lat": 28.499574,
+    "stop_lon": 76.971205
+  },
+  {
+    "stop_id": "stop_0802",
+    "stop_name": "Delhi Bus Stop 802",
+    "stop_lat": 28.661297,
+    "stop_lon": 76.931617
+  },
+  {
+    "stop_id": "stop_0803",
+    "stop_name": "Delhi Bus Stop 803",
+    "stop_lat": 28.659437,
+    "stop_lon": 76.954551
+  },
+  {
+    "stop_id": "stop_0804",
+    "stop_name": "Delhi Bus Stop 804",
+    "stop_lat": 28.468306,
+    "stop_lon": 76.978491
+  },
+  {
+    "stop_id": "stop_0805",
+    "stop_name": "Delhi Bus Stop 805",
+    "stop_lat": 28.670243,
+    "stop_lon": 76.955323
+  },
+  {
+    "stop_id": "stop_0806",
+    "stop_name": "Delhi Bus Stop 806",
+    "stop_lat": 28.668328,
+    "stop_lon": 77.131047
+  },
+  {
+    "stop_id": "stop_0807",
+    "stop_name": "Delhi Bus Stop 807",
+    "stop_lat": 28.605597,
+    "stop_lon": 77.162797
+  },
+  {
+    "stop_id": "stop_0808",
+    "stop_name": "Delhi Bus Stop 808",
+    "stop_lat": 28.406988,
+    "stop_lon": 77.152793
+  },
+  {
+    "stop_id": "stop_0809",
+    "stop_name": "Delhi Bus Stop 809",
+    "stop_lat": 28.617526,
+    "stop_lon": 76.909608
+  },
+  {
+    "stop_id": "stop_0810",
+    "stop_name": "Delhi Bus Stop 810",
+    "stop_lat": 28.506918,
+    "stop_lon": 77.162001
+  },
+  {
+    "stop_id": "stop_0811",
+    "stop_name": "Delhi Bus Stop 811",
+    "stop_lat": 28.458836,
+    "stop_lon": 77.173098
+  },
+  {
+    "stop_id": "stop_0812",
+    "stop_name": "Delhi Bus Stop 812",
+    "stop_lat": 28.505287,
+    "stop_lon": 77.123768
+  },
+  {
+    "stop_id": "stop_0813",
+    "stop_name": "Delhi Bus Stop 813",
+    "stop_lat": 28.419077,
+    "stop_lon": 77.07275
+  },
+  {
+    "stop_id": "stop_0814",
+    "stop_name": "Delhi Bus Stop 814",
+    "stop_lat": 28.560544,
+    "stop_lon": 76.979061
+  },
+  {
+    "stop_id": "stop_0815",
+    "stop_name": "Delhi Bus Stop 815",
+    "stop_lat": 28.60454,
+    "stop_lon": 77.051691
+  },
+  {
+    "stop_id": "stop_0816",
+    "stop_name": "Delhi Bus Stop 816",
+    "stop_lat": 28.453159,
+    "stop_lon": 77.155327
+  },
+  {
+    "stop_id": "stop_0817",
+    "stop_name": "Delhi Bus Stop 817",
+    "stop_lat": 28.618595,
+    "stop_lon": 77.162206
+  },
+  {
+    "stop_id": "stop_0818",
+    "stop_name": "Delhi Bus Stop 818",
+    "stop_lat": 28.471447,
+    "stop_lon": 77.060348
+  },
+  {
+    "stop_id": "stop_0819",
+    "stop_name": "Delhi Bus Stop 819",
+    "stop_lat": 28.536981,
+    "stop_lon": 77.012528
+  },
+  {
+    "stop_id": "stop_0820",
+    "stop_name": "Delhi Bus Stop 820",
+    "stop_lat": 28.459457,
+    "stop_lon": 77.173284
+  },
+  {
+    "stop_id": "stop_0821",
+    "stop_name": "Delhi Bus Stop 821",
+    "stop_lat": 28.531416,
+    "stop_lon": 77.031345
+  },
+  {
+    "stop_id": "stop_0822",
+    "stop_name": "Delhi Bus Stop 822",
+    "stop_lat": 28.672829,
+    "stop_lon": 76.956976
+  },
+  {
+    "stop_id": "stop_0823",
+    "stop_name": "Delhi Bus Stop 823",
+    "stop_lat": 28.546641,
+    "stop_lon": 77.068693
+  },
+  {
+    "stop_id": "stop_0824",
+    "stop_name": "Delhi Bus Stop 824",
+    "stop_lat": 28.595712,
+    "stop_lon": 77.038543
+  },
+  {
+    "stop_id": "stop_0825",
+    "stop_name": "Delhi Bus Stop 825",
+    "stop_lat": 28.594816,
+    "stop_lon": 77.019125
+  },
+  {
+    "stop_id": "stop_0826",
+    "stop_name": "Delhi Bus Stop 826",
+    "stop_lat": 28.528334,
+    "stop_lon": 77.181865
+  },
+  {
+    "stop_id": "stop_0827",
+    "stop_name": "Delhi Bus Stop 827",
+    "stop_lat": 28.447714,
+    "stop_lon": 77.109677
+  },
+  {
+    "stop_id": "stop_0828",
+    "stop_name": "Delhi Bus Stop 828",
+    "stop_lat": 28.661947,
+    "stop_lon": 77.166923
+  },
+  {
+    "stop_id": "stop_0829",
+    "stop_name": "Delhi Bus Stop 829",
+    "stop_lat": 28.669573,
+    "stop_lon": 76.953371
+  },
+  {
+    "stop_id": "stop_0830",
+    "stop_name": "Delhi Bus Stop 830",
+    "stop_lat": 28.442343,
+    "stop_lon": 76.976834
+  },
+  {
+    "stop_id": "stop_0831",
+    "stop_name": "Delhi Bus Stop 831",
+    "stop_lat": 28.483821,
+    "stop_lon": 77.104934
+  },
+  {
+    "stop_id": "stop_0832",
+    "stop_name": "Delhi Bus Stop 832",
+    "stop_lat": 28.52053,
+    "stop_lon": 77.005985
+  },
+  {
+    "stop_id": "stop_0833",
+    "stop_name": "Delhi Bus Stop 833",
+    "stop_lat": 28.511467,
+    "stop_lon": 77.19563
+  },
+  {
+    "stop_id": "stop_0834",
+    "stop_name": "Delhi Bus Stop 834",
+    "stop_lat": 28.626194,
+    "stop_lon": 76.996322
+  },
+  {
+    "stop_id": "stop_0835",
+    "stop_name": "Delhi Bus Stop 835",
+    "stop_lat": 28.586434,
+    "stop_lon": 77.028577
+  },
+  {
+    "stop_id": "stop_0836",
+    "stop_name": "Delhi Bus Stop 836",
+    "stop_lat": 28.411517,
+    "stop_lon": 76.925762
+  },
+  {
+    "stop_id": "stop_0837",
+    "stop_name": "Delhi Bus Stop 837",
+    "stop_lat": 28.566677,
+    "stop_lon": 76.994932
+  },
+  {
+    "stop_id": "stop_0838",
+    "stop_name": "Delhi Bus Stop 838",
+    "stop_lat": 28.401396,
+    "stop_lon": 76.964671
+  },
+  {
+    "stop_id": "stop_0839",
+    "stop_name": "Delhi Bus Stop 839",
+    "stop_lat": 28.688922,
+    "stop_lon": 77.092356
+  },
+  {
+    "stop_id": "stop_0840",
+    "stop_name": "Delhi Bus Stop 840",
+    "stop_lat": 28.436998,
+    "stop_lon": 76.96692
+  },
+  {
+    "stop_id": "stop_0841",
+    "stop_name": "Delhi Bus Stop 841",
+    "stop_lat": 28.533854,
+    "stop_lon": 77.15649
+  },
+  {
+    "stop_id": "stop_0842",
+    "stop_name": "Delhi Bus Stop 842",
+    "stop_lat": 28.412692,
+    "stop_lon": 77.002723
+  },
+  {
+    "stop_id": "stop_0843",
+    "stop_name": "Delhi Bus Stop 843",
+    "stop_lat": 28.451771,
+    "stop_lon": 76.986789
+  },
+  {
+    "stop_id": "stop_0844",
+    "stop_name": "Delhi Bus Stop 844",
+    "stop_lat": 28.626631,
+    "stop_lon": 76.916704
+  },
+  {
+    "stop_id": "stop_0845",
+    "stop_name": "Delhi Bus Stop 845",
+    "stop_lat": 28.675283,
+    "stop_lon": 77.029474
+  },
+  {
+    "stop_id": "stop_0846",
+    "stop_name": "Delhi Bus Stop 846",
+    "stop_lat": 28.647558,
+    "stop_lon": 77.065655
+  },
+  {
+    "stop_id": "stop_0847",
+    "stop_name": "Delhi Bus Stop 847",
+    "stop_lat": 28.583859,
+    "stop_lon": 77.116953
+  },
+  {
+    "stop_id": "stop_0848",
+    "stop_name": "Delhi Bus Stop 848",
+    "stop_lat": 28.655955,
+    "stop_lon": 76.953072
+  },
+  {
+    "stop_id": "stop_0849",
+    "stop_name": "Delhi Bus Stop 849",
+    "stop_lat": 28.416138,
+    "stop_lon": 76.921804
+  },
+  {
+    "stop_id": "stop_0850",
+    "stop_name": "Delhi Bus Stop 850",
+    "stop_lat": 28.582042,
+    "stop_lon": 77.068979
+  },
+  {
+    "stop_id": "stop_0851",
+    "stop_name": "Delhi Bus Stop 851",
+    "stop_lat": 28.57515,
+    "stop_lon": 77.168892
+  },
+  {
+    "stop_id": "stop_0852",
+    "stop_name": "Delhi Bus Stop 852",
+    "stop_lat": 28.533978,
+    "stop_lon": 76.985112
+  },
+  {
+    "stop_id": "stop_0853",
+    "stop_name": "Delhi Bus Stop 853",
+    "stop_lat": 28.64824,
+    "stop_lon": 77.07576
+  },
+  {
+    "stop_id": "stop_0854",
+    "stop_name": "Delhi Bus Stop 854",
+    "stop_lat": 28.523154,
+    "stop_lon": 77.12298
+  },
+  {
+    "stop_id": "stop_0855",
+    "stop_name": "Delhi Bus Stop 855",
+    "stop_lat": 28.590811,
+    "stop_lon": 77.019734
+  },
+  {
+    "stop_id": "stop_0856",
+    "stop_name": "Delhi Bus Stop 856",
+    "stop_lat": 28.54295,
+    "stop_lon": 77.147911
+  },
+  {
+    "stop_id": "stop_0857",
+    "stop_name": "Delhi Bus Stop 857",
+    "stop_lat": 28.624434,
+    "stop_lon": 77.035883
+  },
+  {
+    "stop_id": "stop_0858",
+    "stop_name": "Delhi Bus Stop 858",
+    "stop_lat": 28.58022,
+    "stop_lon": 77.198182
+  },
+  {
+    "stop_id": "stop_0859",
+    "stop_name": "Delhi Bus Stop 859",
+    "stop_lat": 28.513049,
+    "stop_lon": 76.922829
+  },
+  {
+    "stop_id": "stop_0860",
+    "stop_name": "Delhi Bus Stop 860",
+    "stop_lat": 28.675866,
+    "stop_lon": 77.14893
+  },
+  {
+    "stop_id": "stop_0861",
+    "stop_name": "Delhi Bus Stop 861",
+    "stop_lat": 28.560453,
+    "stop_lon": 77.182817
+  },
+  {
+    "stop_id": "stop_0862",
+    "stop_name": "Delhi Bus Stop 862",
+    "stop_lat": 28.650362,
+    "stop_lon": 77.119003
+  },
+  {
+    "stop_id": "stop_0863",
+    "stop_name": "Delhi Bus Stop 863",
+    "stop_lat": 28.469597,
+    "stop_lon": 77.088373
+  },
+  {
+    "stop_id": "stop_0864",
+    "stop_name": "Delhi Bus Stop 864",
+    "stop_lat": 28.449881,
+    "stop_lon": 76.98528
+  },
+  {
+    "stop_id": "stop_0865",
+    "stop_name": "Delhi Bus Stop 865",
+    "stop_lat": 28.503213,
+    "stop_lon": 77.172333
+  },
+  {
+    "stop_id": "stop_0866",
+    "stop_name": "Delhi Bus Stop 866",
+    "stop_lat": 28.453413,
+    "stop_lon": 77.046676
+  },
+  {
+    "stop_id": "stop_0867",
+    "stop_name": "Delhi Bus Stop 867",
+    "stop_lat": 28.557223,
+    "stop_lon": 77.169239
+  },
+  {
+    "stop_id": "stop_0868",
+    "stop_name": "Delhi Bus Stop 868",
+    "stop_lat": 28.495117,
+    "stop_lon": 77.087457
+  },
+  {
+    "stop_id": "stop_0869",
+    "stop_name": "Delhi Bus Stop 869",
+    "stop_lat": 28.422809,
+    "stop_lon": 76.922876
+  },
+  {
+    "stop_id": "stop_0870",
+    "stop_name": "Delhi Bus Stop 870",
+    "stop_lat": 28.544433,
+    "stop_lon": 77.055634
+  },
+  {
+    "stop_id": "stop_0871",
+    "stop_name": "Delhi Bus Stop 871",
+    "stop_lat": 28.409897,
+    "stop_lon": 76.957923
+  },
+  {
+    "stop_id": "stop_0872",
+    "stop_name": "Delhi Bus Stop 872",
+    "stop_lat": 28.495048,
+    "stop_lon": 77.137008
+  },
+  {
+    "stop_id": "stop_0873",
+    "stop_name": "Delhi Bus Stop 873",
+    "stop_lat": 28.618324,
+    "stop_lon": 77.03611
+  },
+  {
+    "stop_id": "stop_0874",
+    "stop_name": "Delhi Bus Stop 874",
+    "stop_lat": 28.465981,
+    "stop_lon": 76.995965
+  },
+  {
+    "stop_id": "stop_0875",
+    "stop_name": "Delhi Bus Stop 875",
+    "stop_lat": 28.669658,
+    "stop_lon": 77.190283
+  },
+  {
+    "stop_id": "stop_0876",
+    "stop_name": "Delhi Bus Stop 876",
+    "stop_lat": 28.453094,
+    "stop_lon": 77.106439
+  },
+  {
+    "stop_id": "stop_0877",
+    "stop_name": "Delhi Bus Stop 877",
+    "stop_lat": 28.696935,
+    "stop_lon": 77.032541
+  },
+  {
+    "stop_id": "stop_0878",
+    "stop_name": "Delhi Bus Stop 878",
+    "stop_lat": 28.622641,
+    "stop_lon": 77.164633
+  },
+  {
+    "stop_id": "stop_0879",
+    "stop_name": "Delhi Bus Stop 879",
+    "stop_lat": 28.612972,
+    "stop_lon": 76.96472
+  },
+  {
+    "stop_id": "stop_0880",
+    "stop_name": "Delhi Bus Stop 880",
+    "stop_lat": 28.440687,
+    "stop_lon": 77.160925
+  },
+  {
+    "stop_id": "stop_0881",
+    "stop_name": "Delhi Bus Stop 881",
+    "stop_lat": 28.691336,
+    "stop_lon": 77.139314
+  },
+  {
+    "stop_id": "stop_0882",
+    "stop_name": "Delhi Bus Stop 882",
+    "stop_lat": 28.590513,
+    "stop_lon": 77.116066
+  },
+  {
+    "stop_id": "stop_0883",
+    "stop_name": "Delhi Bus Stop 883",
+    "stop_lat": 28.574519,
+    "stop_lon": 77.042348
+  },
+  {
+    "stop_id": "stop_0884",
+    "stop_name": "Delhi Bus Stop 884",
+    "stop_lat": 28.541621,
+    "stop_lon": 77.041892
+  },
+  {
+    "stop_id": "stop_0885",
+    "stop_name": "Delhi Bus Stop 885",
+    "stop_lat": 28.567443,
+    "stop_lon": 76.956087
+  },
+  {
+    "stop_id": "stop_0886",
+    "stop_name": "Delhi Bus Stop 886",
+    "stop_lat": 28.589878,
+    "stop_lon": 77.099913
+  },
+  {
+    "stop_id": "stop_0887",
+    "stop_name": "Delhi Bus Stop 887",
+    "stop_lat": 28.619967,
+    "stop_lon": 77.023079
+  },
+  {
+    "stop_id": "stop_0888",
+    "stop_name": "Delhi Bus Stop 888",
+    "stop_lat": 28.468288,
+    "stop_lon": 77.147165
+  },
+  {
+    "stop_id": "stop_0889",
+    "stop_name": "Delhi Bus Stop 889",
+    "stop_lat": 28.697603,
+    "stop_lon": 77.002347
+  },
+  {
+    "stop_id": "stop_0890",
+    "stop_name": "Delhi Bus Stop 890",
+    "stop_lat": 28.489835,
+    "stop_lon": 77.07184
+  },
+  {
+    "stop_id": "stop_0891",
+    "stop_name": "Delhi Bus Stop 891",
+    "stop_lat": 28.642924,
+    "stop_lon": 77.168955
+  },
+  {
+    "stop_id": "stop_0892",
+    "stop_name": "Delhi Bus Stop 892",
+    "stop_lat": 28.581697,
+    "stop_lon": 76.919587
+  },
+  {
+    "stop_id": "stop_0893",
+    "stop_name": "Delhi Bus Stop 893",
+    "stop_lat": 28.657629,
+    "stop_lon": 77.084896
+  },
+  {
+    "stop_id": "stop_0894",
+    "stop_name": "Delhi Bus Stop 894",
+    "stop_lat": 28.402468,
+    "stop_lon": 77.155932
+  },
+  {
+    "stop_id": "stop_0895",
+    "stop_name": "Delhi Bus Stop 895",
+    "stop_lat": 28.511111,
+    "stop_lon": 77.080417
+  },
+  {
+    "stop_id": "stop_0896",
+    "stop_name": "Delhi Bus Stop 896",
+    "stop_lat": 28.622189,
+    "stop_lon": 77.14887
+  },
+  {
+    "stop_id": "stop_0897",
+    "stop_name": "Delhi Bus Stop 897",
+    "stop_lat": 28.465256,
+    "stop_lon": 77.003866
+  },
+  {
+    "stop_id": "stop_0898",
+    "stop_name": "Delhi Bus Stop 898",
+    "stop_lat": 28.67481,
+    "stop_lon": 77.07986
+  },
+  {
+    "stop_id": "stop_0899",
+    "stop_name": "Delhi Bus Stop 899",
+    "stop_lat": 28.644973,
+    "stop_lon": 76.986696
+  },
+  {
+    "stop_id": "stop_0900",
+    "stop_name": "Delhi Bus Stop 900",
+    "stop_lat": 28.611086,
+    "stop_lon": 76.98079
+  },
+  {
+    "stop_id": "stop_0901",
+    "stop_name": "Delhi Bus Stop 901",
+    "stop_lat": 28.647234,
+    "stop_lon": 77.118606
+  },
+  {
+    "stop_id": "stop_0902",
+    "stop_name": "Delhi Bus Stop 902",
+    "stop_lat": 28.692152,
+    "stop_lon": 76.920769
+  },
+  {
+    "stop_id": "stop_0903",
+    "stop_name": "Delhi Bus Stop 903",
+    "stop_lat": 28.579118,
+    "stop_lon": 76.908365
+  },
+  {
+    "stop_id": "stop_0904",
+    "stop_name": "Delhi Bus Stop 904",
+    "stop_lat": 28.524606,
+    "stop_lon": 77.105785
+  },
+  {
+    "stop_id": "stop_0905",
+    "stop_name": "Delhi Bus Stop 905",
+    "stop_lat": 28.523661,
+    "stop_lon": 77.085031
+  },
+  {
+    "stop_id": "stop_0906",
+    "stop_name": "Delhi Bus Stop 906",
+    "stop_lat": 28.449311,
+    "stop_lon": 77.028726
+  },
+  {
+    "stop_id": "stop_0907",
+    "stop_name": "Delhi Bus Stop 907",
+    "stop_lat": 28.49032,
+    "stop_lon": 76.986825
+  },
+  {
+    "stop_id": "stop_0908",
+    "stop_name": "Delhi Bus Stop 908",
+    "stop_lat": 28.579178,
+    "stop_lon": 76.967691
+  },
+  {
+    "stop_id": "stop_0909",
+    "stop_name": "Delhi Bus Stop 909",
+    "stop_lat": 28.593919,
+    "stop_lon": 76.94669
+  },
+  {
+    "stop_id": "stop_0910",
+    "stop_name": "Delhi Bus Stop 910",
+    "stop_lat": 28.436137,
+    "stop_lon": 77.017355
+  },
+  {
+    "stop_id": "stop_0911",
+    "stop_name": "Delhi Bus Stop 911",
+    "stop_lat": 28.676168,
+    "stop_lon": 77.11699
+  },
+  {
+    "stop_id": "stop_0912",
+    "stop_name": "Delhi Bus Stop 912",
+    "stop_lat": 28.463956,
+    "stop_lon": 76.954906
+  },
+  {
+    "stop_id": "stop_0913",
+    "stop_name": "Delhi Bus Stop 913",
+    "stop_lat": 28.553132,
+    "stop_lon": 77.195465
+  },
+  {
+    "stop_id": "stop_0914",
+    "stop_name": "Delhi Bus Stop 914",
+    "stop_lat": 28.542526,
+    "stop_lon": 77.133607
+  },
+  {
+    "stop_id": "stop_0915",
+    "stop_name": "Delhi Bus Stop 915",
+    "stop_lat": 28.687712,
+    "stop_lon": 77.078083
+  },
+  {
+    "stop_id": "stop_0916",
+    "stop_name": "Delhi Bus Stop 916",
+    "stop_lat": 28.443445,
+    "stop_lon": 76.959385
+  },
+  {
+    "stop_id": "stop_0917",
+    "stop_name": "Delhi Bus Stop 917",
+    "stop_lat": 28.472321,
+    "stop_lon": 77.133635
+  },
+  {
+    "stop_id": "stop_0918",
+    "stop_name": "Delhi Bus Stop 918",
+    "stop_lat": 28.572224,
+    "stop_lon": 77.066345
+  },
+  {
+    "stop_id": "stop_0919",
+    "stop_name": "Delhi Bus Stop 919",
+    "stop_lat": 28.513208,
+    "stop_lon": 77.198059
+  },
+  {
+    "stop_id": "stop_0920",
+    "stop_name": "Delhi Bus Stop 920",
+    "stop_lat": 28.475149,
+    "stop_lon": 77.155182
+  },
+  {
+    "stop_id": "stop_0921",
+    "stop_name": "Delhi Bus Stop 921",
+    "stop_lat": 28.401483,
+    "stop_lon": 77.005084
+  },
+  {
+    "stop_id": "stop_0922",
+    "stop_name": "Delhi Bus Stop 922",
+    "stop_lat": 28.68364,
+    "stop_lon": 76.938347
+  },
+  {
+    "stop_id": "stop_0923",
+    "stop_name": "Delhi Bus Stop 923",
+    "stop_lat": 28.416864,
+    "stop_lon": 77.068534
+  },
+  {
+    "stop_id": "stop_0924",
+    "stop_name": "Delhi Bus Stop 924",
+    "stop_lat": 28.555903,
+    "stop_lon": 77.185713
+  },
+  {
+    "stop_id": "stop_0925",
+    "stop_name": "Delhi Bus Stop 925",
+    "stop_lat": 28.419004,
+    "stop_lon": 76.980885
+  },
+  {
+    "stop_id": "stop_0926",
+    "stop_name": "Delhi Bus Stop 926",
+    "stop_lat": 28.558135,
+    "stop_lon": 76.943713
+  },
+  {
+    "stop_id": "stop_0927",
+    "stop_name": "Delhi Bus Stop 927",
+    "stop_lat": 28.500931,
+    "stop_lon": 77.073513
+  },
+  {
+    "stop_id": "stop_0928",
+    "stop_name": "Delhi Bus Stop 928",
+    "stop_lat": 28.579382,
+    "stop_lon": 77.157442
+  },
+  {
+    "stop_id": "stop_0929",
+    "stop_name": "Delhi Bus Stop 929",
+    "stop_lat": 28.436337,
+    "stop_lon": 76.919685
+  },
+  {
+    "stop_id": "stop_0930",
+    "stop_name": "Delhi Bus Stop 930",
+    "stop_lat": 28.449645,
+    "stop_lon": 76.980097
+  },
+  {
+    "stop_id": "stop_0931",
+    "stop_name": "Delhi Bus Stop 931",
+    "stop_lat": 28.538488,
+    "stop_lon": 77.155806
+  },
+  {
+    "stop_id": "stop_0932",
+    "stop_name": "Delhi Bus Stop 932",
+    "stop_lat": 28.532091,
+    "stop_lon": 77.096932
+  },
+  {
+    "stop_id": "stop_0933",
+    "stop_name": "Delhi Bus Stop 933",
+    "stop_lat": 28.528556,
+    "stop_lon": 76.925735
+  },
+  {
+    "stop_id": "stop_0934",
+    "stop_name": "Delhi Bus Stop 934",
+    "stop_lat": 28.531037,
+    "stop_lon": 77.123942
+  },
+  {
+    "stop_id": "stop_0935",
+    "stop_name": "Delhi Bus Stop 935",
+    "stop_lat": 28.446478,
+    "stop_lon": 77.060409
+  },
+  {
+    "stop_id": "stop_0936",
+    "stop_name": "Delhi Bus Stop 936",
+    "stop_lat": 28.46478,
+    "stop_lon": 76.900519
+  },
+  {
+    "stop_id": "stop_0937",
+    "stop_name": "Delhi Bus Stop 937",
+    "stop_lat": 28.595994,
+    "stop_lon": 77.119056
+  },
+  {
+    "stop_id": "stop_0938",
+    "stop_name": "Delhi Bus Stop 938",
+    "stop_lat": 28.53385,
+    "stop_lon": 76.919109
+  },
+  {
+    "stop_id": "stop_0939",
+    "stop_name": "Delhi Bus Stop 939",
+    "stop_lat": 28.435366,
+    "stop_lon": 77.008556
+  },
+  {
+    "stop_id": "stop_0940",
+    "stop_name": "Delhi Bus Stop 940",
+    "stop_lat": 28.413223,
+    "stop_lon": 76.942962
+  },
+  {
+    "stop_id": "stop_0941",
+    "stop_name": "Delhi Bus Stop 941",
+    "stop_lat": 28.553177,
+    "stop_lon": 77.144559
+  },
+  {
+    "stop_id": "stop_0942",
+    "stop_name": "Delhi Bus Stop 942",
+    "stop_lat": 28.562237,
+    "stop_lon": 77.160644
+  },
+  {
+    "stop_id": "stop_0943",
+    "stop_name": "Delhi Bus Stop 943",
+    "stop_lat": 28.426075,
+    "stop_lon": 77.011253
+  },
+  {
+    "stop_id": "stop_0944",
+    "stop_name": "Delhi Bus Stop 944",
+    "stop_lat": 28.649027,
+    "stop_lon": 77.120492
+  },
+  {
+    "stop_id": "stop_0945",
+    "stop_name": "Delhi Bus Stop 945",
+    "stop_lat": 28.551031,
+    "stop_lon": 76.948404
+  },
+  {
+    "stop_id": "stop_0946",
+    "stop_name": "Delhi Bus Stop 946",
+    "stop_lat": 28.463512,
+    "stop_lon": 76.992499
+  },
+  {
+    "stop_id": "stop_0947",
+    "stop_name": "Delhi Bus Stop 947",
+    "stop_lat": 28.601752,
+    "stop_lon": 77.119503
+  },
+  {
+    "stop_id": "stop_0948",
+    "stop_name": "Delhi Bus Stop 948",
+    "stop_lat": 28.608229,
+    "stop_lon": 76.914786
+  },
+  {
+    "stop_id": "stop_0949",
+    "stop_name": "Delhi Bus Stop 949",
+    "stop_lat": 28.509931,
+    "stop_lon": 76.992586
+  },
+  {
+    "stop_id": "stop_0950",
+    "stop_name": "Delhi Bus Stop 950",
+    "stop_lat": 28.47,
+    "stop_lon": 77.057338
+  },
+  {
+    "stop_id": "stop_0951",
+    "stop_name": "Delhi Bus Stop 951",
+    "stop_lat": 28.492585,
+    "stop_lon": 77.030299
+  },
+  {
+    "stop_id": "stop_0952",
+    "stop_name": "Delhi Bus Stop 952",
+    "stop_lat": 28.42993,
+    "stop_lon": 77.194231
+  },
+  {
+    "stop_id": "stop_0953",
+    "stop_name": "Delhi Bus Stop 953",
+    "stop_lat": 28.526021,
+    "stop_lon": 77.163635
+  },
+  {
+    "stop_id": "stop_0954",
+    "stop_name": "Delhi Bus Stop 954",
+    "stop_lat": 28.682418,
+    "stop_lon": 76.955327
+  },
+  {
+    "stop_id": "stop_0955",
+    "stop_name": "Delhi Bus Stop 955",
+    "stop_lat": 28.530463,
+    "stop_lon": 76.964299
+  },
+  {
+    "stop_id": "stop_0956",
+    "stop_name": "Delhi Bus Stop 956",
+    "stop_lat": 28.410587,
+    "stop_lon": 77.124722
+  },
+  {
+    "stop_id": "stop_0957",
+    "stop_name": "Delhi Bus Stop 957",
+    "stop_lat": 28.445452,
+    "stop_lon": 76.963384
+  },
+  {
+    "stop_id": "stop_0958",
+    "stop_name": "Delhi Bus Stop 958",
+    "stop_lat": 28.578716,
+    "stop_lon": 76.976801
+  },
+  {
+    "stop_id": "stop_0959",
+    "stop_name": "Delhi Bus Stop 959",
+    "stop_lat": 28.500388,
+    "stop_lon": 77.004284
+  },
+  {
+    "stop_id": "stop_0960",
+    "stop_name": "Delhi Bus Stop 960",
+    "stop_lat": 28.694086,
+    "stop_lon": 76.995624
+  },
+  {
+    "stop_id": "stop_0961",
+    "stop_name": "Delhi Bus Stop 961",
+    "stop_lat": 28.56598,
+    "stop_lon": 77.035465
+  },
+  {
+    "stop_id": "stop_0962",
+    "stop_name": "Delhi Bus Stop 962",
+    "stop_lat": 28.572925,
+    "stop_lon": 77.06098
+  },
+  {
+    "stop_id": "stop_0963",
+    "stop_name": "Delhi Bus Stop 963",
+    "stop_lat": 28.671511,
+    "stop_lon": 76.978127
+  },
+  {
+    "stop_id": "stop_0964",
+    "stop_name": "Delhi Bus Stop 964",
+    "stop_lat": 28.629145,
+    "stop_lon": 76.998104
+  },
+  {
+    "stop_id": "stop_0965",
+    "stop_name": "Delhi Bus Stop 965",
+    "stop_lat": 28.627613,
+    "stop_lon": 77.198636
+  },
+  {
+    "stop_id": "stop_0966",
+    "stop_name": "Delhi Bus Stop 966",
+    "stop_lat": 28.657012,
+    "stop_lon": 76.938668
+  },
+  {
+    "stop_id": "stop_0967",
+    "stop_name": "Delhi Bus Stop 967",
+    "stop_lat": 28.692007,
+    "stop_lon": 77.123761
+  },
+  {
+    "stop_id": "stop_0968",
+    "stop_name": "Delhi Bus Stop 968",
+    "stop_lat": 28.425919,
+    "stop_lon": 77.131953
+  },
+  {
+    "stop_id": "stop_0969",
+    "stop_name": "Delhi Bus Stop 969",
+    "stop_lat": 28.519278,
+    "stop_lon": 76.927885
+  },
+  {
+    "stop_id": "stop_0970",
+    "stop_name": "Delhi Bus Stop 970",
+    "stop_lat": 28.544693,
+    "stop_lon": 77.038122
+  },
+  {
+    "stop_id": "stop_0971",
+    "stop_name": "Delhi Bus Stop 971",
+    "stop_lat": 28.511053,
+    "stop_lon": 76.968215
+  },
+  {
+    "stop_id": "stop_0972",
+    "stop_name": "Delhi Bus Stop 972",
+    "stop_lat": 28.646133,
+    "stop_lon": 76.928822
+  },
+  {
+    "stop_id": "stop_0973",
+    "stop_name": "Delhi Bus Stop 973",
+    "stop_lat": 28.686174,
+    "stop_lon": 77.072829
+  },
+  {
+    "stop_id": "stop_0974",
+    "stop_name": "Delhi Bus Stop 974",
+    "stop_lat": 28.599335,
+    "stop_lon": 77.189431
+  },
+  {
+    "stop_id": "stop_0975",
+    "stop_name": "Delhi Bus Stop 975",
+    "stop_lat": 28.506402,
+    "stop_lon": 77.159497
+  },
+  {
+    "stop_id": "stop_0976",
+    "stop_name": "Delhi Bus Stop 976",
+    "stop_lat": 28.692112,
+    "stop_lon": 77.076097
+  },
+  {
+    "stop_id": "stop_0977",
+    "stop_name": "Delhi Bus Stop 977",
+    "stop_lat": 28.458328,
+    "stop_lon": 76.928408
+  },
+  {
+    "stop_id": "stop_0978",
+    "stop_name": "Delhi Bus Stop 978",
+    "stop_lat": 28.430189,
+    "stop_lon": 77.17506
+  },
+  {
+    "stop_id": "stop_0979",
+    "stop_name": "Delhi Bus Stop 979",
+    "stop_lat": 28.62957,
+    "stop_lon": 77.184123
+  },
+  {
+    "stop_id": "stop_0980",
+    "stop_name": "Delhi Bus Stop 980",
+    "stop_lat": 28.425053,
+    "stop_lon": 76.993652
+  },
+  {
+    "stop_id": "stop_0981",
+    "stop_name": "Delhi Bus Stop 981",
+    "stop_lat": 28.655212,
+    "stop_lon": 77.174279
+  },
+  {
+    "stop_id": "stop_0982",
+    "stop_name": "Delhi Bus Stop 982",
+    "stop_lat": 28.553866,
+    "stop_lon": 77.069701
+  },
+  {
+    "stop_id": "stop_0983",
+    "stop_name": "Delhi Bus Stop 983",
+    "stop_lat": 28.458609,
+    "stop_lon": 77.130637
+  },
+  {
+    "stop_id": "stop_0984",
+    "stop_name": "Delhi Bus Stop 984",
+    "stop_lat": 28.471627,
+    "stop_lon": 76.960727
+  },
+  {
+    "stop_id": "stop_0985",
+    "stop_name": "Delhi Bus Stop 985",
+    "stop_lat": 28.539948,
+    "stop_lon": 77.036207
+  },
+  {
+    "stop_id": "stop_0986",
+    "stop_name": "Delhi Bus Stop 986",
+    "stop_lat": 28.583877,
+    "stop_lon": 76.940377
+  },
+  {
+    "stop_id": "stop_0987",
+    "stop_name": "Delhi Bus Stop 987",
+    "stop_lat": 28.475405,
+    "stop_lon": 77.147608
+  },
+  {
+    "stop_id": "stop_0988",
+    "stop_name": "Delhi Bus Stop 988",
+    "stop_lat": 28.624401,
+    "stop_lon": 76.997362
+  },
+  {
+    "stop_id": "stop_0989",
+    "stop_name": "Delhi Bus Stop 989",
+    "stop_lat": 28.432224,
+    "stop_lon": 77.163103
+  },
+  {
+    "stop_id": "stop_0990",
+    "stop_name": "Delhi Bus Stop 990",
+    "stop_lat": 28.45295,
+    "stop_lon": 76.948993
+  },
+  {
+    "stop_id": "stop_0991",
+    "stop_name": "Delhi Bus Stop 991",
+    "stop_lat": 28.426624,
+    "stop_lon": 76.968743
+  },
+  {
+    "stop_id": "stop_0992",
+    "stop_name": "Delhi Bus Stop 992",
+    "stop_lat": 28.599417,
+    "stop_lon": 77.017238
+  },
+  {
+    "stop_id": "stop_0993",
+    "stop_name": "Delhi Bus Stop 993",
+    "stop_lat": 28.40516,
+    "stop_lon": 77.06192
+  },
+  {
+    "stop_id": "stop_0994",
+    "stop_name": "Delhi Bus Stop 994",
+    "stop_lat": 28.542236,
+    "stop_lon": 76.927611
+  },
+  {
+    "stop_id": "stop_0995",
+    "stop_name": "Delhi Bus Stop 995",
+    "stop_lat": 28.448505,
+    "stop_lon": 76.965068
+  },
+  {
+    "stop_id": "stop_0996",
+    "stop_name": "Delhi Bus Stop 996",
+    "stop_lat": 28.614038,
+    "stop_lon": 77.182388
+  },
+  {
+    "stop_id": "stop_0997",
+    "stop_name": "Delhi Bus Stop 997",
+    "stop_lat": 28.48395,
+    "stop_lon": 77.022334
+  },
+  {
+    "stop_id": "stop_0998",
+    "stop_name": "Delhi Bus Stop 998",
+    "stop_lat": 28.618033,
+    "stop_lon": 77.172343
+  },
+  {
+    "stop_id": "stop_0999",
+    "stop_name": "Delhi Bus Stop 999",
+    "stop_lat": 28.672805,
+    "stop_lon": 77.118432
+  },
+  {
+    "stop_id": "stop_1000",
+    "stop_name": "Delhi Bus Stop 1000",
+    "stop_lat": 28.482873,
+    "stop_lon": 77.03835
+  },
+  {
+    "stop_id": "stop_1001",
+    "stop_name": "Delhi Bus Stop 1001",
+    "stop_lat": 28.597097,
+    "stop_lon": 77.165574
+  },
+  {
+    "stop_id": "stop_1002",
+    "stop_name": "Delhi Bus Stop 1002",
+    "stop_lat": 28.573036,
+    "stop_lon": 77.007397
+  },
+  {
+    "stop_id": "stop_1003",
+    "stop_name": "Delhi Bus Stop 1003",
+    "stop_lat": 28.560137,
+    "stop_lon": 77.003615
+  },
+  {
+    "stop_id": "stop_1004",
+    "stop_name": "Delhi Bus Stop 1004",
+    "stop_lat": 28.421322,
+    "stop_lon": 77.099535
+  },
+  {
+    "stop_id": "stop_1005",
+    "stop_name": "Delhi Bus Stop 1005",
+    "stop_lat": 28.432196,
+    "stop_lon": 77.109126
+  },
+  {
+    "stop_id": "stop_1006",
+    "stop_name": "Delhi Bus Stop 1006",
+    "stop_lat": 28.680311,
+    "stop_lon": 76.989829
+  },
+  {
+    "stop_id": "stop_1007",
+    "stop_name": "Delhi Bus Stop 1007",
+    "stop_lat": 28.52129,
+    "stop_lon": 77.174141
+  },
+  {
+    "stop_id": "stop_1008",
+    "stop_name": "Delhi Bus Stop 1008",
+    "stop_lat": 28.435855,
+    "stop_lon": 77.098108
+  },
+  {
+    "stop_id": "stop_1009",
+    "stop_name": "Delhi Bus Stop 1009",
+    "stop_lat": 28.634549,
+    "stop_lon": 77.180289
+  },
+  {
+    "stop_id": "stop_1010",
+    "stop_name": "Delhi Bus Stop 1010",
+    "stop_lat": 28.439224,
+    "stop_lon": 77.165613
+  },
+  {
+    "stop_id": "stop_1011",
+    "stop_name": "Delhi Bus Stop 1011",
+    "stop_lat": 28.413277,
+    "stop_lon": 76.995997
+  },
+  {
+    "stop_id": "stop_1012",
+    "stop_name": "Delhi Bus Stop 1012",
+    "stop_lat": 28.694205,
+    "stop_lon": 76.99818
+  },
+  {
+    "stop_id": "stop_1013",
+    "stop_name": "Delhi Bus Stop 1013",
+    "stop_lat": 28.654541,
+    "stop_lon": 77.120947
+  },
+  {
+    "stop_id": "stop_1014",
+    "stop_name": "Delhi Bus Stop 1014",
+    "stop_lat": 28.441118,
+    "stop_lon": 77.032108
+  },
+  {
+    "stop_id": "stop_1015",
+    "stop_name": "Delhi Bus Stop 1015",
+    "stop_lat": 28.627832,
+    "stop_lon": 77.190864
+  },
+  {
+    "stop_id": "stop_1016",
+    "stop_name": "Delhi Bus Stop 1016",
+    "stop_lat": 28.497958,
+    "stop_lon": 77.147716
+  },
+  {
+    "stop_id": "stop_1017",
+    "stop_name": "Delhi Bus Stop 1017",
+    "stop_lat": 28.610648,
+    "stop_lon": 77.089271
+  },
+  {
+    "stop_id": "stop_1018",
+    "stop_name": "Delhi Bus Stop 1018",
+    "stop_lat": 28.48059,
+    "stop_lon": 77.066582
+  },
+  {
+    "stop_id": "stop_1019",
+    "stop_name": "Delhi Bus Stop 1019",
+    "stop_lat": 28.664781,
+    "stop_lon": 76.9502
+  },
+  {
+    "stop_id": "stop_1020",
+    "stop_name": "Delhi Bus Stop 1020",
+    "stop_lat": 28.470409,
+    "stop_lon": 77.100111
+  },
+  {
+    "stop_id": "stop_1021",
+    "stop_name": "Delhi Bus Stop 1021",
+    "stop_lat": 28.698066,
+    "stop_lon": 77.175395
+  },
+  {
+    "stop_id": "stop_1022",
+    "stop_name": "Delhi Bus Stop 1022",
+    "stop_lat": 28.489453,
+    "stop_lon": 77.198107
+  },
+  {
+    "stop_id": "stop_1023",
+    "stop_name": "Delhi Bus Stop 1023",
+    "stop_lat": 28.488942,
+    "stop_lon": 77.055418
+  },
+  {
+    "stop_id": "stop_1024",
+    "stop_name": "Delhi Bus Stop 1024",
+    "stop_lat": 28.614057,
+    "stop_lon": 77.099987
+  },
+  {
+    "stop_id": "stop_1025",
+    "stop_name": "Delhi Bus Stop 1025",
+    "stop_lat": 28.602948,
+    "stop_lon": 77.027448
+  },
+  {
+    "stop_id": "stop_1026",
+    "stop_name": "Delhi Bus Stop 1026",
+    "stop_lat": 28.450424,
+    "stop_lon": 77.051613
+  },
+  {
+    "stop_id": "stop_1027",
+    "stop_name": "Delhi Bus Stop 1027",
+    "stop_lat": 28.572607,
+    "stop_lon": 76.999468
+  },
+  {
+    "stop_id": "stop_1028",
+    "stop_name": "Delhi Bus Stop 1028",
+    "stop_lat": 28.49609,
+    "stop_lon": 77.12514
+  },
+  {
+    "stop_id": "stop_1029",
+    "stop_name": "Delhi Bus Stop 1029",
+    "stop_lat": 28.439442,
+    "stop_lon": 76.927119
+  },
+  {
+    "stop_id": "stop_1030",
+    "stop_name": "Delhi Bus Stop 1030",
+    "stop_lat": 28.697263,
+    "stop_lon": 77.169339
+  },
+  {
+    "stop_id": "stop_1031",
+    "stop_name": "Delhi Bus Stop 1031",
+    "stop_lat": 28.528359,
+    "stop_lon": 76.943378
+  },
+  {
+    "stop_id": "stop_1032",
+    "stop_name": "Delhi Bus Stop 1032",
+    "stop_lat": 28.651616,
+    "stop_lon": 76.952415
+  },
+  {
+    "stop_id": "stop_1033",
+    "stop_name": "Delhi Bus Stop 1033",
+    "stop_lat": 28.570474,
+    "stop_lon": 77.17627
+  },
+  {
+    "stop_id": "stop_1034",
+    "stop_name": "Delhi Bus Stop 1034",
+    "stop_lat": 28.526643,
+    "stop_lon": 77.111809
+  },
+  {
+    "stop_id": "stop_1035",
+    "stop_name": "Delhi Bus Stop 1035",
+    "stop_lat": 28.672601,
+    "stop_lon": 76.992495
+  },
+  {
+    "stop_id": "stop_1036",
+    "stop_name": "Delhi Bus Stop 1036",
+    "stop_lat": 28.57485,
+    "stop_lon": 76.997256
+  },
+  {
+    "stop_id": "stop_1037",
+    "stop_name": "Delhi Bus Stop 1037",
+    "stop_lat": 28.528598,
+    "stop_lon": 76.93689
+  },
+  {
+    "stop_id": "stop_1038",
+    "stop_name": "Delhi Bus Stop 1038",
+    "stop_lat": 28.691552,
+    "stop_lon": 76.913335
+  },
+  {
+    "stop_id": "stop_1039",
+    "stop_name": "Delhi Bus Stop 1039",
+    "stop_lat": 28.673902,
+    "stop_lon": 76.916855
+  },
+  {
+    "stop_id": "stop_1040",
+    "stop_name": "Delhi Bus Stop 1040",
+    "stop_lat": 28.429827,
+    "stop_lon": 77.132598
+  },
+  {
+    "stop_id": "stop_1041",
+    "stop_name": "Delhi Bus Stop 1041",
+    "stop_lat": 28.660523,
+    "stop_lon": 76.90129
+  },
+  {
+    "stop_id": "stop_1042",
+    "stop_name": "Delhi Bus Stop 1042",
+    "stop_lat": 28.407956,
+    "stop_lon": 77.01376
+  },
+  {
+    "stop_id": "stop_1043",
+    "stop_name": "Delhi Bus Stop 1043",
+    "stop_lat": 28.655552,
+    "stop_lon": 76.983387
+  },
+  {
+    "stop_id": "stop_1044",
+    "stop_name": "Delhi Bus Stop 1044",
+    "stop_lat": 28.662522,
+    "stop_lon": 77.015744
+  },
+  {
+    "stop_id": "stop_1045",
+    "stop_name": "Delhi Bus Stop 1045",
+    "stop_lat": 28.515733,
+    "stop_lon": 77.000514
+  },
+  {
+    "stop_id": "stop_1046",
+    "stop_name": "Delhi Bus Stop 1046",
+    "stop_lat": 28.671405,
+    "stop_lon": 76.97114
+  },
+  {
+    "stop_id": "stop_1047",
+    "stop_name": "Delhi Bus Stop 1047",
+    "stop_lat": 28.488023,
+    "stop_lon": 76.964814
+  },
+  {
+    "stop_id": "stop_1048",
+    "stop_name": "Delhi Bus Stop 1048",
+    "stop_lat": 28.483385,
+    "stop_lon": 76.978338
+  },
+  {
+    "stop_id": "stop_1049",
+    "stop_name": "Delhi Bus Stop 1049",
+    "stop_lat": 28.430459,
+    "stop_lon": 77.05911
+  },
+  {
+    "stop_id": "stop_1050",
+    "stop_name": "Delhi Bus Stop 1050",
+    "stop_lat": 28.622626,
+    "stop_lon": 77.128005
+  },
+  {
+    "stop_id": "stop_1051",
+    "stop_name": "Delhi Bus Stop 1051",
+    "stop_lat": 28.615046,
+    "stop_lon": 77.181198
+  },
+  {
+    "stop_id": "stop_1052",
+    "stop_name": "Delhi Bus Stop 1052",
+    "stop_lat": 28.690767,
+    "stop_lon": 76.949745
+  },
+  {
+    "stop_id": "stop_1053",
+    "stop_name": "Delhi Bus Stop 1053",
+    "stop_lat": 28.671653,
+    "stop_lon": 77.164742
+  },
+  {
+    "stop_id": "stop_1054",
+    "stop_name": "Delhi Bus Stop 1054",
+    "stop_lat": 28.57051,
+    "stop_lon": 77.037622
+  },
+  {
+    "stop_id": "stop_1055",
+    "stop_name": "Delhi Bus Stop 1055",
+    "stop_lat": 28.661489,
+    "stop_lon": 77.003731
+  },
+  {
+    "stop_id": "stop_1056",
+    "stop_name": "Delhi Bus Stop 1056",
+    "stop_lat": 28.461372,
+    "stop_lon": 77.069506
+  },
+  {
+    "stop_id": "stop_1057",
+    "stop_name": "Delhi Bus Stop 1057",
+    "stop_lat": 28.452746,
+    "stop_lon": 77.175147
+  },
+  {
+    "stop_id": "stop_1058",
+    "stop_name": "Delhi Bus Stop 1058",
+    "stop_lat": 28.654225,
+    "stop_lon": 77.015069
+  },
+  {
+    "stop_id": "stop_1059",
+    "stop_name": "Delhi Bus Stop 1059",
+    "stop_lat": 28.418847,
+    "stop_lon": 76.945649
+  },
+  {
+    "stop_id": "stop_1060",
+    "stop_name": "Delhi Bus Stop 1060",
+    "stop_lat": 28.604543,
+    "stop_lon": 76.90756
+  },
+  {
+    "stop_id": "stop_1061",
+    "stop_name": "Delhi Bus Stop 1061",
+    "stop_lat": 28.610194,
+    "stop_lon": 77.186765
+  },
+  {
+    "stop_id": "stop_1062",
+    "stop_name": "Delhi Bus Stop 1062",
+    "stop_lat": 28.680886,
+    "stop_lon": 77.154348
+  },
+  {
+    "stop_id": "stop_1063",
+    "stop_name": "Delhi Bus Stop 1063",
+    "stop_lat": 28.510432,
+    "stop_lon": 77.170545
+  },
+  {
+    "stop_id": "stop_1064",
+    "stop_name": "Delhi Bus Stop 1064",
+    "stop_lat": 28.421808,
+    "stop_lon": 77.052456
+  },
+  {
+    "stop_id": "stop_1065",
+    "stop_name": "Delhi Bus Stop 1065",
+    "stop_lat": 28.531121,
+    "stop_lon": 77.037926
+  },
+  {
+    "stop_id": "stop_1066",
+    "stop_name": "Delhi Bus Stop 1066",
+    "stop_lat": 28.615801,
+    "stop_lon": 76.997966
+  },
+  {
+    "stop_id": "stop_1067",
+    "stop_name": "Delhi Bus Stop 1067",
+    "stop_lat": 28.592424,
+    "stop_lon": 77.154658
+  },
+  {
+    "stop_id": "stop_1068",
+    "stop_name": "Delhi Bus Stop 1068",
+    "stop_lat": 28.549314,
+    "stop_lon": 77.013715
+  },
+  {
+    "stop_id": "stop_1069",
+    "stop_name": "Delhi Bus Stop 1069",
+    "stop_lat": 28.465149,
+    "stop_lon": 77.061191
+  },
+  {
+    "stop_id": "stop_1070",
+    "stop_name": "Delhi Bus Stop 1070",
+    "stop_lat": 28.499891,
+    "stop_lon": 77.08456
+  },
+  {
+    "stop_id": "stop_1071",
+    "stop_name": "Delhi Bus Stop 1071",
+    "stop_lat": 28.407738,
+    "stop_lon": 77.195866
+  },
+  {
+    "stop_id": "stop_1072",
+    "stop_name": "Delhi Bus Stop 1072",
+    "stop_lat": 28.406062,
+    "stop_lon": 77.177634
+  },
+  {
+    "stop_id": "stop_1073",
+    "stop_name": "Delhi Bus Stop 1073",
+    "stop_lat": 28.593744,
+    "stop_lon": 76.940626
+  },
+  {
+    "stop_id": "stop_1074",
+    "stop_name": "Delhi Bus Stop 1074",
+    "stop_lat": 28.567055,
+    "stop_lon": 77.077758
+  },
+  {
+    "stop_id": "stop_1075",
+    "stop_name": "Delhi Bus Stop 1075",
+    "stop_lat": 28.698269,
+    "stop_lon": 77.109804
+  },
+  {
+    "stop_id": "stop_1076",
+    "stop_name": "Delhi Bus Stop 1076",
+    "stop_lat": 28.593079,
+    "stop_lon": 76.986503
+  },
+  {
+    "stop_id": "stop_1077",
+    "stop_name": "Delhi Bus Stop 1077",
+    "stop_lat": 28.441643,
+    "stop_lon": 77.087979
+  },
+  {
+    "stop_id": "stop_1078",
+    "stop_name": "Delhi Bus Stop 1078",
+    "stop_lat": 28.568216,
+    "stop_lon": 77.117378
+  },
+  {
+    "stop_id": "stop_1079",
+    "stop_name": "Delhi Bus Stop 1079",
+    "stop_lat": 28.619821,
+    "stop_lon": 77.177889
+  },
+  {
+    "stop_id": "stop_1080",
+    "stop_name": "Delhi Bus Stop 1080",
+    "stop_lat": 28.650893,
+    "stop_lon": 77.010327
+  },
+  {
+    "stop_id": "stop_1081",
+    "stop_name": "Delhi Bus Stop 1081",
+    "stop_lat": 28.632853,
+    "stop_lon": 77.1288
+  },
+  {
+    "stop_id": "stop_1082",
+    "stop_name": "Delhi Bus Stop 1082",
+    "stop_lat": 28.542232,
+    "stop_lon": 77.102527
+  },
+  {
+    "stop_id": "stop_1083",
+    "stop_name": "Delhi Bus Stop 1083",
+    "stop_lat": 28.611275,
+    "stop_lon": 76.90224
+  },
+  {
+    "stop_id": "stop_1084",
+    "stop_name": "Delhi Bus Stop 1084",
+    "stop_lat": 28.511321,
+    "stop_lon": 76.99324
+  },
+  {
+    "stop_id": "stop_1085",
+    "stop_name": "Delhi Bus Stop 1085",
+    "stop_lat": 28.673025,
+    "stop_lon": 77.180425
+  },
+  {
+    "stop_id": "stop_1086",
+    "stop_name": "Delhi Bus Stop 1086",
+    "stop_lat": 28.653189,
+    "stop_lon": 77.154446
+  },
+  {
+    "stop_id": "stop_1087",
+    "stop_name": "Delhi Bus Stop 1087",
+    "stop_lat": 28.664142,
+    "stop_lon": 77.12957
+  },
+  {
+    "stop_id": "stop_1088",
+    "stop_name": "Delhi Bus Stop 1088",
+    "stop_lat": 28.602197,
+    "stop_lon": 77.017535
+  },
+  {
+    "stop_id": "stop_1089",
+    "stop_name": "Delhi Bus Stop 1089",
+    "stop_lat": 28.654853,
+    "stop_lon": 77.133883
+  },
+  {
+    "stop_id": "stop_1090",
+    "stop_name": "Delhi Bus Stop 1090",
+    "stop_lat": 28.485526,
+    "stop_lon": 77.123634
+  },
+  {
+    "stop_id": "stop_1091",
+    "stop_name": "Delhi Bus Stop 1091",
+    "stop_lat": 28.660616,
+    "stop_lon": 77.026656
+  },
+  {
+    "stop_id": "stop_1092",
+    "stop_name": "Delhi Bus Stop 1092",
+    "stop_lat": 28.487745,
+    "stop_lon": 77.040911
+  },
+  {
+    "stop_id": "stop_1093",
+    "stop_name": "Delhi Bus Stop 1093",
+    "stop_lat": 28.469337,
+    "stop_lon": 77.184028
+  },
+  {
+    "stop_id": "stop_1094",
+    "stop_name": "Delhi Bus Stop 1094",
+    "stop_lat": 28.655522,
+    "stop_lon": 77.086902
+  },
+  {
+    "stop_id": "stop_1095",
+    "stop_name": "Delhi Bus Stop 1095",
+    "stop_lat": 28.539417,
+    "stop_lon": 77.072937
+  },
+  {
+    "stop_id": "stop_1096",
+    "stop_name": "Delhi Bus Stop 1096",
+    "stop_lat": 28.670872,
+    "stop_lon": 77.195164
+  },
+  {
+    "stop_id": "stop_1097",
+    "stop_name": "Delhi Bus Stop 1097",
+    "stop_lat": 28.610959,
+    "stop_lon": 77.061259
+  },
+  {
+    "stop_id": "stop_1098",
+    "stop_name": "Delhi Bus Stop 1098",
+    "stop_lat": 28.544228,
+    "stop_lon": 77.103553
+  },
+  {
+    "stop_id": "stop_1099",
+    "stop_name": "Delhi Bus Stop 1099",
+    "stop_lat": 28.572042,
+    "stop_lon": 77.112599
+  },
+  {
+    "stop_id": "stop_1100",
+    "stop_name": "Delhi Bus Stop 1100",
+    "stop_lat": 28.481544,
+    "stop_lon": 77.068385
+  },
+  {
+    "stop_id": "stop_1101",
+    "stop_name": "Delhi Bus Stop 1101",
+    "stop_lat": 28.648873,
+    "stop_lon": 77.129199
+  },
+  {
+    "stop_id": "stop_1102",
+    "stop_name": "Delhi Bus Stop 1102",
+    "stop_lat": 28.40692,
+    "stop_lon": 77.131076
+  },
+  {
+    "stop_id": "stop_1103",
+    "stop_name": "Delhi Bus Stop 1103",
+    "stop_lat": 28.550592,
+    "stop_lon": 77.148971
+  },
+  {
+    "stop_id": "stop_1104",
+    "stop_name": "Delhi Bus Stop 1104",
+    "stop_lat": 28.449713,
+    "stop_lon": 77.186013
+  },
+  {
+    "stop_id": "stop_1105",
+    "stop_name": "Delhi Bus Stop 1105",
+    "stop_lat": 28.630227,
+    "stop_lon": 77.067792
+  },
+  {
+    "stop_id": "stop_1106",
+    "stop_name": "Delhi Bus Stop 1106",
+    "stop_lat": 28.503338,
+    "stop_lon": 77.13615
+  },
+  {
+    "stop_id": "stop_1107",
+    "stop_name": "Delhi Bus Stop 1107",
+    "stop_lat": 28.513869,
+    "stop_lon": 76.979005
+  },
+  {
+    "stop_id": "stop_1108",
+    "stop_name": "Delhi Bus Stop 1108",
+    "stop_lat": 28.510061,
+    "stop_lon": 76.932825
+  },
+  {
+    "stop_id": "stop_1109",
+    "stop_name": "Delhi Bus Stop 1109",
+    "stop_lat": 28.61555,
+    "stop_lon": 76.960177
+  },
+  {
+    "stop_id": "stop_1110",
+    "stop_name": "Delhi Bus Stop 1110",
+    "stop_lat": 28.641615,
+    "stop_lon": 77.01822
+  },
+  {
+    "stop_id": "stop_1111",
+    "stop_name": "Delhi Bus Stop 1111",
+    "stop_lat": 28.619402,
+    "stop_lon": 76.911555
+  },
+  {
+    "stop_id": "stop_1112",
+    "stop_name": "Delhi Bus Stop 1112",
+    "stop_lat": 28.416093,
+    "stop_lon": 76.995604
+  },
+  {
+    "stop_id": "stop_1113",
+    "stop_name": "Delhi Bus Stop 1113",
+    "stop_lat": 28.571459,
+    "stop_lon": 77.019522
+  },
+  {
+    "stop_id": "stop_1114",
+    "stop_name": "Delhi Bus Stop 1114",
+    "stop_lat": 28.639595,
+    "stop_lon": 76.977412
+  },
+  {
+    "stop_id": "stop_1115",
+    "stop_name": "Delhi Bus Stop 1115",
+    "stop_lat": 28.482533,
+    "stop_lon": 76.985721
+  },
+  {
+    "stop_id": "stop_1116",
+    "stop_name": "Delhi Bus Stop 1116",
+    "stop_lat": 28.598057,
+    "stop_lon": 76.950221
+  },
+  {
+    "stop_id": "stop_1117",
+    "stop_name": "Delhi Bus Stop 1117",
+    "stop_lat": 28.544524,
+    "stop_lon": 76.983393
+  },
+  {
+    "stop_id": "stop_1118",
+    "stop_name": "Delhi Bus Stop 1118",
+    "stop_lat": 28.663351,
+    "stop_lon": 77.023198
+  },
+  {
+    "stop_id": "stop_1119",
+    "stop_name": "Delhi Bus Stop 1119",
+    "stop_lat": 28.470555,
+    "stop_lon": 76.974827
+  },
+  {
+    "stop_id": "stop_1120",
+    "stop_name": "Delhi Bus Stop 1120",
+    "stop_lat": 28.627275,
+    "stop_lon": 76.938488
+  },
+  {
+    "stop_id": "stop_1121",
+    "stop_name": "Delhi Bus Stop 1121",
+    "stop_lat": 28.562178,
+    "stop_lon": 77.137408
+  },
+  {
+    "stop_id": "stop_1122",
+    "stop_name": "Delhi Bus Stop 1122",
+    "stop_lat": 28.628944,
+    "stop_lon": 77.191052
+  },
+  {
+    "stop_id": "stop_1123",
+    "stop_name": "Delhi Bus Stop 1123",
+    "stop_lat": 28.652992,
+    "stop_lon": 76.907607
+  },
+  {
+    "stop_id": "stop_1124",
+    "stop_name": "Delhi Bus Stop 1124",
+    "stop_lat": 28.685751,
+    "stop_lon": 77.164555
+  },
+  {
+    "stop_id": "stop_1125",
+    "stop_name": "Delhi Bus Stop 1125",
+    "stop_lat": 28.480782,
+    "stop_lon": 76.904063
+  },
+  {
+    "stop_id": "stop_1126",
+    "stop_name": "Delhi Bus Stop 1126",
+    "stop_lat": 28.636269,
+    "stop_lon": 77.177193
+  },
+  {
+    "stop_id": "stop_1127",
+    "stop_name": "Delhi Bus Stop 1127",
+    "stop_lat": 28.465564,
+    "stop_lon": 76.90734
+  },
+  {
+    "stop_id": "stop_1128",
+    "stop_name": "Delhi Bus Stop 1128",
+    "stop_lat": 28.426933,
+    "stop_lon": 76.954079
+  },
+  {
+    "stop_id": "stop_1129",
+    "stop_name": "Delhi Bus Stop 1129",
+    "stop_lat": 28.488435,
+    "stop_lon": 77.047321
+  },
+  {
+    "stop_id": "stop_1130",
+    "stop_name": "Delhi Bus Stop 1130",
+    "stop_lat": 28.650679,
+    "stop_lon": 76.970068
+  },
+  {
+    "stop_id": "stop_1131",
+    "stop_name": "Delhi Bus Stop 1131",
+    "stop_lat": 28.596224,
+    "stop_lon": 77.19654
+  },
+  {
+    "stop_id": "stop_1132",
+    "stop_name": "Delhi Bus Stop 1132",
+    "stop_lat": 28.539526,
+    "stop_lon": 77.070713
+  },
+  {
+    "stop_id": "stop_1133",
+    "stop_name": "Delhi Bus Stop 1133",
+    "stop_lat": 28.445938,
+    "stop_lon": 77.154012
+  },
+  {
+    "stop_id": "stop_1134",
+    "stop_name": "Delhi Bus Stop 1134",
+    "stop_lat": 28.406502,
+    "stop_lon": 77.108846
+  },
+  {
+    "stop_id": "stop_1135",
+    "stop_name": "Delhi Bus Stop 1135",
+    "stop_lat": 28.645436,
+    "stop_lon": 77.177637
+  },
+  {
+    "stop_id": "stop_1136",
+    "stop_name": "Delhi Bus Stop 1136",
+    "stop_lat": 28.527975,
+    "stop_lon": 77.119804
+  },
+  {
+    "stop_id": "stop_1137",
+    "stop_name": "Delhi Bus Stop 1137",
+    "stop_lat": 28.63044,
+    "stop_lon": 76.976108
+  },
+  {
+    "stop_id": "stop_1138",
+    "stop_name": "Delhi Bus Stop 1138",
+    "stop_lat": 28.465195,
+    "stop_lon": 77.022152
+  },
+  {
+    "stop_id": "stop_1139",
+    "stop_name": "Delhi Bus Stop 1139",
+    "stop_lat": 28.590595,
+    "stop_lon": 76.932256
+  },
+  {
+    "stop_id": "stop_1140",
+    "stop_name": "Delhi Bus Stop 1140",
+    "stop_lat": 28.610634,
+    "stop_lon": 77.170227
+  },
+  {
+    "stop_id": "stop_1141",
+    "stop_name": "Delhi Bus Stop 1141",
+    "stop_lat": 28.594051,
+    "stop_lon": 76.93454
+  },
+  {
+    "stop_id": "stop_1142",
+    "stop_name": "Delhi Bus Stop 1142",
+    "stop_lat": 28.668735,
+    "stop_lon": 77.031078
+  },
+  {
+    "stop_id": "stop_1143",
+    "stop_name": "Delhi Bus Stop 1143",
+    "stop_lat": 28.612372,
+    "stop_lon": 77.060225
+  },
+  {
+    "stop_id": "stop_1144",
+    "stop_name": "Delhi Bus Stop 1144",
+    "stop_lat": 28.607803,
+    "stop_lon": 77.066426
+  },
+  {
+    "stop_id": "stop_1145",
+    "stop_name": "Delhi Bus Stop 1145",
+    "stop_lat": 28.59522,
+    "stop_lon": 76.956653
+  },
+  {
+    "stop_id": "stop_1146",
+    "stop_name": "Delhi Bus Stop 1146",
+    "stop_lat": 28.428408,
+    "stop_lon": 77.022643
+  },
+  {
+    "stop_id": "stop_1147",
+    "stop_name": "Delhi Bus Stop 1147",
+    "stop_lat": 28.679876,
+    "stop_lon": 77.074375
+  },
+  {
+    "stop_id": "stop_1148",
+    "stop_name": "Delhi Bus Stop 1148",
+    "stop_lat": 28.68648,
+    "stop_lon": 77.141667
+  },
+  {
+    "stop_id": "stop_1149",
+    "stop_name": "Delhi Bus Stop 1149",
+    "stop_lat": 28.678813,
+    "stop_lon": 77.080197
+  },
+  {
+    "stop_id": "stop_1150",
+    "stop_name": "Delhi Bus Stop 1150",
+    "stop_lat": 28.533937,
+    "stop_lon": 76.956116
+  },
+  {
+    "stop_id": "stop_1151",
+    "stop_name": "Delhi Bus Stop 1151",
+    "stop_lat": 28.500003,
+    "stop_lon": 77.142027
+  },
+  {
+    "stop_id": "stop_1152",
+    "stop_name": "Delhi Bus Stop 1152",
+    "stop_lat": 28.675332,
+    "stop_lon": 76.923861
+  },
+  {
+    "stop_id": "stop_1153",
+    "stop_name": "Delhi Bus Stop 1153",
+    "stop_lat": 28.585809,
+    "stop_lon": 77.025775
+  },
+  {
+    "stop_id": "stop_1154",
+    "stop_name": "Delhi Bus Stop 1154",
+    "stop_lat": 28.588514,
+    "stop_lon": 76.931973
+  },
+  {
+    "stop_id": "stop_1155",
+    "stop_name": "Delhi Bus Stop 1155",
+    "stop_lat": 28.528522,
+    "stop_lon": 76.970311
+  },
+  {
+    "stop_id": "stop_1156",
+    "stop_name": "Delhi Bus Stop 1156",
+    "stop_lat": 28.457981,
+    "stop_lon": 77.091996
+  },
+  {
+    "stop_id": "stop_1157",
+    "stop_name": "Delhi Bus Stop 1157",
+    "stop_lat": 28.622727,
+    "stop_lon": 77.107775
+  },
+  {
+    "stop_id": "stop_1158",
+    "stop_name": "Delhi Bus Stop 1158",
+    "stop_lat": 28.693663,
+    "stop_lon": 77.057538
+  },
+  {
+    "stop_id": "stop_1159",
+    "stop_name": "Delhi Bus Stop 1159",
+    "stop_lat": 28.46397,
+    "stop_lon": 76.950398
+  },
+  {
+    "stop_id": "stop_1160",
+    "stop_name": "Delhi Bus Stop 1160",
+    "stop_lat": 28.53354,
+    "stop_lon": 76.951819
+  },
+  {
+    "stop_id": "stop_1161",
+    "stop_name": "Delhi Bus Stop 1161",
+    "stop_lat": 28.593285,
+    "stop_lon": 77.055148
+  },
+  {
+    "stop_id": "stop_1162",
+    "stop_name": "Delhi Bus Stop 1162",
+    "stop_lat": 28.519472,
+    "stop_lon": 77.189169
+  },
+  {
+    "stop_id": "stop_1163",
+    "stop_name": "Delhi Bus Stop 1163",
+    "stop_lat": 28.631666,
+    "stop_lon": 77.105432
+  },
+  {
+    "stop_id": "stop_1164",
+    "stop_name": "Delhi Bus Stop 1164",
+    "stop_lat": 28.620026,
+    "stop_lon": 77.090907
+  },
+  {
+    "stop_id": "stop_1165",
+    "stop_name": "Delhi Bus Stop 1165",
+    "stop_lat": 28.464177,
+    "stop_lon": 77.081408
+  },
+  {
+    "stop_id": "stop_1166",
+    "stop_name": "Delhi Bus Stop 1166",
+    "stop_lat": 28.546504,
+    "stop_lon": 77.159329
+  },
+  {
+    "stop_id": "stop_1167",
+    "stop_name": "Delhi Bus Stop 1167",
+    "stop_lat": 28.554392,
+    "stop_lon": 76.925279
+  },
+  {
+    "stop_id": "stop_1168",
+    "stop_name": "Delhi Bus Stop 1168",
+    "stop_lat": 28.609637,
+    "stop_lon": 77.019679
+  },
+  {
+    "stop_id": "stop_1169",
+    "stop_name": "Delhi Bus Stop 1169",
+    "stop_lat": 28.524899,
+    "stop_lon": 77.18678
+  },
+  {
+    "stop_id": "stop_1170",
+    "stop_name": "Delhi Bus Stop 1170",
+    "stop_lat": 28.424397,
+    "stop_lon": 76.988582
+  },
+  {
+    "stop_id": "stop_1171",
+    "stop_name": "Delhi Bus Stop 1171",
+    "stop_lat": 28.697958,
+    "stop_lon": 77.007977
+  },
+  {
+    "stop_id": "stop_1172",
+    "stop_name": "Delhi Bus Stop 1172",
+    "stop_lat": 28.488533,
+    "stop_lon": 76.912611
+  },
+  {
+    "stop_id": "stop_1173",
+    "stop_name": "Delhi Bus Stop 1173",
+    "stop_lat": 28.699387,
+    "stop_lon": 76.958422
+  },
+  {
+    "stop_id": "stop_1174",
+    "stop_name": "Delhi Bus Stop 1174",
+    "stop_lat": 28.655262,
+    "stop_lon": 77.088596
+  },
+  {
+    "stop_id": "stop_1175",
+    "stop_name": "Delhi Bus Stop 1175",
+    "stop_lat": 28.622615,
+    "stop_lon": 77.119333
+  },
+  {
+    "stop_id": "stop_1176",
+    "stop_name": "Delhi Bus Stop 1176",
+    "stop_lat": 28.679122,
+    "stop_lon": 77.051962
+  },
+  {
+    "stop_id": "stop_1177",
+    "stop_name": "Delhi Bus Stop 1177",
+    "stop_lat": 28.419948,
+    "stop_lon": 76.905157
+  },
+  {
+    "stop_id": "stop_1178",
+    "stop_name": "Delhi Bus Stop 1178",
+    "stop_lat": 28.489876,
+    "stop_lon": 76.913518
+  },
+  {
+    "stop_id": "stop_1179",
+    "stop_name": "Delhi Bus Stop 1179",
+    "stop_lat": 28.404851,
+    "stop_lon": 77.199915
+  },
+  {
+    "stop_id": "stop_1180",
+    "stop_name": "Delhi Bus Stop 1180",
+    "stop_lat": 28.659163,
+    "stop_lon": 76.948256
+  },
+  {
+    "stop_id": "stop_1181",
+    "stop_name": "Delhi Bus Stop 1181",
+    "stop_lat": 28.548008,
+    "stop_lon": 77.140503
+  },
+  {
+    "stop_id": "stop_1182",
+    "stop_name": "Delhi Bus Stop 1182",
+    "stop_lat": 28.699061,
+    "stop_lon": 77.026137
+  },
+  {
+    "stop_id": "stop_1183",
+    "stop_name": "Delhi Bus Stop 1183",
+    "stop_lat": 28.621855,
+    "stop_lon": 77.179386
+  },
+  {
+    "stop_id": "stop_1184",
+    "stop_name": "Delhi Bus Stop 1184",
+    "stop_lat": 28.498443,
+    "stop_lon": 76.991929
+  },
+  {
+    "stop_id": "stop_1185",
+    "stop_name": "Delhi Bus Stop 1185",
+    "stop_lat": 28.440118,
+    "stop_lon": 77.04562
+  },
+  {
+    "stop_id": "stop_1186",
+    "stop_name": "Delhi Bus Stop 1186",
+    "stop_lat": 28.664479,
+    "stop_lon": 76.961292
+  },
+  {
+    "stop_id": "stop_1187",
+    "stop_name": "Delhi Bus Stop 1187",
+    "stop_lat": 28.419012,
+    "stop_lon": 77.053961
+  },
+  {
+    "stop_id": "stop_1188",
+    "stop_name": "Delhi Bus Stop 1188",
+    "stop_lat": 28.66367,
+    "stop_lon": 77.015148
+  },
+  {
+    "stop_id": "stop_1189",
+    "stop_name": "Delhi Bus Stop 1189",
+    "stop_lat": 28.463121,
+    "stop_lon": 77.10869
+  },
+  {
+    "stop_id": "stop_1190",
+    "stop_name": "Delhi Bus Stop 1190",
+    "stop_lat": 28.622094,
+    "stop_lon": 76.921186
+  },
+  {
+    "stop_id": "stop_1191",
+    "stop_name": "Delhi Bus Stop 1191",
+    "stop_lat": 28.46033,
+    "stop_lon": 77.036565
+  },
+  {
+    "stop_id": "stop_1192",
+    "stop_name": "Delhi Bus Stop 1192",
+    "stop_lat": 28.648189,
+    "stop_lon": 77.174141
+  },
+  {
+    "stop_id": "stop_1193",
+    "stop_name": "Delhi Bus Stop 1193",
+    "stop_lat": 28.450588,
+    "stop_lon": 76.978868
+  },
+  {
+    "stop_id": "stop_1194",
+    "stop_name": "Delhi Bus Stop 1194",
+    "stop_lat": 28.455197,
+    "stop_lon": 77.148246
+  },
+  {
+    "stop_id": "stop_1195",
+    "stop_name": "Delhi Bus Stop 1195",
+    "stop_lat": 28.681201,
+    "stop_lon": 77.022041
+  },
+  {
+    "stop_id": "stop_1196",
+    "stop_name": "Delhi Bus Stop 1196",
+    "stop_lat": 28.460491,
+    "stop_lon": 77.059797
+  },
+  {
+    "stop_id": "stop_1197",
+    "stop_name": "Delhi Bus Stop 1197",
+    "stop_lat": 28.564951,
+    "stop_lon": 77.148433
+  },
+  {
+    "stop_id": "stop_1198",
+    "stop_name": "Delhi Bus Stop 1198",
+    "stop_lat": 28.480809,
+    "stop_lon": 77.061336
+  },
+  {
+    "stop_id": "stop_1199",
+    "stop_name": "Delhi Bus Stop 1199",
+    "stop_lat": 28.550589,
+    "stop_lon": 76.91477
+  },
+  {
+    "stop_id": "stop_1200",
+    "stop_name": "Delhi Bus Stop 1200",
+    "stop_lat": 28.59491,
+    "stop_lon": 77.110722
+  }
+]
