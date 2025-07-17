@@ -1,0 +1,58 @@
+[
+  {
+    "stop_id": "DEL0010",
+    "stop_name": "IP Extension",
+    "stop_lat": 28.6285,
+    "stop_lon": 77.306,
+    "zone": "East"
+  },
+  {
+    "stop_id": "DEL0002",
+    "stop_name": "Karol Bagh",
+    "stop_lat": 28.651,
+    "stop_lon": 77.19,
+    "zone": "West"
+  },
+  {
+    "stop_id": "DEL0012",
+    "stop_name": "Preet Vihar",
+    "stop_lat": 28.6326,
+    "stop_lon": 77.2956,
+    "zone": "East"
+  },
+  {
+    "stop_id": "DEL0011",
+    "stop_name": "Shakarpur",
+    "stop_lat": 28.6231,
+    "stop_lon": 77.2889,
+    "zone": "East"
+  },
+  {
+    "stop_id": "DEL0009",
+    "stop_name": "Hauz Khas",
+    "stop_lat": 28.5494,
+    "stop_lon": 77.2001,
+    "zone": "South"
+  },
+  {
+    "stop_id": "DEL0007",
+    "stop_name": "Lajpat Nagar",
+    "stop_lat": 28.57,
+    "stop_lon": 77.243,
+    "zone": "South"
+  },
+  {
+    "stop_id": "DEL0013",
+    "stop_name": "Saket",
+    "stop_lat": 28.5224,
+    "stop_lon": 77.207,
+    "zone": "South"
+  },
+  {
+    "stop_id": "DEL0005",
+    "stop_name": "Kashmere Gate",
+    "stop_lat": 28.667,
+    "stop_lon": 77.2273,
+    "zone": "North"
+  }
+]
