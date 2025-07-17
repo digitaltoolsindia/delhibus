@@ -1,0 +1,65 @@
+[
+  {
+    "stop_id": "DEL0014",
+    "stop_name": "Malviya Nagar",
+    "stop_lat": 28.5355,
+    "stop_lon": 77.2131,
+    "zone": "South"
+  },
+  {
+    "stop_id": "DEL0006",
+    "stop_name": "Punjabi Bagh",
+    "stop_lat": 28.6667,
+    "stop_lon": 77.1303,
+    "zone": "West"
+  },
+  {
+    "stop_id": "DEL0015",
+    "stop_name": "Laxmi Nagar",
+    "stop_lat": 28.6092,
+    "stop_lon": 77.277,
+    "zone": "East"
+  },
+  {
+    "stop_id": "DEL0022",
+    "stop_name": "Mandi House",
+    "stop_lat": 28.6256,
+    "stop_lon": 77.2343,
+    "zone": "Central"
+  },
+  {
+    "stop_id": "DEL0008",
+    "stop_name": "Tilak Nagar",
+    "stop_lat": 28.6416,
+    "stop_lon": 77.1038,
+    "zone": "West"
+  },
+  {
+    "stop_id": "DEL0013",
+    "stop_name": "Civil Lines",
+    "stop_lat": 28.6825,
+    "stop_lon": 77.2245,
+    "zone": "North"
+  },
+  {
+    "stop_id": "DEL0018",
+    "stop_name": "Mayur Vihar Phase 1",
+    "stop_lat": 28.5896,
+    "stop_lon": 77.2925,
+    "zone": "East"
+  },
+  {
+    "stop_id": "DEL0001",
+    "stop_name": "Janakpuri West",
+    "stop_lat": 28.6217,
+    "stop_lon": 77.0901,
+    "zone": "West"
+  },
+  {
+    "stop_id": "DEL0004",
+    "stop_name": "AIIMS",
+    "stop_lat": 28.5665,
+    "stop_lon": 77.21,
+    "zone": "South"
+  }
+]
