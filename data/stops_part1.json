@@ -1,0 +1,65 @@
+[
+  {
+    "stop_id": "DEL0003",
+    "stop_name": "Paschim Vihar",
+    "stop_lat": 28.6756,
+    "stop_lon": 77.1025,
+    "zone": "West"
+  },
+  {
+    "stop_id": "DEL0012",
+    "stop_name": "Burari",
+    "stop_lat": 28.7383,
+    "stop_lon": 77.2091,
+    "zone": "North"
+  },
+  {
+    "stop_id": "DEL0019",
+    "stop_name": "Connaught Place",
+    "stop_lat": 28.6315,
+    "stop_lon": 77.2167,
+    "zone": "Central"
+  },
+  {
+    "stop_id": "DEL0016",
+    "stop_name": "Rajiv Chowk",
+    "stop_lat": 28.6328,
+    "stop_lon": 77.2197,
+    "zone": "Central"
+  },
+  {
+    "stop_id": "DEL0011",
+    "stop_name": "Mukherjee Nagar",
+    "stop_lat": 28.6972,
+    "stop_lon": 77.2102,
+    "zone": "North"
+  },
+  {
+    "stop_id": "DEL0020",
+    "stop_name": "New Delhi Railway Station",
+    "stop_lat": 28.6448,
+    "stop_lon": 77.2166,
+    "zone": "Central"
+  },
+  {
+    "stop_id": "DEL0005",
+    "stop_name": "Rajouri Garden",
+    "stop_lat": 28.644,
+    "stop_lon": 77.1235,
+    "zone": "West"
+  },
+  {
+    "stop_id": "DEL0010",
+    "stop_name": "Model Town",
+    "stop_lat": 28.7092,
+    "stop_lon": 77.1887,
+    "zone": "North"
+  },
+  {
+    "stop_id": "DEL0017",
+    "stop_name": "Barakhamba Road",
+    "stop_lat": 28.63,
+    "stop_lon": 77.2214,
+    "zone": "Central"
+  }
+]
